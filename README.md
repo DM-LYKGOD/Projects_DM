@@ -7,3 +7,4 @@
 6. ACP5: Reaction & Transport Phenomenon
 7. GIS: Read river network and calculate shortest distances perpendicular and along the river lines
 8. GEO 1B: The Effect of Altered Environmental Temperature on Species Predation in a Limiting Similarity Model
+9. Extract Bills information by an OCR model and LLM 
