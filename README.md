@@ -1,4 +1,4 @@
-# RPTU Projects
+# Projects
 1. ACP5: Reaction & Transport Phenomenon
 2. ACP5: Reaction & Transport Phenomenon
 3. ACP5: Reaction & Transport Phenomenon
