@@ -4,7 +4,11 @@ Welcome to my repository of analytical, environmental, and data science projects
 
 ## 📁 Project Overview
 
-Below is the core list of the 10 projects included in this repository:
+Below is the core list of the 11 projects included in this repository:
+
+### 🎓 Master's Thesis 2025: Phytoplankton Density Prediction (Python)
+*   **Project 11: Master Thesis 2025**
+    Comprehensive predictive modeling pipeline mapping the densities and growth rates of 58 species of phytoplankton in Greifensee. Utilizes advanced machine learning models (Random Forest, XGBoost, Hybrid architecture) coupled with ablation studies on environmental and engineered temporal predictors.
 
 ### 🌍 Environmental & Ecosystem Modeling (R)
 *   **Project 1: Conceptual Model Lake Eutrophication** 
@@ -40,7 +44,7 @@ Below is the core list of the 10 projects included in this repository:
 
 ## 🛠️ Technologies & Tools Used
 *   **R & RStudio**: Heavily utilized for ecological modeling, differential equations, and reaction kinetics (Projects 1-8).
-*   **Python (Jupyter Notebook, Pandas, LLM APIs)**: Used for data parsing, OCR, and artificial intelligence integration (Project 9).
+*   **Python (Jupyter Notebook, Pandas, scikit-learn, XGBoost, LLM APIs)**: Used for robust predictive modeling, data parsing, OCR, and AI integrations (Projects 9 & 11).
 *   **Mathematical Modeling**: Ordinary Differential Equations (ODEs), Sensitivity Analysis, Spatial/GIS operations.
 *   **Econometrics**: Statistical modeling and data analysis (Project 10).
 
