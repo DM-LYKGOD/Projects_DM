@@ -7,8 +7,6 @@ This repository is organized as a technical portfolio spanning environmental mod
 ```text
 projects/
   01-lake-eutrophication-model/
-  02-mathematical-formulations/
-  03-parameter-sensitivity-analysis/
   04-autocatalytic-reaction-cstr/
   05-population-equilibrium-growth-rate/
   06-sediment-oxygen-dynamics/
@@ -40,8 +38,6 @@ projects/
 | Project | Focus Area | Stack | Entry Point |
 | --- | --- | --- | --- |
 | [01 Lake Eutrophication Model](projects/01-lake-eutrophication-model/README.md) | Lake nutrient and food-web dynamics with supporting conceptual analyses | R, `deSolve`, `ggplot2` | `src/lake_eutrophication_model.R` |
-| [02 Mathematical Formulations](projects/02-mathematical-formulations/README.md) | Merged into Project 01 | R | `merged into Project 01` |
-| [03 Parameter Sensitivity Analysis](projects/03-parameter-sensitivity-analysis/README.md) | Merged into Project 01 | R | `merged into Project 01` |
 | [04 Autocatalytic Reaction CSTR](projects/04-autocatalytic-reaction-cstr/README.md) | Flow-through stirred tank kinetics | R | `src/autocatalytic_reaction_cstr.R` |
 | [05 Population Equilibrium vs Growth Rate](projects/05-population-equilibrium-growth-rate/README.md) | Periodicity and equilibrium response | R | `src/population_equilibrium_growth_rate.R` |
 | [06 Sediment Oxygen Dynamics](projects/06-sediment-oxygen-dynamics/README.md) | Oxygen transport and consumption in sediment | R | `src/sediment_oxygen_dynamics.R` |
