@@ -40,7 +40,7 @@ The following project entry points were executed in this workspace on March 13, 
 - `projects/10-carbon-budget-cdr-modeling/src/carbon_budget_optimal_control.py` ran successfully after installing `gekko` and generated `outputs/carbon_budget_optimal_control.png`.
 - `projects/11-cement-emissions-analysis/src/pollution_regression_analysis.py` and `projects/11-cement-emissions-analysis/src/cement_cluster_analysis.py` ran successfully on the checked-in transformed dataset, producing `PM2.5 R2 = 0.9757`, `NO2 R2 = 0.9836`, and a clustering stability summary of `383` stable regions versus `18` volatile regions.
 
-Across the validated runs, engineered lag and rolling-window growth features accounted for the largest share of feature importance in the Random Forest results from the phytoplankton thesis pipeline.
+
 
 ## Project Index
 
