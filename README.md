@@ -60,7 +60,7 @@ projects/
 - Thesis assets are separated into `data/`, `outputs/`, and `reports/`.
 - Secrets should be supplied through environment variables, never hardcoded into notebooks or scripts.
 - READMEs summarize results and usage, but they should not be used as raw execution logs.
-- Detailed workspace-level consolidation notes live in `docs/WORKSPACE_DOCUMENTATION.md`.
+
 
 ## Author
 
