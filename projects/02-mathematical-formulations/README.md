@@ -1,13 +1,13 @@
 # Mathematical Formulations
 
-## Overview
+## Status
 
-Applied mathematical modeling exercise focused on interpreting and simulating system behavior from formal equations.
+This script has been merged into the lake eutrophication project.
 
-## Stack
+## Reason
 
-- R
+The original logistic-growth reference curve is now maintained inside:
 
-## Run
+- `../01-lake-eutrophication-model/src/lake_eutrophication_model.R`
 
-Execute `src/mathematical_formulations.R` with `Rscript` or from an R session.
+Keeping it separate no longer added value because it functions as a supporting conceptual plot rather than a standalone project.

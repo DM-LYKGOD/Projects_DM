@@ -1,13 +1,13 @@
 # Parameter Sensitivity Analysis
 
-## Overview
+## Status
 
-R project exploring how a single model behaves under several parameter settings and how those changes affect stability and response.
+This script has been merged into the lake eutrophication project.
 
-## Stack
+## Reason
 
-- R
+The original half-saturation sensitivity analysis is now maintained inside:
 
-## Run
+- `../01-lake-eutrophication-model/src/lake_eutrophication_model.R`
 
-Execute `src/parameter_sensitivity_analysis.R` with `Rscript` or from an R session.
+It is better treated as a supporting nutrient-uptake analysis than as a separate project folder.
