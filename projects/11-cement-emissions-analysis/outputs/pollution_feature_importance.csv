@@ -1,0 +1,35 @@
+feature,importance
+Code_encoded,0.9608491601553563
+Population Density (Einwohner je km2),0.021076075827713918
+Year,0.00862755685132576
+Heating Degree Days,0.0009620799789569631
+Rurality,0.0009404989522613219
+Prep,0.0009350491415946654
+Degree of Urbanization,0.0008412697177681028
+Percentage of forest area,0.0007538264904223313
+Temperature,0.0006311900001692848
+"Passenger cars per 1,000 inhabitants",0.000520378661866597
+Waste_per_inhabitant,0.0005181764462064804
+Share of agricultural land,0.0003483970209184899
+Anteil naturnähere Fläche an der Fläche in %,0.00032694572700864446
+Wind Speed,0.0002834651890574438
+Traffic accidents,0.00027542616456410095
+Vapour Pressure (Humidity),0.00023921770195787083
+GDP per inhabitant,0.00020224268013888027
+Share of employees in knowledge- and research-intensive industries in % of all employees in the labour market,0.0002021938022647449
+Share of Benzin and Diesel cars in total passenger cars,0.0002003910965655719
+Cooling Degree Days,0.00019829414242728056
+Residential Building with Renewable Heating,0.0001946050352482836
+Share of Secondary Sector,0.00015160047748896438
+TKM_I.1,0.00013228265666171364
+Total Value Added,0.00011646394937506794
+Proportion of Industrial Value Added in Total Value Added,9.159167704436233e-05
+Population,8.003435749561662e-05
+"Industrial Value Added (current prices, million)",7.592835482794714e-05
+Total Number of Passenger cars,7.53943592835683e-05
+Number of Diesel cars,6.670937954021448e-05
+Number of Benzin and Diesel cars,5.7232703039698015e-05
+Area,2.228691371737375e-05
+Clinker Production (Kg/ year),4.0343877323527145e-06
+Coal dummy,0.0
+Production Plant Capacity (Million tonnes),0.0

@@ -1,0 +1,2006 @@
+Raumeinheit,Code,Year,Cluster,Clinker Production (Kg/ year),PM2.5,NO2
+"Flensburg, Stadt",DEF01,2018,0,0.0,23.8,26.4
+"Kiel, Landeshauptstadt",DEF02,2018,0,0.0,22.6,29.4
+"Lübeck, Hansestadt",DEF03,2018,0,0.0,23.8,25.0
+"Neumünster, Stadt",DEF04,2018,0,0.0,22.8,30.0
+Dithmarschen,DEF05,2018,0,0.0,23.2,19.6
+Herzogtum Lauenburg,DEF06,2018,0,0.0,23.4,20.2
+Nordfriesland,DEF07,2018,0,0.0,22.0,14.0
+Ostholstein,DEF08,2018,0,0.0,21.4,12.8
+Pinneberg,DEF09,2018,0,0.0,25.2,27.4
+Plön,DEF0A,2018,0,0.0,22.0,16.6
+Rendsburg-Eckernförde,DEF0B,2018,0,0.0,22.8,19.8
+Schleswig-Flensburg,DEF0C,2018,0,0.0,22.8,17.4
+Segeberg,DEF0D,2018,0,0.0,23.4,22.0
+Steinburg,DEF0E,2018,1,1313338.271604938,24.2,24.2
+Stormarn,DEF0F,2018,0,0.0,24.0,21.8
+"Hamburg, Freie und Hansestadt",DE600,2018,0,0.0,26.4,37.6
+"Braunschweig, Stadt",DE911,2018,0,0.0,24.0,30.2
+"Salzgitter, Stadt",DE912,2018,0,0.0,23.6,23.4
+"Wolfsburg, Stadt",DE913,2018,0,0.0,23.4,26.0
+Gifhorn,DE914,2018,0,0.0,22.4,19.6
+Goslar,DE916,2018,0,0.0,19.8,18.4
+Helmstedt,DE917,2018,0,0.0,23.2,20.6
+Northeim,DE918,2018,0,0.0,21.8,20.8
+Peine,DE91A,2018,0,0.0,23.6,23.6
+Wolfenbüttel,DE91B,2018,0,0.0,23.2,20.4
+Göttingen,DE91C,2018,0,0.0,21.2,21.2
+Region Hannover,DE929,2018,1,710130.8641975308,23.6,26.4
+Diepholz,DE922,2018,0,0.0,24.6,23.8
+Hameln-Pyrmont,DE923,2018,0,0.0,22.6,22.8
+Hildesheim,DE925,2018,0,0.0,22.6,23.0
+Holzminden,DE926,2018,0,0.0,21.8,20.8
+Nienburg (Weser),DE927,2018,0,0.0,24.0,22.2
+Schaumburg,DE928,2018,0,0.0,23.4,24.8
+Celle,DE931,2018,0,0.0,21.8,19.4
+Cuxhaven,DE932,2018,0,0.0,23.2,20.8
+Harburg,DE933,2018,0,0.0,23.0,23.6
+Lüchow-Dannenberg,DE934,2018,0,0.0,23.0,16.0
+Lüneburg,DE935,2018,0,0.0,22.6,18.6
+Osterholz,DE936,2018,0,0.0,24.0,24.8
+Rotenburg (Wümme),DE937,2018,0,0.0,23.6,22.2
+Heidekreis,DE938,2018,0,0.0,22.0,18.8
+Stade,DE939,2018,0,0.0,24.6,25.8
+Uelzen,DE93A,2018,0,0.0,22.2,17.4
+Verden,DE93B,2018,0,0.0,24.0,24.2
+"Delmenhorst, Stadt",DE941,2018,0,0.0,25.2,33.8
+"Emden, Stadt",DE942,2018,0,0.0,23.6,24.2
+"Oldenburg (Oldenburg), Stadt",DE943,2018,0,0.0,25.2,37.4
+"Osnabrück, Stadt",DE944,2018,0,0.0,25.6,33.2
+"Wilhelmshaven, Stadt",DE945,2018,0,0.0,23.4,28.4
+Ammerland,DE946,2018,0,0.0,24.2,24.6
+Aurich,DE947,2018,0,0.0,22.8,19.6
+Cloppenburg,DE948,2018,0,0.0,25.0,24.8
+Emsland,DE949,2018,0,0.0,24.2,23.8
+Friesland,DE94A,2018,0,0.0,23.0,20.8
+Grafschaft Bentheim,DE94B,2018,0,0.0,24.4,24.6
+Leer,DE94C,2018,0,0.0,24.0,23.4
+Oldenburg,DE94D,2018,0,0.0,24.4,24.2
+Osnabrück,DE94E,2018,0,0.0,24.6,25.6
+Vechta,DE94F,2018,0,0.0,25.4,25.8
+Wesermarsch,DE94G,2018,0,0.0,24.2,24.0
+Wittmund,DE94H,2018,0,0.0,22.6,18.4
+"Bremen, Stadt",DE501,2018,0,0.0,25.4,37.4
+"Bremerhaven, Stadt",DE502,2018,0,0.0,25.0,35.8
+"Düsseldorf, Stadt",DEA11,2018,0,0.0,25.2,52.6
+"Duisburg, Stadt",DEA12,2018,0,0.0,27.6,51.0
+"Essen, Stadt",DEA13,2018,0,0.0,26.6,49.0
+"Krefeld, Stadt",DEA14,2018,0,0.0,24.6,47.2
+"Mönchengladbach, Stadt",DEA15,2018,0,0.0,23.4,44.8
+"Mülheim an der Ruhr, Stadt",DEA16,2018,0,0.0,26.4,47.6
+"Oberhausen, Stadt",DEA17,2018,0,0.0,27.8,51.0
+"Remscheid, Stadt",DEA18,2018,0,0.0,21.6,34.8
+"Solingen, Klingenstadt",DEA19,2018,0,0.0,22.4,39.8
+"Wuppertal, Stadt",DEA1A,2018,0,0.0,22.8,39.8
+Kleve,DEA1B,2018,0,0.0,24.4,31.6
+Mettmann,DEA1C,2018,0,0.0,23.8,40.4
+Rhein-Kreis Neuss,DEA1D,2018,0,0.0,24.0,43.6
+Viersen,DEA1E,2018,0,0.0,23.4,38.4
+Wesel,DEA1F,2018,0,0.0,25.4,33.8
+"Bonn, Stadt",DEA22,2018,0,0.0,23.6,45.4
+"Köln, Stadt",DEA23,2018,0,0.0,25.2,52.8
+"Leverkusen, Stadt",DEA24,2018,0,0.0,24.0,46.2
+Städteregion Aachen,DEA2D,2018,0,0.0,19.6,28.8
+Düren,DEA26,2018,0,0.0,20.8,31.8
+Rhein-Erft-Kreis,DEA27,2018,0,0.0,23.2,41.2
+Euskirchen,DEA28,2018,0,0.0,18.4,23.0
+Heinsberg,DEA29,2018,0,0.0,22.6,35.2
+Oberbergischer Kreis,DEA2A,2018,0,0.0,20.0,25.4
+Rheinisch-Bergischer Kreis,DEA2B,2018,0,0.0,21.6,33.2
+Rhein-Sieg-Kreis,DEA2C,2018,0,0.0,21.4,31.8
+"Bottrop, Stadt",DEA31,2018,0,0.0,28.2,41.6
+"Gelsenkirchen, Stadt",DEA32,2018,0,0.0,27.6,48.4
+"Münster, Stadt",DEA33,2018,0,0.0,25.4,30.2
+Borken,DEA34,2018,0,0.0,25.6,29.0
+Coesfeld,DEA35,2018,0,0.0,25.4,27.2
+Recklinghausen,DEA36,2018,0,0.0,26.0,35.8
+Steinfurt,DEA37,2018,1,1264285.185185185,25.2,26.8
+Warendorf,DEA38,2018,1,968413.5802469135,25.0,26.8
+"Bielefeld, Stadt",DEA41,2018,0,0.0,24.6,34.6
+Gütersloh,DEA42,2018,0,0.0,24.6,28.0
+Herford,DEA43,2018,0,0.0,24.4,30.4
+Höxter,DEA44,2018,0,0.0,22.2,21.4
+Lippe,DEA45,2018,0,0.0,22.8,24.8
+Minden-Lübbecke,DEA46,2018,0,0.0,24.4,26.4
+Paderborn,DEA47,2018,0,321507.4074074074,22.6,24.2
+"Bochum, Stadt",DEA51,2018,0,0.0,26.2,47.6
+"Dortmund, Stadt",DEA52,2018,0,0.0,24.6,42.8
+"Hagen, Stadt der FernUniversität",DEA53,2018,0,0.0,21.6,32.2
+"Hamm, Stadt",DEA54,2018,0,0.0,24.6,32.0
+"Herne, Stadt",DEA55,2018,0,0.0,27.4,50.8
+Ennepe-Ruhr-Kreis,DEA56,2018,0,0.0,22.8,32.4
+Hochsauerlandkreis,DEA57,2018,0,0.0,18.6,19.4
+Märkischer Kreis,DEA58,2018,0,0.0,19.8,24.8
+Olpe,DEA59,2018,0,0.0,18.6,21.6
+Siegen-Wittgenstein,DEA5A,2018,0,0.0,19.0,23.0
+Soest,DEA5B,2018,-1,1835358.024691358,22.6,25.4
+Unna,DEA5C,2018,0,0.0,24.4,33.4
+"Darmstadt, Wissenschaftsstadt",DE711,2018,0,0.0,22.6,42.4
+"Frankfurt am Main, Stadt",DE712,2018,0,0.0,25.0,55.0
+"Offenbach am Main, Stadt",DE713,2018,0,0.0,23.4,48.4
+"Wiesbaden, Landeshauptstadt",DE714,2018,0,247972.8395061728,23.0,45.2
+Bergstraße,DE715,2018,0,0.0,20.6,30.4
+Darmstadt-Dieburg,DE716,2018,0,0.0,21.2,32.8
+Groß-Gerau,DE717,2018,0,0.0,22.6,41.8
+Hochtaunuskreis,DE718,2018,0,0.0,20.2,33.0
+Main-Kinzig-Kreis,DE719,2018,0,0.0,20.6,29.4
+Main-Taunus-Kreis,DE71A,2018,0,0.0,22.8,44.6
+Odenwaldkreis,DE71B,2018,0,0.0,18.8,23.0
+Offenbach,DE71C,2018,0,0.0,22.0,40.8
+Rheingau-Taunus-Kreis,DE71D,2018,0,0.0,19.4,30.2
+Wetteraukreis,DE71E,2018,0,0.0,21.8,31.4
+Gießen,DE721,2018,0,0.0,21.6,30.4
+Lahn-Dill-Kreis,DE722,2018,0,0.0,20.4,28.2
+Limburg-Weilburg,DE723,2018,0,0.0,20.8,29.0
+Marburg-Biedenkopf,DE724,2018,0,0.0,20.8,25.2
+Vogelsbergkreis,DE725,2018,0,0.0,19.8,21.0
+"Kassel, documenta-Stadt",DE731,2018,0,0.0,22.8,35.2
+Fulda,DE732,2018,0,166704.9382716049,19.8,21.6
+Hersfeld-Rotenburg,DE733,2018,0,0.0,20.4,20.2
+Kassel,DE734,2018,0,0.0,21.6,23.4
+Schwalm-Eder-Kreis,DE735,2018,0,0.0,21.0,21.6
+Waldeck-Frankenberg,DE736,2018,0,0.0,19.8,19.2
+Werra-Meißner-Kreis,DE737,2018,0,0.0,20.8,19.4
+"Koblenz, kreisfreie Stadt",DEB11,2018,0,0.0,22.8,41.2
+Ahrweiler,DEB12,2018,0,0.0,19.0,23.2
+Altenkirchen (Westerwald),DEB13,2018,0,0.0,19.6,23.2
+Bad Kreuznach,DEB14,2018,0,0.0,20.0,27.2
+Birkenfeld,DEB15,2018,0,0.0,18.0,21.6
+Cochem-Zell,DEB1C,2018,0,0.0,18.8,21.2
+Mayen-Koblenz,DEB17,2018,0,0.0,20.6,27.4
+Neuwied,DEB18,2018,0,0.0,20.8,28.4
+Rhein-Hunsrück-Kreis,DEB1D,2018,0,0.0,18.8,22.8
+Rhein-Lahn-Kreis,DEB1A,2018,0,0.0,19.6,25.6
+Westerwaldkreis,DEB1B,2018,0,0.0,20.0,26.8
+"Trier, kreisfreie Stadt",DEB21,2018,0,0.0,18.8,32.6
+Bernkastel-Wittlich,DEB22,2018,0,0.0,18.0,21.0
+Eifelkreis Bitburg-Prüm,DEB23,2018,0,0.0,17.2,17.6
+Vulkaneifel,DEB24,2018,0,188886.4197530864,17.0,17.4
+Trier-Saarburg,DEB25,2018,0,0.0,17.8,22.2
+"Frankenthal (Pfalz), kreisfreie Stadt",DEB31,2018,0,0.0,23.6,42.0
+"Kaiserslautern, kreisfreie Stadt",DEB32,2018,0,0.0,20.8,30.6
+"Landau in der Pfalz, kreisfreie Stadt",DEB33,2018,0,0.0,21.8,33.8
+"Ludwigshafen am Rhein, kreisfreie Stadt",DEB34,2018,0,0.0,24.6,46.8
+"Mainz, kreisfreie Stadt",DEB35,2018,0,0.0,24.0,50.0
+"Neustadt an der Weinstraße, kreisfreie Stadt",DEB36,2018,0,0.0,21.2,33.2
+"Pirmasens, kreisfreie Stadt",DEB37,2018,0,0.0,19.0,27.0
+"Speyer, kreisfreie Stadt",DEB38,2018,0,0.0,23.4,42.6
+"Worms, kreisfreie Stadt",DEB39,2018,0,0.0,23.4,39.8
+"Zweibrücken, kreisfreie Stadt",DEB3A,2018,0,0.0,19.6,27.2
+Alzey-Worms,DEB3B,2018,0,0.0,22.0,33.2
+Bad Dürkheim,DEB3C,2018,0,0.0,20.6,30.0
+Donnersbergkreis,DEB3D,2018,1,832875.3086419753,20.0,25.4
+Germersheim,DEB3E,2018,0,0.0,21.8,31.8
+Kaiserslautern,DEB3F,2018,0,0.0,19.2,24.0
+Kusel,DEB3G,2018,0,0.0,19.6,23.4
+Südliche Weinstraße,DEB3H,2018,0,0.0,20.2,27.2
+Rhein-Pfalz-Kreis,DEB3I,2018,0,0.0,23.0,37.8
+Mainz-Bingen,DEB3J,2018,0,0.0,22.0,36.4
+Südwestpfalz,DEB3K,2018,0,0.0,18.2,21.4
+"Stuttgart, Stadtkreis",DE111,2018,0,0.0,23.6,49.2
+Böblingen,DE112,2018,0,0.0,20.4,32.0
+Esslingen,DE113,2018,0,0.0,22.0,36.8
+Göppingen,DE114,2018,0,0.0,21.0,29.0
+Ludwigsburg,DE115,2018,0,0.0,23.0,36.2
+Rems-Murr-Kreis,DE116,2018,0,0.0,21.0,28.8
+"Heilbronn, Stadtkreis",DE117,2018,0,0.0,23.6,40.4
+Heilbronn,DE118,2018,0,0.0,21.8,30.4
+Hohenlohekreis,DE119,2018,0,0.0,21.2,24.4
+Schwäbisch Hall,DE11A,2018,0,0.0,20.6,22.2
+Main-Tauber-Kreis,DE11B,2018,0,0.0,21.0,23.0
+Heidenheim,DE11C,2018,1,664138.2716049382,21.6,26.8
+Ostalbkreis,DE11D,2018,0,0.0,20.6,24.2
+"Baden-Baden, Stadtkreis",DE121,2018,0,0.0,18.8,27.4
+"Karlsruhe, Stadtkreis",DE122,2018,0,0.0,23.2,41.2
+Karlsruhe,DE123,2018,1,603791.3580246913,21.6,32.4
+Rastatt,DE124,2018,0,0.0,19.8,28.4
+"Heidelberg, Stadtkreis",DE125,2018,0,0.0,22.4,37.6
+"Mannheim, Stadtkreis",DE126,2018,0,0.0,24.6,48.2
+Neckar-Odenwald-Kreis,DE127,2018,0,0.0,19.8,24.0
+Rhein-Neckar-Kreis,DE128,2018,1,654917.2839506172,21.8,32.4
+"Pforzheim, Stadtkreis",DE129,2018,0,0.0,19.8,35.6
+Calw,DE12A,2018,0,0.0,17.0,22.0
+Enzkreis,DE12B,2018,0,0.0,20.0,30.0
+Freudenstadt,DE12C,2018,0,0.0,16.0,18.8
+"Freiburg im Breisgau, Stadtkreis",DE131,2018,0,0.0,19.6,29.2
+Breisgau-Hochschwarzwald,DE132,2018,0,0.0,15.8,18.6
+Emmendingen,DE133,2018,0,0.0,18.0,20.2
+Ortenaukreis,DE134,2018,0,0.0,18.0,21.2
+Rottweil,DE135,2018,0,0.0,16.4,19.2
+Schwarzwald-Baar-Kreis,DE136,2018,0,0.0,14.6,17.2
+Tuttlingen,DE137,2018,0,0.0,16.6,21.0
+Konstanz,DE138,2018,0,0.0,19.4,24.2
+Lörrach,DE139,2018,0,0.0,16.8,21.4
+Waldshut,DE13A,2018,0,0.0,15.4,18.8
+Reutlingen,DE141,2018,0,0.0,18.8,25.8
+Tübingen,DE142,2018,0,0.0,19.6,28.4
+Zollernalbkreis,DE143,2018,1,874050.6172839506,17.0,22.6
+"Ulm, Stadtkreis",DE144,2018,0,0.0,23.4,36.2
+Alb-Donau-Kreis,DE145,2018,1,793235.8024691357,21.2,25.2
+Biberach,DE146,2018,0,0.0,21.2,23.0
+Bodenseekreis,DE147,2018,0,0.0,20.6,25.8
+Ravensburg,DE148,2018,0,0.0,19.8,22.6
+Sigmaringen,DE149,2018,0,0.0,18.8,20.4
+Ingolstadt,DE211,2018,0,0.0,25.8,36.8
+"München, Landeshauptstadt",DE212,2018,0,0.0,26.8,50.0
+"Rosenheim, Stadt",DE213,2018,0,0.0,25.2,38.2
+Altötting,DE214,2018,0,0.0,26.2,25.0
+Berchtesgadener Land,DE215,2018,0,0.0,22.6,22.0
+Bad Tölz-Wolfratshausen,DE216,2018,0,0.0,19.6,21.8
+Dachau,DE217,2018,0,0.0,24.2,27.8
+Ebersberg,DE218,2018,0,0.0,24.0,26.0
+Eichstätt,DE219,2018,0,0.0,22.6,24.0
+Erding,DE21A,2018,0,0.0,25.4,26.4
+Freising,DE21B,2018,0,0.0,24.0,27.8
+Fürstenfeldbruck,DE21C,2018,0,0.0,23.8,29.4
+Garmisch-Partenkirchen,DE21D,2018,0,0.0,17.0,22.0
+Landsberg am Lech,DE21E,2018,0,0.0,21.8,24.6
+Miesbach,DE21F,2018,0,0.0,20.0,22.0
+Mühldorf a.Inn,DE21G,2018,0,0.0,25.8,24.0
+München,DE21H,2018,0,0.0,23.4,31.4
+Neuburg-Schrobenhausen,DE21I,2018,0,0.0,24.0,25.0
+Pfaffenhofen a.d.Ilm,DE21J,2018,0,0.0,23.8,26.2
+Rosenheim,DE21K,2018,1,995766.6666666666,23.6,24.8
+Starnberg,DE21L,2018,0,0.0,21.8,25.8
+Traunstein,DE21M,2018,0,0.0,23.8,22.6
+Weilheim-Schongau,DE21N,2018,0,0.0,19.2,21.8
+"Landshut, Stadt",DE221,2018,0,0.0,25.0,32.2
+"Passau, Stadt",DE222,2018,0,0.0,26.6,32.8
+Straubing,DE223,2018,0,0.0,27.8,31.4
+Deggendorf,DE224,2018,0,0.0,25.0,23.4
+Freyung-Grafenau,DE225,2018,0,0.0,20.6,17.0
+Kelheim,DE226,2018,0,0.0,23.8,23.8
+Landshut,DE227,2018,0,0.0,24.8,23.6
+Passau,DE228,2018,0,0.0,25.4,22.2
+Regen,DE229,2018,0,0.0,20.6,18.0
+Rottal-Inn,DE22A,2018,0,0.0,26.6,22.4
+Straubing-Bogen,DE22B,2018,0,0.0,24.6,22.0
+Dingolfing-Landau,DE22C,2018,0,0.0,25.8,23.2
+Amberg,DE231,2018,0,0.0,24.6,28.6
+"Regensburg, Stadt",DE232,2018,0,0.0,27.0,38.2
+Weiden i.d.OPf.,DE233,2018,0,0.0,25.2,28.8
+Amberg-Sulzbach,DE234,2018,0,0.0,22.0,18.6
+Cham,DE235,2018,0,0.0,23.6,19.0
+Neumarkt i.d.OPf.,DE236,2018,0,0.0,22.2,20.8
+Neustadt a.d.Waldnaab,DE237,2018,0,0.0,22.8,18.8
+Regensburg,DE238,2018,0,0.0,24.2,23.4
+Schwandorf,DE239,2018,1,889816.049382716,23.6,19.8
+Tirschenreuth,DE23A,2018,0,0.0,22.4,18.0
+"Bamberg, Stadt",DE241,2018,0,0.0,23.8,36.4
+"Bayreuth, Stadt",DE242,2018,0,0.0,24.6,30.4
+"Coburg, Stadt",DE243,2018,0,0.0,24.0,30.4
+"Hof, Stadt",DE244,2018,0,0.0,24.4,27.4
+Bamberg,DE245,2018,0,0.0,22.2,22.6
+Bayreuth,DE246,2018,0,0.0,21.8,19.2
+Coburg,DE247,2018,0,0.0,22.4,21.4
+Forchheim,DE248,2018,0,0.0,22.0,22.4
+Hof,DE249,2018,0,0.0,22.2,19.2
+Kronach,DE24A,2018,0,0.0,21.0,18.6
+Kulmbach,DE24B,2018,0,0.0,22.2,20.0
+Lichtenfels,DE24C,2018,0,0.0,22.4,21.2
+Wunsiedel i.Fichtelgebirge,DE24D,2018,0,0.0,22.6,19.4
+"Ansbach, Stadt",DE251,2018,0,0.0,22.4,26.0
+Erlangen,DE252,2018,0,0.0,25.0,37.4
+"Fürth, Stadt",DE253,2018,0,0.0,26.2,41.0
+Nürnberg,DE254,2018,0,0.0,26.0,44.8
+Schwabach,DE255,2018,0,0.0,24.6,35.6
+Ansbach,DE256,2018,0,0.0,21.4,21.4
+Erlangen-Höchstadt,DE257,2018,0,0.0,23.0,26.6
+Fürth,DE258,2018,0,0.0,24.0,28.6
+Nürnberger Land,DE259,2018,0,0.0,22.0,22.4
+Neustadt a.d.Aisch-Bad Windsheim,DE25A,2018,0,0.0,22.0,21.6
+Roth,DE25B,2018,0,0.0,22.0,22.4
+Weißenburg-Gunzenhausen,DE25C,2018,0,360190.1234567901,21.8,22.8
+"Aschaffenburg, Stadt",DE261,2018,0,0.0,22.2,39.2
+"Schweinfurt, Stadt",DE262,2018,0,0.0,23.4,34.6
+"Würzburg, Stadt",DE263,2018,0,0.0,23.4,38.0
+Aschaffenburg,DE264,2018,0,0.0,20.2,30.2
+Bad Kissingen,DE265,2018,0,0.0,20.0,21.2
+Rhön-Grabfeld,DE266,2018,0,0.0,20.4,20.6
+Haßberge,DE267,2018,0,0.0,21.8,20.4
+Kitzingen,DE268,2018,0,0.0,22.6,25.2
+Miltenberg,DE269,2018,0,0.0,19.8,25.4
+Main-Spessart,DE26A,2018,1,757229.6296296295,20.0,24.4
+Schweinfurt,DE26B,2018,0,0.0,22.2,24.6
+Würzburg,DE26C,2018,0,0.0,22.2,27.0
+"Augsburg, Stadt",DE271,2018,0,0.0,25.2,39.8
+Kaufbeuren,DE272,2018,0,0.0,21.0,28.6
+Kempten (Allgäu),DE273,2018,0,0.0,19.6,28.8
+Memmingen,DE274,2018,0,0.0,21.4,27.2
+Aichach-Friedberg,DE275,2018,0,0.0,23.8,25.8
+Augsburg,DE276,2018,0,0.0,23.0,26.6
+Dillingen a.d.Donau,DE277,2018,0,0.0,23.2,26.0
+Günzburg,DE278,2018,0,0.0,22.4,25.6
+Neu-Ulm,DE279,2018,0,0.0,22.8,29.0
+Lindau (Bodensee),DE27A,2018,0,0.0,17.6,22.6
+Ostallgäu,DE27B,2018,0,0.0,18.2,21.0
+Unterallgäu,DE27C,2018,0,0.0,20.8,22.2
+Donau-Ries,DE27D,2018,1,796908.6419753085,22.6,24.6
+Oberallgäu,DE27E,2018,0,0.0,15.2,19.0
+Regionalverband Saarbrücken,DEC01,2018,0,0.0,20.8,32.0
+Merzig-Wadern,DEC02,2018,0,0.0,18.6,23.8
+Neunkirchen,DEC03,2018,0,0.0,20.4,30.0
+Saarlouis,DEC04,2018,0,0.0,20.6,29.0
+Saarpfalz-Kreis,DEC05,2018,0,0.0,19.4,26.0
+St. Wendel,DEC06,2018,0,0.0,18.6,24.0
+"Berlin, Stadt",DE300,2018,0,0.0,30.0,39.6
+"Brandenburg an der Havel, Stadt",DE401,2018,0,0.0,25.4,20.6
+"Cottbus, Stadt",DE402,2018,0,0.0,29.2,22.2
+"Frankfurt (Oder), Stadt",DE403,2018,0,0.0,30.8,20.8
+"Potsdam, Stadt",DE404,2018,0,0.0,26.6,26.0
+Barnim,DE405,2018,0,0.0,26.0,18.4
+Dahme-Spreewald,DE406,2018,0,0.0,26.4,18.4
+Elbe-Elster,DE407,2018,0,0.0,25.8,18.8
+Havelland,DE408,2018,0,0.0,25.4,18.6
+Märkisch-Oderland,DE409,2018,1,1408081.481481481,28.0,18.4
+Oberhavel,DE40A,2018,0,0.0,25.2,18.2
+Oberspreewald-Lausitz,DE40B,2018,0,0.0,26.2,18.4
+Oder-Spree,DE40C,2018,0,0.0,26.8,17.6
+Ostprignitz-Ruppin,DE40D,2018,0,0.0,24.4,15.6
+Potsdam-Mittelmark,DE40E,2018,0,0.0,25.0,18.6
+Prignitz,DE40F,2018,0,0.0,24.0,14.8
+Spree-Neiße,DE40G,2018,0,0.0,28.0,16.6
+Teltow-Fläming,DE40H,2018,0,0.0,25.8,19.2
+Uckermark,DE40I,2018,0,0.0,26.8,14.8
+Rostock,DE803,2018,0,0.0,24.0,24.4
+Schwerin,DE804,2018,0,0.0,23.6,20.6
+Mecklenburgische Seenplatte,DE80J,2018,0,0.0,24.6,14.0
+Landkreis Rostock,DE80K,2018,0,0.0,23.6,13.6
+Vorpommern-Rügen,DE80L,2018,0,0.0,22.2,10.2
+Nordwestmecklenburg,DE80M,2018,0,0.0,22.8,14.6
+Vorpommern-Greifswald,DE80N,2018,0,0.0,25.4,13.4
+Ludwigslust-Parchim,DE80O,2018,0,0.0,23.2,14.6
+"Chemnitz, Stadt",DED41,2018,0,0.0,25.8,30.6
+Erzgebirgskreis,DED42,2018,0,0.0,22.8,20.8
+Mittelsachsen,DED43,2018,0,0.0,25.4,22.4
+Vogtlandkreis,DED44,2018,0,0.0,22.2,19.2
+Zwickau,DED45,2018,0,0.0,24.8,24.4
+"Dresden, Stadt",DED21,2018,0,0.0,29.2,31.6
+Bautzen,DED2C,2018,0,0.0,27.0,20.2
+Görlitz,DED2D,2018,0,0.0,29.0,19.8
+Meißen,DED2E,2018,0,0.0,27.0,22.8
+Sächsische Schweiz-Osterzgebirge,DED2F,2018,0,0.0,26.4,21.6
+"Leipzig, Stadt",DED51,2018,0,0.0,27.0,32.2
+Leipzig,DED52,2018,0,0.0,26.0,22.8
+Nordsachsen,DED53,2018,0,0.0,26.2,21.4
+"Dessau-Roßlau, Stadt",DEE01,2018,0,0.0,25.2,21.4
+"Halle (Saale), Stadt",DEE02,2018,0,0.0,26.6,29.6
+"Magdeburg, Landeshauptstadt",DEE03,2018,0,0.0,26.2,28.6
+Altmarkkreis Salzwedel,DEE04,2018,0,0.0,23.4,16.8
+Anhalt-Bitterfeld,DEE05,2018,0,0.0,25.8,21.0
+Börde,DEE07,2018,0,0.0,24.4,19.2
+Burgenlandkreis,DEE08,2018,1,1115276.543209876,25.6,22.8
+Harz,DEE09,2018,0,0.0,21.6,18.0
+Jerichower Land,DEE06,2018,0,0.0,24.6,16.6
+Mansfeld-Südharz,DEE0A,2018,0,0.0,23.4,20.0
+Saalekreis,DEE0B,2018,0,0.0,26.2,22.8
+Salzlandkreis,DEE0C,2018,1,843950.6172839506,25.8,22.0
+Stendal,DEE0D,2018,0,0.0,24.6,15.2
+Wittenberg,DEE0E,2018,0,0.0,24.8,17.8
+"Erfurt, Stadt",DEG01,2018,0,0.0,23.2,25.6
+"Gera, Stadt",DEG02,2018,0,0.0,25.4,25.6
+"Jena, Stadt",DEG03,2018,0,0.0,24.0,25.4
+"Suhl, Stadt",DEG04,2018,0,0.0,19.4,23.2
+"Weimar, Stadt",DEG05,2018,0,0.0,23.4,25.0
+Eichsfeld,DEG06,2018,1,1247851.851851852,21.2,19.6
+Nordhausen,DEG07,2018,0,0.0,21.8,19.6
+Wartburgkreis,DEG0P,2018,0,0.0,20.6,19.8
+Unstrut-Hainich-Kreis,DEG09,2018,0,0.0,22.4,21.0
+Kyffhäuserkreis,DEG0A,2018,0,0.0,22.6,19.6
+Schmalkalden-Meiningen,DEG0B,2018,0,0.0,19.6,19.8
+Gotha,DEG0C,2018,0,0.0,21.2,21.2
+Sömmerda,DEG0D,2018,0,0.0,23.8,21.6
+Hildburghausen,DEG0E,2018,0,0.0,20.0,18.4
+Ilm-Kreis,DEG0F,2018,0,0.0,20.0,18.8
+Weimarer Land,DEG0G,2018,0,0.0,23.2,20.8
+Sonneberg,DEG0H,2018,0,0.0,20.0,18.6
+Saalfeld-Rudolstadt,DEG0I,2018,0,0.0,20.2,17.2
+Saale-Holzland-Kreis,DEG0J,2018,0,0.0,23.6,20.4
+Saale-Orla-Kreis,DEG0K,2018,0,0.0,21.8,18.0
+Greiz,DEG0L,2018,0,0.0,24.0,20.6
+Altenburger Land,DEG0M,2018,0,0.0,26.0,22.8
+nan,,2018,-1,0.0,11104.00000000002,10721.2
+"Flensburg, Stadt",DEF01,2019,0,0.0,21.0,24.2
+"Kiel, Landeshauptstadt",DEF02,2019,0,0.0,21.6,25.8
+"Lübeck, Hansestadt",DEF03,2019,0,0.0,21.4,24.0
+"Neumünster, Stadt",DEF04,2019,0,0.0,22.0,26.8
+Dithmarschen,DEF05,2019,0,0.0,20.8,18.0
+Herzogtum Lauenburg,DEF06,2019,0,0.0,20.6,19.2
+Nordfriesland,DEF07,2019,0,0.0,19.0,11.8
+Ostholstein,DEF08,2019,0,0.0,19.8,11.4
+Pinneberg,DEF09,2019,0,0.0,21.8,25.6
+Plön,DEF0A,2019,0,0.0,20.6,15.2
+Rendsburg-Eckernförde,DEF0B,2019,0,0.0,21.2,18.2
+Schleswig-Flensburg,DEF0C,2019,0,0.0,20.4,16.4
+Segeberg,DEF0D,2019,0,0.0,21.4,20.6
+Steinburg,DEF0E,2019,0,1337641.975308642,22.0,21.8
+Stormarn,DEF0F,2019,0,0.0,21.4,21.2
+"Hamburg, Freie und Hansestadt",DE600,2019,0,0.0,22.4,35.2
+"Braunschweig, Stadt",DE911,2019,0,0.0,19.2,26.2
+"Salzgitter, Stadt",DE912,2019,0,0.0,18.4,20.6
+"Wolfsburg, Stadt",DE913,2019,0,0.0,19.0,23.8
+Gifhorn,DE914,2019,0,0.0,18.2,18.2
+Goslar,DE916,2019,0,0.0,15.4,15.2
+Helmstedt,DE917,2019,0,0.0,18.6,18.0
+Northeim,DE918,2019,0,0.0,17.6,18.2
+Peine,DE91A,2019,0,0.0,19.0,21.4
+Wolfenbüttel,DE91B,2019,0,0.0,18.4,17.2
+Göttingen,DE91C,2019,0,0.0,17.4,18.4
+Region Hannover,DE929,2019,0,747060.4938271604,19.2,24.2
+Diepholz,DE922,2019,0,0.0,19.8,21.8
+Hameln-Pyrmont,DE923,2019,0,0.0,18.0,20.4
+Hildesheim,DE925,2019,0,0.0,18.0,20.0
+Holzminden,DE926,2019,0,0.0,17.4,18.4
+Nienburg (Weser),DE927,2019,0,0.0,19.4,21.4
+Schaumburg,DE928,2019,0,0.0,18.8,22.6
+Celle,DE931,2019,0,0.0,18.2,18.8
+Cuxhaven,DE932,2019,0,0.0,20.8,19.4
+Harburg,DE933,2019,0,0.0,19.8,21.6
+Lüchow-Dannenberg,DE934,2019,0,0.0,19.0,14.8
+Lüneburg,DE935,2019,0,0.0,19.2,18.0
+Osterholz,DE936,2019,0,0.0,21.2,23.0
+Rotenburg (Wümme),DE937,2019,0,0.0,20.4,20.8
+Heidekreis,DE938,2019,0,0.0,18.8,18.4
+Stade,DE939,2019,0,0.0,21.6,23.2
+Uelzen,DE93A,2019,0,0.0,18.2,16.6
+Verden,DE93B,2019,0,0.0,20.4,23.2
+"Delmenhorst, Stadt",DE941,2019,0,0.0,21.6,31.2
+"Emden, Stadt",DE942,2019,0,0.0,19.4,21.0
+"Oldenburg (Oldenburg), Stadt",DE943,2019,0,0.0,21.6,31.8
+"Osnabrück, Stadt",DE944,2019,0,0.0,20.0,29.4
+"Wilhelmshaven, Stadt",DE945,2019,0,0.0,20.4,23.6
+Ammerland,DE946,2019,0,0.0,20.4,22.0
+Aurich,DE947,2019,0,0.0,19.4,16.2
+Cloppenburg,DE948,2019,0,0.0,20.4,22.2
+Emsland,DE949,2019,0,0.0,20.0,22.4
+Friesland,DE94A,2019,0,0.0,19.8,18.4
+Grafschaft Bentheim,DE94B,2019,0,0.0,20.4,23.0
+Leer,DE94C,2019,0,0.0,19.8,20.8
+Oldenburg,DE94D,2019,0,0.0,20.6,22.2
+Osnabrück,DE94E,2019,0,0.0,19.6,22.6
+Vechta,DE94F,2019,0,0.0,20.4,23.2
+Wesermarsch,DE94G,2019,0,0.0,20.8,21.2
+Wittmund,DE94H,2019,0,0.0,19.2,15.4
+"Bremen, Stadt",DE501,2019,0,0.0,22.2,35.0
+"Bremerhaven, Stadt",DE502,2019,0,0.0,21.8,29.4
+"Düsseldorf, Stadt",DEA11,2019,0,0.0,22.0,47.6
+"Duisburg, Stadt",DEA12,2019,0,0.0,23.8,49.2
+"Essen, Stadt",DEA13,2019,0,0.0,21.6,44.6
+"Krefeld, Stadt",DEA14,2019,0,0.0,21.6,43.4
+"Mönchengladbach, Stadt",DEA15,2019,0,0.0,20.6,39.4
+"Mülheim an der Ruhr, Stadt",DEA16,2019,0,0.0,21.8,43.2
+"Oberhausen, Stadt",DEA17,2019,0,0.0,23.0,51.2
+"Remscheid, Stadt",DEA18,2019,0,0.0,19.2,28.2
+"Solingen, Klingenstadt",DEA19,2019,0,0.0,19.8,34.0
+"Wuppertal, Stadt",DEA1A,2019,0,0.0,19.8,32.8
+Kleve,DEA1B,2019,0,0.0,22.2,29.8
+Mettmann,DEA1C,2019,0,0.0,20.4,35.8
+Rhein-Kreis Neuss,DEA1D,2019,0,0.0,20.8,41.8
+Viersen,DEA1E,2019,0,0.0,21.4,34.2
+Wesel,DEA1F,2019,0,0.0,22.2,32.2
+"Bonn, Stadt",DEA22,2019,0,0.0,20.2,41.6
+"Köln, Stadt",DEA23,2019,0,0.0,21.0,48.0
+"Leverkusen, Stadt",DEA24,2019,0,0.0,20.6,40.8
+Städteregion Aachen,DEA2D,2019,0,0.0,15.8,23.4
+Düren,DEA26,2019,0,0.0,16.8,26.8
+Rhein-Erft-Kreis,DEA27,2019,0,0.0,19.2,38.2
+Euskirchen,DEA28,2019,0,0.0,14.2,18.4
+Heinsberg,DEA29,2019,0,0.0,19.6,29.4
+Oberbergischer Kreis,DEA2A,2019,0,0.0,17.8,22.0
+Rheinisch-Bergischer Kreis,DEA2B,2019,0,0.0,19.0,28.0
+Rhein-Sieg-Kreis,DEA2C,2019,0,0.0,18.6,29.0
+"Bottrop, Stadt",DEA31,2019,0,0.0,23.4,42.2
+"Gelsenkirchen, Stadt",DEA32,2019,0,0.0,23.0,46.0
+"Münster, Stadt",DEA33,2019,0,0.0,21.0,26.0
+Borken,DEA34,2019,0,0.0,21.0,25.2
+Coesfeld,DEA35,2019,0,0.0,20.6,23.0
+Recklinghausen,DEA36,2019,0,0.0,21.8,33.0
+Steinfurt,DEA37,2019,0,1334879.012345679,20.2,23.8
+Warendorf,DEA38,2019,0,952364.197530864,20.0,22.8
+"Bielefeld, Stadt",DEA41,2019,0,0.0,19.6,30.4
+Gütersloh,DEA42,2019,0,0.0,19.6,25.0
+Herford,DEA43,2019,0,0.0,19.4,27.0
+Höxter,DEA44,2019,0,0.0,18.0,19.0
+Lippe,DEA45,2019,0,0.0,18.2,21.8
+Minden-Lübbecke,DEA46,2019,0,0.0,19.6,23.8
+Paderborn,DEA47,2019,0,308692.5925925926,18.0,21.6
+"Bochum, Stadt",DEA51,2019,0,0.0,21.4,42.8
+"Dortmund, Stadt",DEA52,2019,0,0.0,21.2,39.4
+"Hagen, Stadt der FernUniversität",DEA53,2019,0,0.0,19.0,26.8
+"Hamm, Stadt",DEA54,2019,0,0.0,20.4,29.6
+"Herne, Stadt",DEA55,2019,0,0.0,22.4,46.6
+Ennepe-Ruhr-Kreis,DEA56,2019,0,0.0,19.4,27.6
+Hochsauerlandkreis,DEA57,2019,0,0.0,15.0,16.8
+Märkischer Kreis,DEA58,2019,0,0.0,17.0,20.8
+Olpe,DEA59,2019,0,0.0,16.2,19.8
+Siegen-Wittgenstein,DEA5A,2019,0,0.0,16.0,21.0
+Soest,DEA5B,2019,-1,1775004.938271605,18.4,22.6
+Unna,DEA5C,2019,0,0.0,20.6,30.2
+"Darmstadt, Wissenschaftsstadt",DE711,2019,0,0.0,20.2,40.2
+"Frankfurt am Main, Stadt",DE712,2019,0,0.0,22.4,54.0
+"Offenbach am Main, Stadt",DE713,2019,0,0.0,21.4,48.2
+"Wiesbaden, Landeshauptstadt",DE714,2019,0,234398.7654320988,20.6,42.0
+Bergstraße,DE715,2019,0,0.0,18.4,28.2
+Darmstadt-Dieburg,DE716,2019,0,0.0,19.0,31.0
+Groß-Gerau,DE717,2019,0,0.0,20.6,40.6
+Hochtaunuskreis,DE718,2019,0,0.0,18.0,30.2
+Main-Kinzig-Kreis,DE719,2019,0,0.0,18.2,27.2
+Main-Taunus-Kreis,DE71A,2019,0,0.0,20.6,42.6
+Odenwaldkreis,DE71B,2019,0,0.0,16.4,20.0
+Offenbach,DE71C,2019,0,0.0,20.4,40.0
+Rheingau-Taunus-Kreis,DE71D,2019,0,0.0,17.2,26.8
+Wetteraukreis,DE71E,2019,0,0.0,19.6,30.0
+Gießen,DE721,2019,0,0.0,19.6,28.8
+Lahn-Dill-Kreis,DE722,2019,0,0.0,18.0,25.8
+Limburg-Weilburg,DE723,2019,0,0.0,18.6,26.2
+Marburg-Biedenkopf,DE724,2019,0,0.0,18.2,23.2
+Vogelsbergkreis,DE725,2019,0,0.0,16.4,18.4
+"Kassel, documenta-Stadt",DE731,2019,0,0.0,19.4,32.0
+Fulda,DE732,2019,0,151396.2962962963,16.2,19.0
+Hersfeld-Rotenburg,DE733,2019,0,0.0,16.8,18.0
+Kassel,DE734,2019,0,0.0,18.0,21.0
+Schwalm-Eder-Kreis,DE735,2019,0,0.0,17.6,19.6
+Waldeck-Frankenberg,DE736,2019,0,0.0,16.2,17.0
+Werra-Meißner-Kreis,DE737,2019,0,0.0,16.8,16.4
+"Koblenz, kreisfreie Stadt",DEB11,2019,0,0.0,20.2,40.2
+Ahrweiler,DEB12,2019,0,0.0,15.4,20.2
+Altenkirchen (Westerwald),DEB13,2019,0,0.0,17.2,21.0
+Bad Kreuznach,DEB14,2019,0,0.0,17.4,23.8
+Birkenfeld,DEB15,2019,0,0.0,15.0,17.8
+Cochem-Zell,DEB1C,2019,0,0.0,15.4,18.8
+Mayen-Koblenz,DEB17,2019,0,0.0,17.2,25.8
+Neuwied,DEB18,2019,0,0.0,18.2,26.6
+Rhein-Hunsrück-Kreis,DEB1D,2019,0,0.0,15.4,19.8
+Rhein-Lahn-Kreis,DEB1A,2019,0,0.0,17.2,23.8
+Westerwaldkreis,DEB1B,2019,0,0.0,17.2,24.0
+"Trier, kreisfreie Stadt",DEB21,2019,0,0.0,16.6,29.0
+Bernkastel-Wittlich,DEB22,2019,0,0.0,14.8,18.4
+Eifelkreis Bitburg-Prüm,DEB23,2019,0,0.0,13.6,14.6
+Vulkaneifel,DEB24,2019,0,206108.6419753086,13.2,14.8
+Trier-Saarburg,DEB25,2019,0,0.0,15.2,19.2
+"Frankenthal (Pfalz), kreisfreie Stadt",DEB31,2019,0,0.0,21.0,44.0
+"Kaiserslautern, kreisfreie Stadt",DEB32,2019,0,0.0,17.8,27.4
+"Landau in der Pfalz, kreisfreie Stadt",DEB33,2019,0,0.0,19.0,30.6
+"Ludwigshafen am Rhein, kreisfreie Stadt",DEB34,2019,0,0.0,21.6,50.0
+"Mainz, kreisfreie Stadt",DEB35,2019,0,0.0,20.8,44.8
+"Neustadt an der Weinstraße, kreisfreie Stadt",DEB36,2019,0,0.0,18.4,31.6
+"Pirmasens, kreisfreie Stadt",DEB37,2019,0,0.0,16.8,22.0
+"Speyer, kreisfreie Stadt",DEB38,2019,0,0.0,21.4,41.6
+"Worms, kreisfreie Stadt",DEB39,2019,0,0.0,20.8,36.6
+"Zweibrücken, kreisfreie Stadt",DEB3A,2019,0,0.0,17.4,23.0
+Alzey-Worms,DEB3B,2019,0,0.0,19.0,30.0
+Bad Dürkheim,DEB3C,2019,0,0.0,17.8,28.6
+Donnersbergkreis,DEB3D,2019,0,855681.4814814815,16.8,22.6
+Germersheim,DEB3E,2019,0,0.0,20.4,30.4
+Kaiserslautern,DEB3F,2019,0,0.0,16.6,21.8
+Kusel,DEB3G,2019,0,0.0,17.0,20.0
+Südliche Weinstraße,DEB3H,2019,0,0.0,18.0,25.0
+Rhein-Pfalz-Kreis,DEB3I,2019,0,0.0,20.6,39.2
+Mainz-Bingen,DEB3J,2019,0,0.0,19.4,33.0
+Südwestpfalz,DEB3K,2019,0,0.0,16.0,18.2
+"Stuttgart, Stadtkreis",DE111,2019,0,0.0,20.6,45.0
+Böblingen,DE112,2019,0,0.0,17.2,29.6
+Esslingen,DE113,2019,0,0.0,18.6,34.6
+Göppingen,DE114,2019,0,0.0,17.0,27.0
+Ludwigsburg,DE115,2019,0,0.0,19.6,34.2
+Rems-Murr-Kreis,DE116,2019,0,0.0,18.0,26.6
+"Heilbronn, Stadtkreis",DE117,2019,0,0.0,20.6,37.8
+Heilbronn,DE118,2019,0,0.0,19.4,28.4
+Hohenlohekreis,DE119,2019,0,0.0,17.8,22.0
+Schwäbisch Hall,DE11A,2019,0,0.0,16.8,20.2
+Main-Tauber-Kreis,DE11B,2019,0,0.0,17.6,21.0
+Heidenheim,DE11C,2019,0,723602.4691358025,17.4,26.4
+Ostalbkreis,DE11D,2019,0,0.0,16.6,22.6
+"Baden-Baden, Stadtkreis",DE121,2019,0,0.0,16.2,25.2
+"Karlsruhe, Stadtkreis",DE122,2019,0,0.0,20.8,38.8
+Karlsruhe,DE123,2019,0,544217.2839506173,19.4,30.8
+Rastatt,DE124,2019,0,0.0,17.4,26.2
+"Heidelberg, Stadtkreis",DE125,2019,0,0.0,19.8,36.0
+"Mannheim, Stadtkreis",DE126,2019,0,0.0,21.6,48.2
+Neckar-Odenwald-Kreis,DE127,2019,0,0.0,17.2,21.4
+Rhein-Neckar-Kreis,DE128,2019,0,611759.2592592592,19.6,30.6
+"Pforzheim, Stadtkreis",DE129,2019,0,0.0,16.6,32.6
+Calw,DE12A,2019,0,0.0,13.6,19.0
+Enzkreis,DE12B,2019,0,0.0,17.0,28.0
+Freudenstadt,DE12C,2019,0,0.0,12.8,16.6
+"Freiburg im Breisgau, Stadtkreis",DE131,2019,0,0.0,16.2,26.6
+Breisgau-Hochschwarzwald,DE132,2019,0,0.0,12.8,17.4
+Emmendingen,DE133,2019,0,0.0,14.8,18.6
+Ortenaukreis,DE134,2019,0,0.0,15.2,20.0
+Rottweil,DE135,2019,0,0.0,13.0,18.0
+Schwarzwald-Baar-Kreis,DE136,2019,0,0.0,11.2,15.6
+Tuttlingen,DE137,2019,0,0.0,13.0,18.6
+Konstanz,DE138,2019,0,0.0,16.6,22.8
+Lörrach,DE139,2019,0,0.0,14.0,20.0
+Waldshut,DE13A,2019,0,0.0,12.8,18.0
+Reutlingen,DE141,2019,0,0.0,14.8,23.6
+Tübingen,DE142,2019,0,0.0,16.4,26.2
+Zollernalbkreis,DE143,2019,0,863491.3580246912,13.2,20.0
+"Ulm, Stadtkreis",DE144,2019,0,0.0,19.4,34.8
+Alb-Donau-Kreis,DE145,2019,0,845587.6543209876,16.8,24.4
+Biberach,DE146,2019,0,0.0,17.0,21.8
+Bodenseekreis,DE147,2019,0,0.0,17.8,24.2
+Ravensburg,DE148,2019,0,0.0,16.4,21.0
+Sigmaringen,DE149,2019,0,0.0,15.0,18.8
+Ingolstadt,DE211,2019,0,0.0,21.2,34.8
+"München, Landeshauptstadt",DE212,2019,0,0.0,20.0,48.2
+"Rosenheim, Stadt",DE213,2019,0,0.0,19.6,36.0
+Altötting,DE214,2019,0,0.0,20.4,24.6
+Berchtesgadener Land,DE215,2019,0,0.0,17.0,21.2
+Bad Tölz-Wolfratshausen,DE216,2019,0,0.0,14.6,21.2
+Dachau,DE217,2019,0,0.0,19.4,28.0
+Ebersberg,DE218,2019,0,0.0,17.8,25.6
+Eichstätt,DE219,2019,0,0.0,18.2,23.0
+Erding,DE21A,2019,0,0.0,19.4,26.6
+Freising,DE21B,2019,0,0.0,19.8,27.8
+Fürstenfeldbruck,DE21C,2019,0,0.0,18.8,29.8
+Garmisch-Partenkirchen,DE21D,2019,0,0.0,13.2,21.6
+Landsberg am Lech,DE21E,2019,0,0.0,16.8,24.6
+Miesbach,DE21F,2019,0,0.0,14.2,21.4
+Mühldorf a.Inn,DE21G,2019,0,0.0,19.8,24.0
+München,DE21H,2019,0,0.0,18.0,31.4
+Neuburg-Schrobenhausen,DE21I,2019,0,0.0,19.4,25.2
+Pfaffenhofen a.d.Ilm,DE21J,2019,0,0.0,19.4,26.2
+Rosenheim,DE21K,2019,0,1012485.185185185,17.8,24.4
+Starnberg,DE21L,2019,0,0.0,16.8,25.4
+Traunstein,DE21M,2019,0,0.0,17.2,21.6
+Weilheim-Schongau,DE21N,2019,0,0.0,14.6,21.2
+"Landshut, Stadt",DE221,2019,0,0.0,20.6,31.0
+"Passau, Stadt",DE222,2019,0,0.0,22.4,31.8
+Straubing,DE223,2019,0,0.0,22.2,28.6
+Deggendorf,DE224,2019,0,0.0,19.8,21.4
+Freyung-Grafenau,DE225,2019,0,0.0,15.6,15.4
+Kelheim,DE226,2019,0,0.0,19.4,22.8
+Landshut,DE227,2019,0,0.0,20.0,23.2
+Passau,DE228,2019,0,0.0,20.6,21.0
+Regen,DE229,2019,0,0.0,15.6,15.4
+Rottal-Inn,DE22A,2019,0,0.0,20.8,21.6
+Straubing-Bogen,DE22B,2019,0,0.0,19.8,20.0
+Dingolfing-Landau,DE22C,2019,0,0.0,21.0,21.8
+Amberg,DE231,2019,0,0.0,19.6,25.2
+"Regensburg, Stadt",DE232,2019,0,0.0,21.6,36.0
+Weiden i.d.OPf.,DE233,2019,0,0.0,19.6,25.8
+Amberg-Sulzbach,DE234,2019,0,0.0,17.2,16.4
+Cham,DE235,2019,0,0.0,17.8,15.4
+Neumarkt i.d.OPf.,DE236,2019,0,0.0,17.4,19.0
+Neustadt a.d.Waldnaab,DE237,2019,0,0.0,17.2,16.0
+Regensburg,DE238,2019,0,0.0,19.6,21.6
+Schwandorf,DE239,2019,0,1117816.049382716,18.2,17.2
+Tirschenreuth,DE23A,2019,0,0.0,16.4,15.0
+"Bamberg, Stadt",DE241,2019,0,0.0,20.2,33.4
+"Bayreuth, Stadt",DE242,2019,0,0.0,19.8,26.2
+"Coburg, Stadt",DE243,2019,0,0.0,20.2,27.2
+"Hof, Stadt",DE244,2019,0,0.0,18.4,23.4
+Bamberg,DE245,2019,0,0.0,18.0,20.8
+Bayreuth,DE246,2019,0,0.0,16.6,16.2
+Coburg,DE247,2019,0,0.0,18.0,19.4
+Forchheim,DE248,2019,0,0.0,17.8,19.6
+Hof,DE249,2019,0,0.0,16.0,16.0
+Kronach,DE24A,2019,0,0.0,16.6,16.4
+Kulmbach,DE24B,2019,0,0.0,17.0,17.4
+Lichtenfels,DE24C,2019,0,0.0,17.8,18.8
+Wunsiedel i.Fichtelgebirge,DE24D,2019,0,0.0,16.4,16.0
+"Ansbach, Stadt",DE251,2019,0,0.0,17.8,24.0
+Erlangen,DE252,2019,0,0.0,20.8,35.0
+"Fürth, Stadt",DE253,2019,0,0.0,21.2,38.6
+Nürnberg,DE254,2019,0,0.0,21.4,41.2
+Schwabach,DE255,2019,0,0.0,20.2,33.4
+Ansbach,DE256,2019,0,0.0,17.0,20.0
+Erlangen-Höchstadt,DE257,2019,0,0.0,19.0,24.8
+Fürth,DE258,2019,0,0.0,19.2,26.8
+Nürnberger Land,DE259,2019,0,0.0,17.8,21.0
+Neustadt a.d.Aisch-Bad Windsheim,DE25A,2019,0,0.0,17.8,19.8
+Roth,DE25B,2019,0,0.0,17.8,21.4
+Weißenburg-Gunzenhausen,DE25C,2019,0,386159.2592592592,17.2,21.2
+"Aschaffenburg, Stadt",DE261,2019,0,0.0,19.6,35.4
+"Schweinfurt, Stadt",DE262,2019,0,0.0,20.4,31.8
+"Würzburg, Stadt",DE263,2019,0,0.0,19.6,35.0
+Aschaffenburg,DE264,2019,0,0.0,17.8,27.4
+Bad Kissingen,DE265,2019,0,0.0,16.6,18.8
+Rhön-Grabfeld,DE266,2019,0,0.0,16.6,17.6
+Haßberge,DE267,2019,0,0.0,17.8,18.6
+Kitzingen,DE268,2019,0,0.0,19.0,23.4
+Miltenberg,DE269,2019,0,0.0,17.4,23.0
+Main-Spessart,DE26A,2019,0,744816.049382716,17.2,22.6
+Schweinfurt,DE26B,2019,0,0.0,18.6,22.2
+Würzburg,DE26C,2019,0,0.0,18.6,25.0
+"Augsburg, Stadt",DE271,2019,0,0.0,20.4,37.8
+Kaufbeuren,DE272,2019,0,0.0,16.4,27.2
+Kempten (Allgäu),DE273,2019,0,0.0,15.4,27.6
+Memmingen,DE274,2019,0,0.0,17.2,26.8
+Aichach-Friedberg,DE275,2019,0,0.0,19.2,26.2
+Augsburg,DE276,2019,0,0.0,18.6,26.4
+Dillingen a.d.Donau,DE277,2019,0,0.0,19.0,25.6
+Günzburg,DE278,2019,0,0.0,18.4,25.4
+Neu-Ulm,DE279,2019,0,0.0,18.8,28.2
+Lindau (Bodensee),DE27A,2019,0,0.0,15.2,21.2
+Ostallgäu,DE27B,2019,0,0.0,14.4,20.2
+Unterallgäu,DE27C,2019,0,0.0,16.4,21.6
+Donau-Ries,DE27D,2019,0,775423.4567901234,18.4,23.8
+Oberallgäu,DE27E,2019,0,0.0,12.2,18.2
+Regionalverband Saarbrücken,DEC01,2019,0,0.0,19.0,28.6
+Merzig-Wadern,DEC02,2019,0,0.0,16.2,20.6
+Neunkirchen,DEC03,2019,0,0.0,18.2,25.4
+Saarlouis,DEC04,2019,0,0.0,18.4,26.4
+Saarpfalz-Kreis,DEC05,2019,0,0.0,17.6,22.6
+St. Wendel,DEC06,2019,0,0.0,16.2,19.6
+"Berlin, Stadt",DE300,2019,0,0.0,24.0,36.4
+"Brandenburg an der Havel, Stadt",DE401,2019,0,0.0,20.0,18.4
+"Cottbus, Stadt",DE402,2019,0,0.0,22.4,20.2
+"Frankfurt (Oder), Stadt",DE403,2019,0,0.0,22.6,18.2
+"Potsdam, Stadt",DE404,2019,0,0.0,20.8,23.0
+Barnim,DE405,2019,0,0.0,20.4,17.8
+Dahme-Spreewald,DE406,2019,0,0.0,20.4,17.0
+Elbe-Elster,DE407,2019,0,0.0,20.4,16.6
+Havelland,DE408,2019,0,0.0,20.0,17.2
+Märkisch-Oderland,DE409,2019,0,1492293.827160494,21.4,17.0
+Oberhavel,DE40A,2019,0,0.0,20.0,17.2
+Oberspreewald-Lausitz,DE40B,2019,0,0.0,20.6,16.2
+Oder-Spree,DE40C,2019,0,0.0,20.6,16.0
+Ostprignitz-Ruppin,DE40D,2019,0,0.0,19.2,14.6
+Potsdam-Mittelmark,DE40E,2019,0,0.0,19.4,17.0
+Prignitz,DE40F,2019,0,0.0,19.2,13.4
+Spree-Neiße,DE40G,2019,0,0.0,21.6,14.6
+Teltow-Fläming,DE40H,2019,0,0.0,20.0,17.2
+Uckermark,DE40I,2019,0,0.0,20.0,13.4
+Rostock,DE803,2019,0,0.0,21.0,20.4
+Schwerin,DE804,2019,0,0.0,20.6,19.2
+Mecklenburgische Seenplatte,DE80J,2019,0,0.0,19.6,12.8
+Landkreis Rostock,DE80K,2019,0,0.0,20.0,11.6
+Vorpommern-Rügen,DE80L,2019,0,0.0,19.2,8.6
+Nordwestmecklenburg,DE80M,2019,0,0.0,20.0,13.4
+Vorpommern-Greifswald,DE80N,2019,0,0.0,20.4,11.8
+Ludwigslust-Parchim,DE80O,2019,0,0.0,19.6,14.0
+"Chemnitz, Stadt",DED41,2019,0,0.0,19.4,27.0
+Erzgebirgskreis,DED42,2019,0,0.0,16.6,17.8
+Mittelsachsen,DED43,2019,0,0.0,19.0,18.8
+Vogtlandkreis,DED44,2019,0,0.0,16.6,16.0
+Zwickau,DED45,2019,0,0.0,18.8,21.2
+"Dresden, Stadt",DED21,2019,0,0.0,21.8,27.8
+Bautzen,DED2C,2019,0,0.0,21.2,17.2
+Görlitz,DED2D,2019,0,0.0,22.4,16.8
+Meißen,DED2E,2019,0,0.0,20.6,20.4
+Sächsische Schweiz-Osterzgebirge,DED2F,2019,0,0.0,19.6,18.4
+"Leipzig, Stadt",DED51,2019,0,0.0,20.8,27.6
+Leipzig,DED52,2019,0,0.0,20.2,20.2
+Nordsachsen,DED53,2019,0,0.0,20.4,18.8
+"Dessau-Roßlau, Stadt",DEE01,2019,0,0.0,20.6,20.0
+"Halle (Saale), Stadt",DEE02,2019,0,0.0,21.0,26.4
+"Magdeburg, Landeshauptstadt",DEE03,2019,0,0.0,21.0,25.4
+Altmarkkreis Salzwedel,DEE04,2019,0,0.0,18.8,15.4
+Anhalt-Bitterfeld,DEE05,2019,0,0.0,20.4,19.4
+Börde,DEE07,2019,0,0.0,19.4,16.8
+Burgenlandkreis,DEE08,2019,0,1113890.12345679,19.4,19.2
+Harz,DEE09,2019,0,0.0,16.6,15.0
+Jerichower Land,DEE06,2019,0,0.0,19.6,15.4
+Mansfeld-Südharz,DEE0A,2019,0,0.0,18.2,17.2
+Saalekreis,DEE0B,2019,0,0.0,20.2,20.6
+Salzlandkreis,DEE0C,2019,0,876362.9629629629,20.0,19.8
+Stendal,DEE0D,2019,0,0.0,19.6,13.4
+Wittenberg,DEE0E,2019,0,0.0,19.6,16.2
+"Erfurt, Stadt",DEG01,2019,0,0.0,18.0,23.2
+"Gera, Stadt",DEG02,2019,0,0.0,19.0,21.6
+"Jena, Stadt",DEG03,2019,0,0.0,18.4,22.0
+"Suhl, Stadt",DEG04,2019,0,0.0,15.6,20.2
+"Weimar, Stadt",DEG05,2019,0,0.0,17.8,21.6
+Eichsfeld,DEG06,2019,0,1273297.530864198,17.0,16.0
+Nordhausen,DEG07,2019,0,0.0,17.6,17.0
+Wartburgkreis,DEG0P,2019,0,0.0,16.6,16.8
+Unstrut-Hainich-Kreis,DEG09,2019,0,0.0,17.6,17.2
+Kyffhäuserkreis,DEG0A,2019,0,0.0,18.0,16.8
+Schmalkalden-Meiningen,DEG0B,2019,0,0.0,15.8,17.0
+Gotha,DEG0C,2019,0,0.0,16.4,18.0
+Sömmerda,DEG0D,2019,0,0.0,18.6,19.0
+Hildburghausen,DEG0E,2019,0,0.0,15.8,15.8
+Ilm-Kreis,DEG0F,2019,0,0.0,15.0,16.0
+Weimarer Land,DEG0G,2019,0,0.0,17.4,17.6
+Sonneberg,DEG0H,2019,0,0.0,15.8,16.4
+Saalfeld-Rudolstadt,DEG0I,2019,0,0.0,15.2,14.8
+Saale-Holzland-Kreis,DEG0J,2019,0,0.0,17.6,16.8
+Saale-Orla-Kreis,DEG0K,2019,0,0.0,15.8,14.8
+Greiz,DEG0L,2019,0,0.0,17.8,17.0
+Altenburger Land,DEG0M,2019,0,0.0,19.6,19.2
+nan,,2019,-1,0.0,9505.4,9791.400000000003
+"Flensburg, Stadt",DEF01,2020,0,0.0,17.0,20.6
+"Kiel, Landeshauptstadt",DEF02,2020,0,0.0,16.8,22.6
+"Lübeck, Hansestadt",DEF03,2020,0,0.0,17.0,18.6
+"Neumünster, Stadt",DEF04,2020,0,0.0,17.2,23.4
+Dithmarschen,DEF05,2020,0,0.0,16.4,16.6
+Herzogtum Lauenburg,DEF06,2020,0,0.0,16.8,15.2
+Nordfriesland,DEF07,2020,0,0.0,15.8,11.6
+Ostholstein,DEF08,2020,0,0.0,15.6,10.4
+Pinneberg,DEF09,2020,0,0.0,17.4,23.6
+Plön,DEF0A,2020,0,0.0,16.0,13.6
+Rendsburg-Eckernförde,DEF0B,2020,0,0.0,16.6,16.4
+Schleswig-Flensburg,DEF0C,2020,0,0.0,16.4,14.4
+Segeberg,DEF0D,2020,0,0.0,16.8,17.8
+Steinburg,DEF0E,2020,1,1315546.913580247,17.0,19.8
+Stormarn,DEF0F,2020,0,0.0,17.0,17.2
+"Hamburg, Freie und Hansestadt",DE600,2020,0,0.0,18.4,30.2
+"Braunschweig, Stadt",DE911,2020,0,0.0,17.2,23.2
+"Salzgitter, Stadt",DE912,2020,0,0.0,16.8,17.2
+"Wolfsburg, Stadt",DE913,2020,0,0.0,17.0,20.2
+Gifhorn,DE914,2020,0,0.0,16.4,16.0
+Goslar,DE916,2020,0,0.0,14.4,12.0
+Helmstedt,DE917,2020,0,0.0,16.8,16.4
+Northeim,DE918,2020,0,0.0,15.8,15.0
+Peine,DE91A,2020,0,0.0,16.8,17.4
+Wolfenbüttel,DE91B,2020,0,0.0,16.8,15.4
+Göttingen,DE91C,2020,0,0.0,15.6,15.2
+Region Hannover,DE929,2020,0,761112.3456790122,16.6,19.4
+Diepholz,DE922,2020,0,0.0,17.0,19.4
+Hameln-Pyrmont,DE923,2020,0,0.0,15.8,17.4
+Hildesheim,DE925,2020,0,0.0,16.0,15.4
+Holzminden,DE926,2020,0,0.0,15.4,15.8
+Nienburg (Weser),DE927,2020,0,0.0,16.6,18.6
+Schaumburg,DE928,2020,0,0.0,16.2,18.8
+Celle,DE931,2020,0,0.0,15.8,16.0
+Cuxhaven,DE932,2020,0,0.0,16.8,18.8
+Harburg,DE933,2020,0,0.0,16.6,18.6
+Lüchow-Dannenberg,DE934,2020,0,0.0,16.4,12.6
+Lüneburg,DE935,2020,0,0.0,16.4,15.6
+Osterholz,DE936,2020,0,0.0,17.8,20.8
+Rotenburg (Wümme),DE937,2020,0,0.0,17.0,18.6
+Heidekreis,DE938,2020,0,0.0,16.0,16.0
+Stade,DE939,2020,0,0.0,17.4,21.4
+Uelzen,DE93A,2020,0,0.0,16.4,14.8
+Verden,DE93B,2020,0,0.0,17.2,20.4
+"Delmenhorst, Stadt",DE941,2020,0,0.0,18.4,27.6
+"Emden, Stadt",DE942,2020,0,0.0,17.0,19.8
+"Oldenburg (Oldenburg), Stadt",DE943,2020,0,0.0,18.0,27.6
+"Osnabrück, Stadt",DE944,2020,0,0.0,17.2,25.8
+"Wilhelmshaven, Stadt",DE945,2020,0,0.0,16.8,21.8
+Ammerland,DE946,2020,0,0.0,17.6,19.8
+Aurich,DE947,2020,0,0.0,16.6,16.6
+Cloppenburg,DE948,2020,0,0.0,17.4,19.6
+Emsland,DE949,2020,0,0.0,17.0,20.2
+Friesland,DE94A,2020,0,0.0,16.8,17.6
+Grafschaft Bentheim,DE94B,2020,0,0.0,17.6,20.8
+Leer,DE94C,2020,0,0.0,17.4,19.2
+Oldenburg,DE94D,2020,0,0.0,17.4,20.0
+Osnabrück,DE94E,2020,0,0.0,17.0,20.2
+Vechta,DE94F,2020,0,0.0,17.2,20.4
+Wesermarsch,DE94G,2020,0,0.0,17.6,20.4
+Wittmund,DE94H,2020,0,0.0,16.6,15.8
+"Bremen, Stadt",DE501,2020,0,0.0,18.6,30.2
+"Bremerhaven, Stadt",DE502,2020,0,0.0,17.6,29.0
+"Düsseldorf, Stadt",DEA11,2020,0,0.0,19.6,41.2
+"Duisburg, Stadt",DEA12,2020,0,0.0,22.6,43.0
+"Essen, Stadt",DEA13,2020,0,0.0,19.6,38.6
+"Krefeld, Stadt",DEA14,2020,0,0.0,20.2,37.4
+"Mönchengladbach, Stadt",DEA15,2020,0,0.0,18.2,32.6
+"Mülheim an der Ruhr, Stadt",DEA16,2020,0,0.0,20.4,37.2
+"Oberhausen, Stadt",DEA17,2020,0,0.0,22.0,43.4
+"Remscheid, Stadt",DEA18,2020,0,0.0,16.6,25.4
+"Solingen, Klingenstadt",DEA19,2020,0,0.0,17.2,30.2
+"Wuppertal, Stadt",DEA1A,2020,0,0.0,17.2,29.2
+Kleve,DEA1B,2020,0,0.0,19.8,25.4
+Mettmann,DEA1C,2020,0,0.0,18.4,31.2
+Rhein-Kreis Neuss,DEA1D,2020,0,0.0,18.6,34.4
+Viersen,DEA1E,2020,0,0.0,19.0,29.2
+Wesel,DEA1F,2020,0,0.0,20.6,28.2
+"Bonn, Stadt",DEA22,2020,0,0.0,17.0,36.4
+"Köln, Stadt",DEA23,2020,0,0.0,18.0,41.6
+"Leverkusen, Stadt",DEA24,2020,0,0.0,17.8,35.4
+Städteregion Aachen,DEA2D,2020,0,0.0,13.6,19.6
+Düren,DEA26,2020,0,0.0,15.0,22.8
+Rhein-Erft-Kreis,DEA27,2020,0,0.0,17.2,32.8
+Euskirchen,DEA28,2020,0,0.0,12.6,16.0
+Heinsberg,DEA29,2020,0,0.0,17.0,24.4
+Oberbergischer Kreis,DEA2A,2020,0,0.0,15.2,19.6
+Rheinisch-Bergischer Kreis,DEA2B,2020,0,0.0,16.4,24.6
+Rhein-Sieg-Kreis,DEA2C,2020,0,0.0,15.8,25.2
+"Bottrop, Stadt",DEA31,2020,0,0.0,21.4,36.6
+"Gelsenkirchen, Stadt",DEA32,2020,0,0.0,20.4,40.8
+"Münster, Stadt",DEA33,2020,0,0.0,18.4,25.4
+Borken,DEA34,2020,0,0.0,18.8,23.6
+Coesfeld,DEA35,2020,0,0.0,18.4,23.2
+Recklinghausen,DEA36,2020,0,0.0,19.4,29.4
+Steinfurt,DEA37,2020,1,1322074.074074074,18.0,22.6
+Warendorf,DEA38,2020,0,1052807.407407407,17.6,22.6
+"Bielefeld, Stadt",DEA41,2020,0,0.0,17.0,25.6
+Gütersloh,DEA42,2020,0,0.0,17.2,22.4
+Herford,DEA43,2020,0,0.0,17.0,22.8
+Höxter,DEA44,2020,0,0.0,16.0,17.0
+Lippe,DEA45,2020,0,0.0,16.0,19.0
+Minden-Lübbecke,DEA46,2020,0,0.0,16.8,20.2
+Paderborn,DEA47,2020,0,354090.1234567901,16.0,19.2
+"Bochum, Stadt",DEA51,2020,0,0.0,18.8,37.0
+"Dortmund, Stadt",DEA52,2020,0,0.0,18.2,34.6
+"Hagen, Stadt der FernUniversität",DEA53,2020,0,0.0,16.2,25.6
+"Hamm, Stadt",DEA54,2020,0,0.0,17.8,27.8
+"Herne, Stadt",DEA55,2020,0,0.0,19.6,41.0
+Ennepe-Ruhr-Kreis,DEA56,2020,0,0.0,16.8,24.4
+Hochsauerlandkreis,DEA57,2020,0,0.0,13.8,15.4
+Märkischer Kreis,DEA58,2020,0,0.0,15.0,19.4
+Olpe,DEA59,2020,0,0.0,14.2,17.2
+Siegen-Wittgenstein,DEA5A,2020,0,0.0,14.2,19.2
+Soest,DEA5B,2020,-1,1879307.407407407,16.2,21.0
+Unna,DEA5C,2020,0,0.0,17.6,28.6
+"Darmstadt, Wissenschaftsstadt",DE711,2020,0,0.0,17.8,31.6
+"Frankfurt am Main, Stadt",DE712,2020,0,0.0,19.4,43.2
+"Offenbach am Main, Stadt",DE713,2020,0,0.0,18.6,38.4
+"Wiesbaden, Landeshauptstadt",DE714,2020,0,241871.6049382716,17.8,34.6
+Bergstraße,DE715,2020,0,0.0,16.4,23.6
+Darmstadt-Dieburg,DE716,2020,0,0.0,16.8,25.0
+Groß-Gerau,DE717,2020,0,0.0,18.4,32.4
+Hochtaunuskreis,DE718,2020,0,0.0,16.4,26.0
+Main-Kinzig-Kreis,DE719,2020,0,0.0,16.6,23.2
+Main-Taunus-Kreis,DE71A,2020,0,0.0,18.2,35.2
+Odenwaldkreis,DE71B,2020,0,0.0,14.8,17.0
+Offenbach,DE71C,2020,0,0.0,18.0,31.8
+Rheingau-Taunus-Kreis,DE71D,2020,0,0.0,15.4,23.0
+Wetteraukreis,DE71E,2020,0,0.0,17.4,25.8
+Gießen,DE721,2020,0,0.0,17.0,25.0
+Lahn-Dill-Kreis,DE722,2020,0,0.0,15.6,22.8
+Limburg-Weilburg,DE723,2020,0,0.0,16.0,23.2
+Marburg-Biedenkopf,DE724,2020,0,0.0,15.8,20.4
+Vogelsbergkreis,DE725,2020,0,0.0,15.2,17.0
+"Kassel, documenta-Stadt",DE731,2020,0,0.0,17.2,26.4
+Fulda,DE732,2020,0,160429.6296296296,15.0,17.0
+Hersfeld-Rotenburg,DE733,2020,0,0.0,15.6,16.4
+Kassel,DE734,2020,0,0.0,16.2,18.4
+Schwalm-Eder-Kreis,DE735,2020,0,0.0,15.8,17.4
+Waldeck-Frankenberg,DE736,2020,0,0.0,14.6,15.2
+Werra-Meißner-Kreis,DE737,2020,0,0.0,15.4,15.0
+"Koblenz, kreisfreie Stadt",DEB11,2020,0,0.0,16.6,33.8
+Ahrweiler,DEB12,2020,0,0.0,13.4,18.6
+Altenkirchen (Westerwald),DEB13,2020,0,0.0,14.4,19.0
+Bad Kreuznach,DEB14,2020,0,0.0,14.4,19.8
+Birkenfeld,DEB15,2020,0,0.0,12.6,15.0
+Cochem-Zell,DEB1C,2020,0,0.0,13.0,16.2
+Mayen-Koblenz,DEB17,2020,0,0.0,14.6,22.4
+Neuwied,DEB18,2020,0,0.0,15.4,23.4
+Rhein-Hunsrück-Kreis,DEB1D,2020,0,0.0,13.4,16.6
+Rhein-Lahn-Kreis,DEB1A,2020,0,0.0,14.6,19.8
+Westerwaldkreis,DEB1B,2020,0,0.0,15.0,21.2
+"Trier, kreisfreie Stadt",DEB21,2020,0,0.0,13.8,26.4
+Bernkastel-Wittlich,DEB22,2020,0,0.0,12.6,16.0
+Eifelkreis Bitburg-Prüm,DEB23,2020,0,0.0,11.8,13.2
+Vulkaneifel,DEB24,2020,0,197837.037037037,11.6,13.0
+Trier-Saarburg,DEB25,2020,0,0.0,13.0,17.2
+"Frankenthal (Pfalz), kreisfreie Stadt",DEB31,2020,0,0.0,18.8,35.6
+"Kaiserslautern, kreisfreie Stadt",DEB32,2020,0,0.0,14.4,22.6
+"Landau in der Pfalz, kreisfreie Stadt",DEB33,2020,0,0.0,16.4,25.4
+"Ludwigshafen am Rhein, kreisfreie Stadt",DEB34,2020,0,0.0,19.2,40.2
+"Mainz, kreisfreie Stadt",DEB35,2020,0,0.0,18.6,37.8
+"Neustadt an der Weinstraße, kreisfreie Stadt",DEB36,2020,0,0.0,16.0,24.8
+"Pirmasens, kreisfreie Stadt",DEB37,2020,0,0.0,14.0,19.2
+"Speyer, kreisfreie Stadt",DEB38,2020,0,0.0,18.4,33.8
+"Worms, kreisfreie Stadt",DEB39,2020,0,0.0,18.2,30.0
+"Zweibrücken, kreisfreie Stadt",DEB3A,2020,0,0.0,14.4,19.6
+Alzey-Worms,DEB3B,2020,0,0.0,16.8,25.4
+Bad Dürkheim,DEB3C,2020,0,0.0,15.4,22.8
+Donnersbergkreis,DEB3D,2020,0,870702.4691358024,14.4,18.8
+Germersheim,DEB3E,2020,0,0.0,17.4,26.4
+Kaiserslautern,DEB3F,2020,0,0.0,13.8,18.0
+Kusel,DEB3G,2020,0,0.0,13.8,17.0
+Südliche Weinstraße,DEB3H,2020,0,0.0,15.6,21.4
+Rhein-Pfalz-Kreis,DEB3I,2020,0,0.0,18.2,31.4
+Mainz-Bingen,DEB3J,2020,0,0.0,17.0,27.8
+Südwestpfalz,DEB3K,2020,0,0.0,13.4,16.0
+"Stuttgart, Stadtkreis",DE111,2020,0,0.0,18.6,39.8
+Böblingen,DE112,2020,0,0.0,15.6,25.8
+Esslingen,DE113,2020,0,0.0,16.6,30.0
+Göppingen,DE114,2020,0,0.0,15.4,24.8
+Ludwigsburg,DE115,2020,0,0.0,17.4,30.4
+Rems-Murr-Kreis,DE116,2020,0,0.0,16.0,24.0
+"Heilbronn, Stadtkreis",DE117,2020,0,0.0,17.8,33.0
+Heilbronn,DE118,2020,0,0.0,16.8,25.4
+Hohenlohekreis,DE119,2020,0,0.0,16.0,19.6
+Schwäbisch Hall,DE11A,2020,0,0.0,15.4,18.2
+Main-Tauber-Kreis,DE11B,2020,0,0.0,16.2,18.4
+Heidenheim,DE11C,2020,0,714733.3333333333,15.8,23.6
+Ostalbkreis,DE11D,2020,0,0.0,15.2,20.6
+"Baden-Baden, Stadtkreis",DE121,2020,0,0.0,14.6,22.2
+"Karlsruhe, Stadtkreis",DE122,2020,0,0.0,18.4,33.0
+Karlsruhe,DE123,2020,0,568897.5308641975,17.0,27.0
+Rastatt,DE124,2020,0,0.0,15.4,23.2
+"Heidelberg, Stadtkreis",DE125,2020,0,0.0,17.2,29.6
+"Mannheim, Stadtkreis",DE126,2020,0,0.0,19.2,38.8
+Neckar-Odenwald-Kreis,DE127,2020,0,0.0,15.6,18.8
+Rhein-Neckar-Kreis,DE128,2020,0,471002.4691358024,16.8,26.0
+"Pforzheim, Stadtkreis",DE129,2020,0,0.0,15.2,29.2
+Calw,DE12A,2020,0,0.0,12.6,17.4
+Enzkreis,DE12B,2020,0,0.0,15.2,25.2
+Freudenstadt,DE12C,2020,0,0.0,11.6,14.2
+"Freiburg im Breisgau, Stadtkreis",DE131,2020,0,0.0,14.2,23.0
+Breisgau-Hochschwarzwald,DE132,2020,0,0.0,11.8,14.6
+Emmendingen,DE133,2020,0,0.0,13.0,16.0
+Ortenaukreis,DE134,2020,0,0.0,13.4,17.0
+Rottweil,DE135,2020,0,0.0,11.8,15.0
+Schwarzwald-Baar-Kreis,DE136,2020,0,0.0,10.6,12.8
+Tuttlingen,DE137,2020,0,0.0,12.4,16.0
+Konstanz,DE138,2020,0,0.0,14.2,19.4
+Lörrach,DE139,2020,0,0.0,13.0,16.4
+Waldshut,DE13A,2020,0,0.0,11.8,14.8
+Reutlingen,DE141,2020,0,0.0,13.8,20.2
+Tübingen,DE142,2020,0,0.0,14.8,22.2
+Zollernalbkreis,DE143,2020,0,791690.1234567901,12.6,17.0
+"Ulm, Stadtkreis",DE144,2020,0,0.0,17.4,30.4
+Alb-Donau-Kreis,DE145,2020,0,865538.2716049382,15.2,21.2
+Biberach,DE146,2020,0,0.0,15.0,18.2
+Bodenseekreis,DE147,2020,0,0.0,15.0,20.2
+Ravensburg,DE148,2020,0,0.0,13.8,17.4
+Sigmaringen,DE149,2020,0,0.0,13.6,16.0
+Ingolstadt,DE211,2020,0,0.0,20.0,29.8
+"München, Landeshauptstadt",DE212,2020,0,0.0,19.8,40.4
+"Rosenheim, Stadt",DE213,2020,0,0.0,18.0,30.4
+Altötting,DE214,2020,0,0.0,19.0,20.6
+Berchtesgadener Land,DE215,2020,0,0.0,15.2,18.0
+Bad Tölz-Wolfratshausen,DE216,2020,0,0.0,13.6,19.2
+Dachau,DE217,2020,0,0.0,18.0,23.4
+Ebersberg,DE218,2020,0,0.0,17.4,21.8
+Eichstätt,DE219,2020,0,0.0,17.6,20.2
+Erding,DE21A,2020,0,0.0,18.4,23.0
+Freising,DE21B,2020,0,0.0,18.4,23.8
+Fürstenfeldbruck,DE21C,2020,0,0.0,17.4,24.4
+Garmisch-Partenkirchen,DE21D,2020,0,0.0,12.4,20.4
+Landsberg am Lech,DE21E,2020,0,0.0,15.4,20.4
+Miesbach,DE21F,2020,0,0.0,13.4,19.2
+Mühldorf a.Inn,DE21G,2020,0,0.0,18.6,20.6
+München,DE21H,2020,0,0.0,17.4,26.4
+Neuburg-Schrobenhausen,DE21I,2020,0,0.0,18.0,21.4
+Pfaffenhofen a.d.Ilm,DE21J,2020,0,0.0,18.2,22.0
+Rosenheim,DE21K,2020,0,1015720.987654321,16.6,20.4
+Starnberg,DE21L,2020,0,0.0,15.8,22.2
+Traunstein,DE21M,2020,0,0.0,16.4,18.6
+Weilheim-Schongau,DE21N,2020,0,0.0,13.4,18.8
+"Landshut, Stadt",DE221,2020,0,0.0,19.0,26.6
+"Passau, Stadt",DE222,2020,0,0.0,19.8,27.6
+Straubing,DE223,2020,0,0.0,20.4,25.2
+Deggendorf,DE224,2020,0,0.0,17.8,18.6
+Freyung-Grafenau,DE225,2020,0,0.0,14.0,13.0
+Kelheim,DE226,2020,0,0.0,18.2,20.2
+Landshut,DE227,2020,0,0.0,18.2,20.2
+Passau,DE228,2020,0,0.0,18.2,18.2
+Regen,DE229,2020,0,0.0,14.0,12.6
+Rottal-Inn,DE22A,2020,0,0.0,18.8,18.4
+Straubing-Bogen,DE22B,2020,0,0.0,18.0,17.4
+Dingolfing-Landau,DE22C,2020,0,0.0,18.6,19.0
+Amberg,DE231,2020,0,0.0,18.4,24.0
+"Regensburg, Stadt",DE232,2020,0,0.0,20.4,29.6
+Weiden i.d.OPf.,DE233,2020,0,0.0,17.8,23.4
+Amberg-Sulzbach,DE234,2020,0,0.0,16.2,15.4
+Cham,DE235,2020,0,0.0,16.2,13.8
+Neumarkt i.d.OPf.,DE236,2020,0,0.0,16.6,17.2
+Neustadt a.d.Waldnaab,DE237,2020,0,0.0,16.0,14.6
+Regensburg,DE238,2020,0,0.0,18.2,19.0
+Schwandorf,DE239,2020,0,1000525.925925926,16.8,15.6
+Tirschenreuth,DE23A,2020,0,0.0,15.6,14.0
+"Bamberg, Stadt",DE241,2020,0,0.0,19.2,30.6
+"Bayreuth, Stadt",DE242,2020,0,0.0,17.8,24.4
+"Coburg, Stadt",DE243,2020,0,0.0,18.2,24.2
+"Hof, Stadt",DE244,2020,0,0.0,16.8,20.4
+Bamberg,DE245,2020,0,0.0,17.0,19.4
+Bayreuth,DE246,2020,0,0.0,15.6,15.2
+Coburg,DE247,2020,0,0.0,16.6,17.6
+Forchheim,DE248,2020,0,0.0,16.8,18.6
+Hof,DE249,2020,0,0.0,15.0,14.6
+Kronach,DE24A,2020,0,0.0,15.2,14.8
+Kulmbach,DE24B,2020,0,0.0,15.8,16.0
+Lichtenfels,DE24C,2020,0,0.0,16.6,17.4
+Wunsiedel i.Fichtelgebirge,DE24D,2020,0,0.0,15.4,14.6
+"Ansbach, Stadt",DE251,2020,0,0.0,16.6,21.2
+Erlangen,DE252,2020,0,0.0,19.6,30.6
+"Fürth, Stadt",DE253,2020,0,0.0,19.8,34.0
+Nürnberg,DE254,2020,0,0.0,20.0,36.8
+Schwabach,DE255,2020,0,0.0,18.8,28.4
+Ansbach,DE256,2020,0,0.0,16.0,17.8
+Erlangen-Höchstadt,DE257,2020,0,0.0,17.8,22.8
+Fürth,DE258,2020,0,0.0,18.0,24.0
+Nürnberger Land,DE259,2020,0,0.0,16.6,18.8
+Neustadt a.d.Aisch-Bad Windsheim,DE25A,2020,0,0.0,16.4,17.8
+Roth,DE25B,2020,0,0.0,16.6,18.8
+Weißenburg-Gunzenhausen,DE25C,2020,0,376329.6296296296,16.2,18.8
+"Aschaffenburg, Stadt",DE261,2020,0,0.0,17.6,29.4
+"Schweinfurt, Stadt",DE262,2020,0,0.0,18.4,29.0
+"Würzburg, Stadt",DE263,2020,0,0.0,18.2,29.8
+Aschaffenburg,DE264,2020,0,0.0,16.4,23.2
+Bad Kissingen,DE265,2020,0,0.0,15.8,17.8
+Rhön-Grabfeld,DE266,2020,0,0.0,15.8,16.6
+Haßberge,DE267,2020,0,0.0,16.6,17.4
+Kitzingen,DE268,2020,0,0.0,17.2,20.8
+Miltenberg,DE269,2020,0,0.0,15.6,19.2
+Main-Spessart,DE26A,2020,0,718020.9876543209,16.2,20.0
+Schweinfurt,DE26B,2020,0,0.0,17.2,20.8
+Würzburg,DE26C,2020,0,0.0,17.2,21.8
+"Augsburg, Stadt",DE271,2020,0,0.0,18.6,32.2
+Kaufbeuren,DE272,2020,0,0.0,14.8,23.0
+Kempten (Allgäu),DE273,2020,0,0.0,14.0,23.2
+Memmingen,DE274,2020,0,0.0,15.0,21.8
+Aichach-Friedberg,DE275,2020,0,0.0,17.4,21.8
+Augsburg,DE276,2020,0,0.0,16.8,21.8
+Dillingen a.d.Donau,DE277,2020,0,0.0,17.2,22.2
+Günzburg,DE278,2020,0,0.0,16.6,21.0
+Neu-Ulm,DE279,2020,0,0.0,16.8,23.8
+Lindau (Bodensee),DE27A,2020,0,0.0,12.8,18.8
+Ostallgäu,DE27B,2020,0,0.0,12.8,17.4
+Unterallgäu,DE27C,2020,0,0.0,14.4,17.4
+Donau-Ries,DE27D,2020,0,807062.9629629629,17.0,21.0
+Oberallgäu,DE27E,2020,0,0.0,11.0,15.8
+Regionalverband Saarbrücken,DEC01,2020,0,0.0,15.2,23.8
+Merzig-Wadern,DEC02,2020,0,0.0,13.6,18.4
+Neunkirchen,DEC03,2020,0,0.0,14.6,21.4
+Saarlouis,DEC04,2020,0,0.0,15.2,22.6
+Saarpfalz-Kreis,DEC05,2020,0,0.0,14.2,19.2
+St. Wendel,DEC06,2020,0,0.0,13.2,17.0
+"Berlin, Stadt",DE300,2020,0,0.0,21.6,30.4
+"Brandenburg an der Havel, Stadt",DE401,2020,0,0.0,18.2,15.6
+"Cottbus, Stadt",DE402,2020,0,0.0,20.2,18.0
+"Frankfurt (Oder), Stadt",DE403,2020,0,0.0,20.6,17.0
+"Potsdam, Stadt",DE404,2020,0,0.0,19.2,20.4
+Barnim,DE405,2020,0,0.0,18.4,15.6
+Dahme-Spreewald,DE406,2020,0,0.0,18.8,15.2
+Elbe-Elster,DE407,2020,0,0.0,18.8,15.0
+Havelland,DE408,2020,0,0.0,18.2,14.4
+Märkisch-Oderland,DE409,2020,-1,1555527.160493827,19.6,15.6
+Oberhavel,DE40A,2020,0,0.0,17.8,15.0
+Oberspreewald-Lausitz,DE40B,2020,0,0.0,18.8,14.4
+Oder-Spree,DE40C,2020,0,0.0,19.2,14.4
+Ostprignitz-Ruppin,DE40D,2020,0,0.0,17.2,12.4
+Potsdam-Mittelmark,DE40E,2020,0,0.0,18.2,14.4
+Prignitz,DE40F,2020,0,0.0,16.8,10.4
+Spree-Neiße,DE40G,2020,0,0.0,19.6,14.2
+Teltow-Fläming,DE40H,2020,0,0.0,19.0,15.4
+Uckermark,DE40I,2020,0,0.0,17.8,12.0
+Rostock,DE803,2020,0,0.0,17.2,18.6
+Schwerin,DE804,2020,0,0.0,16.8,15.6
+Mecklenburgische Seenplatte,DE80J,2020,0,0.0,16.6,11.2
+Landkreis Rostock,DE80K,2020,0,0.0,16.4,11.8
+Vorpommern-Rügen,DE80L,2020,0,0.0,15.4,8.2
+Nordwestmecklenburg,DE80M,2020,0,0.0,16.4,11.4
+Vorpommern-Greifswald,DE80N,2020,0,0.0,16.8,10.6
+Ludwigslust-Parchim,DE80O,2020,0,0.0,16.4,11.8
+"Chemnitz, Stadt",DED41,2020,0,0.0,17.0,24.0
+Erzgebirgskreis,DED42,2020,0,0.0,14.8,16.0
+Mittelsachsen,DED43,2020,0,0.0,17.2,17.6
+Vogtlandkreis,DED44,2020,0,0.0,15.2,14.4
+Zwickau,DED45,2020,0,0.0,16.8,18.8
+"Dresden, Stadt",DED21,2020,0,0.0,19.6,25.6
+Bautzen,DED2C,2020,0,0.0,19.2,16.0
+Görlitz,DED2D,2020,0,0.0,20.4,15.6
+Meißen,DED2E,2020,0,0.0,18.8,19.0
+Sächsische Schweiz-Osterzgebirge,DED2F,2020,0,0.0,18.0,17.4
+"Leipzig, Stadt",DED51,2020,0,0.0,19.8,23.8
+Leipzig,DED52,2020,0,0.0,18.6,18.0
+Nordsachsen,DED53,2020,0,0.0,19.2,16.6
+"Dessau-Roßlau, Stadt",DEE01,2020,0,0.0,18.6,17.4
+"Halle (Saale), Stadt",DEE02,2020,0,0.0,19.2,23.4
+"Magdeburg, Landeshauptstadt",DEE03,2020,0,0.0,18.8,22.2
+Altmarkkreis Salzwedel,DEE04,2020,0,0.0,17.0,13.2
+Anhalt-Bitterfeld,DEE05,2020,0,0.0,18.6,17.2
+Börde,DEE07,2020,0,0.0,17.4,15.4
+Burgenlandkreis,DEE08,2020,0,1104764.197530864,17.8,17.4
+Harz,DEE09,2020,0,0.0,15.2,14.2
+Jerichower Land,DEE06,2020,0,0.0,17.6,12.2
+Mansfeld-Südharz,DEE0A,2020,0,0.0,16.6,15.8
+Saalekreis,DEE0B,2020,0,0.0,18.6,18.2
+Salzlandkreis,DEE0C,2020,0,955999.9999999999,18.2,18.0
+Stendal,DEE0D,2020,0,0.0,17.4,10.0
+Wittenberg,DEE0E,2020,0,0.0,18.6,14.4
+"Erfurt, Stadt",DEG01,2020,0,0.0,17.2,21.0
+"Gera, Stadt",DEG02,2020,0,0.0,17.6,19.4
+"Jena, Stadt",DEG03,2020,0,0.0,17.2,19.6
+"Suhl, Stadt",DEG04,2020,0,0.0,15.2,17.8
+"Weimar, Stadt",DEG05,2020,0,0.0,17.0,19.6
+Eichsfeld,DEG06,2020,1,1341781.481481481,15.4,14.0
+Nordhausen,DEG07,2020,0,0.0,15.8,15.4
+Wartburgkreis,DEG0P,2020,0,0.0,15.4,15.2
+Unstrut-Hainich-Kreis,DEG09,2020,0,0.0,16.2,15.6
+Kyffhäuserkreis,DEG0A,2020,0,0.0,16.8,15.8
+Schmalkalden-Meiningen,DEG0B,2020,0,0.0,15.0,15.4
+Gotha,DEG0C,2020,0,0.0,15.8,16.4
+Sömmerda,DEG0D,2020,0,0.0,17.4,17.8
+Hildburghausen,DEG0E,2020,0,0.0,15.0,14.8
+Ilm-Kreis,DEG0F,2020,0,0.0,14.6,14.8
+Weimarer Land,DEG0G,2020,0,0.0,16.6,16.4
+Sonneberg,DEG0H,2020,0,0.0,14.8,14.8
+Saalfeld-Rudolstadt,DEG0I,2020,0,0.0,14.6,13.4
+Saale-Holzland-Kreis,DEG0J,2020,0,0.0,16.6,15.6
+Saale-Orla-Kreis,DEG0K,2020,0,0.0,15.2,13.8
+Greiz,DEG0L,2020,0,0.0,16.4,15.6
+Altenburger Land,DEG0M,2020,0,0.0,17.8,17.8
+nan,,2020,-1,0.0,8681.400000000005,8540.799999999988
+"Flensburg, Stadt",DEF01,2021,0,0.0,17.6,20.8
+"Kiel, Landeshauptstadt",DEF02,2021,0,0.0,15.8,22.6
+"Lübeck, Hansestadt",DEF03,2021,0,0.0,16.8,17.6
+"Neumünster, Stadt",DEF04,2021,0,0.0,16.4,23.4
+Dithmarschen,DEF05,2021,0,0.0,17.2,17.2
+Herzogtum Lauenburg,DEF06,2021,0,0.0,17.0,14.8
+Nordfriesland,DEF07,2021,0,0.0,16.6,12.2
+Ostholstein,DEF08,2021,0,0.0,15.6,8.8
+Pinneberg,DEF09,2021,0,0.0,17.6,22.6
+Plön,DEF0A,2021,0,0.0,15.4,12.2
+Rendsburg-Eckernförde,DEF0B,2021,0,0.0,16.2,16.2
+Schleswig-Flensburg,DEF0C,2021,0,0.0,17.0,14.8
+Segeberg,DEF0D,2021,0,0.0,16.4,17.0
+Steinburg,DEF0E,2021,0,1299564.197530864,17.2,20.0
+Stormarn,DEF0F,2021,0,0.0,17.0,15.8
+"Hamburg, Freie und Hansestadt",DE600,2021,0,0.0,19.0,29.4
+"Braunschweig, Stadt",DE911,2021,0,0.0,18.8,22.0
+"Salzgitter, Stadt",DE912,2021,0,0.0,18.0,17.0
+"Wolfsburg, Stadt",DE913,2021,0,0.0,18.8,19.4
+Gifhorn,DE914,2021,0,0.0,17.8,15.0
+Goslar,DE916,2021,0,0.0,15.0,12.2
+Helmstedt,DE917,2021,0,0.0,18.2,15.0
+Northeim,DE918,2021,0,0.0,16.8,15.2
+Peine,DE91A,2021,0,0.0,18.2,17.0
+Wolfenbüttel,DE91B,2021,0,0.0,17.8,14.6
+Göttingen,DE91C,2021,0,0.0,16.8,15.4
+Region Hannover,DE929,2021,0,723123.4567901234,17.8,19.6
+Diepholz,DE922,2021,0,0.0,18.2,19.8
+Hameln-Pyrmont,DE923,2021,0,0.0,17.2,17.2
+Hildesheim,DE925,2021,0,0.0,17.2,15.8
+Holzminden,DE926,2021,0,0.0,16.8,15.6
+Nienburg (Weser),DE927,2021,0,0.0,17.8,18.2
+Schaumburg,DE928,2021,0,0.0,17.6,18.6
+Celle,DE931,2021,0,0.0,17.2,15.4
+Cuxhaven,DE932,2021,0,0.0,17.2,18.4
+Harburg,DE933,2021,0,0.0,17.6,18.0
+Lüchow-Dannenberg,DE934,2021,0,0.0,17.8,12.0
+Lüneburg,DE935,2021,0,0.0,17.6,14.8
+Osterholz,DE936,2021,0,0.0,18.2,21.0
+Rotenburg (Wümme),DE937,2021,0,0.0,17.6,18.6
+Heidekreis,DE938,2021,0,0.0,17.2,15.2
+Stade,DE939,2021,0,0.0,17.8,21.2
+Uelzen,DE93A,2021,0,0.0,17.6,14.0
+Verden,DE93B,2021,0,0.0,18.2,20.2
+"Delmenhorst, Stadt",DE941,2021,0,0.0,19.4,27.8
+"Emden, Stadt",DE942,2021,0,0.0,18.0,19.6
+"Oldenburg (Oldenburg), Stadt",DE943,2021,0,0.0,19.0,27.8
+"Osnabrück, Stadt",DE944,2021,0,0.0,19.2,26.2
+"Wilhelmshaven, Stadt",DE945,2021,0,0.0,17.6,21.8
+Ammerland,DE946,2021,0,0.0,18.2,20.4
+Aurich,DE947,2021,0,0.0,17.8,17.8
+Cloppenburg,DE948,2021,0,0.0,18.2,20.0
+Emsland,DE949,2021,0,0.0,18.2,19.2
+Friesland,DE94A,2021,0,0.0,17.4,18.0
+Grafschaft Bentheim,DE94B,2021,0,0.0,18.6,20.2
+Leer,DE94C,2021,0,0.0,18.2,19.0
+Oldenburg,DE94D,2021,0,0.0,18.2,20.0
+Osnabrück,DE94E,2021,0,0.0,18.6,19.8
+Vechta,DE94F,2021,0,0.0,18.4,20.6
+Wesermarsch,DE94G,2021,0,0.0,18.2,20.8
+Wittmund,DE94H,2021,0,0.0,17.4,17.2
+"Bremen, Stadt",DE501,2021,0,0.0,19.8,30.6
+"Bremerhaven, Stadt",DE502,2021,0,0.0,18.4,28.8
+"Düsseldorf, Stadt",DEA11,2021,0,0.0,21.0,42.2
+"Duisburg, Stadt",DEA12,2021,0,0.0,23.8,42.2
+"Essen, Stadt",DEA13,2021,0,0.0,21.4,40.8
+"Krefeld, Stadt",DEA14,2021,0,0.0,21.8,37.6
+"Mönchengladbach, Stadt",DEA15,2021,0,0.0,19.8,32.6
+"Mülheim an der Ruhr, Stadt",DEA16,2021,0,0.0,21.8,37.8
+"Oberhausen, Stadt",DEA17,2021,0,0.0,23.6,42.4
+"Remscheid, Stadt",DEA18,2021,0,0.0,19.0,27.2
+"Solingen, Klingenstadt",DEA19,2021,0,0.0,19.4,32.0
+"Wuppertal, Stadt",DEA1A,2021,0,0.0,19.6,32.2
+Kleve,DEA1B,2021,0,0.0,20.8,24.0
+Mettmann,DEA1C,2021,0,0.0,19.8,32.6
+Rhein-Kreis Neuss,DEA1D,2021,0,0.0,20.2,35.2
+Viersen,DEA1E,2021,0,0.0,20.6,28.6
+Wesel,DEA1F,2021,0,0.0,21.6,26.4
+"Bonn, Stadt",DEA22,2021,0,0.0,19.8,36.6
+"Köln, Stadt",DEA23,2021,0,0.0,20.6,42.4
+"Leverkusen, Stadt",DEA24,2021,0,0.0,20.0,36.4
+Städteregion Aachen,DEA2D,2021,0,0.0,16.2,20.8
+Düren,DEA26,2021,0,0.0,17.2,24.0
+Rhein-Erft-Kreis,DEA27,2021,0,0.0,19.4,34.2
+Euskirchen,DEA28,2021,0,0.0,14.6,16.6
+Heinsberg,DEA29,2021,0,0.0,19.0,24.4
+Oberbergischer Kreis,DEA2A,2021,0,0.0,17.6,19.6
+Rheinisch-Bergischer Kreis,DEA2B,2021,0,0.0,18.6,25.0
+Rhein-Sieg-Kreis,DEA2C,2021,0,0.0,18.2,25.4
+"Bottrop, Stadt",DEA31,2021,0,0.0,23.4,35.6
+"Gelsenkirchen, Stadt",DEA32,2021,0,0.0,23.0,40.2
+"Münster, Stadt",DEA33,2021,0,0.0,20.2,24.8
+Borken,DEA34,2021,0,0.0,20.0,21.8
+Coesfeld,DEA35,2021,0,0.0,20.0,22.6
+Recklinghausen,DEA36,2021,0,0.0,21.6,30.0
+Steinfurt,DEA37,2021,0,1326095.061728395,19.4,21.4
+Warendorf,DEA38,2021,0,1082570.37037037,20.0,22.0
+"Bielefeld, Stadt",DEA41,2021,0,0.0,19.8,25.6
+Gütersloh,DEA42,2021,0,0.0,19.8,21.8
+Herford,DEA43,2021,0,0.0,19.0,22.6
+Höxter,DEA44,2021,0,0.0,17.8,17.0
+Lippe,DEA45,2021,0,0.0,18.2,19.0
+Minden-Lübbecke,DEA46,2021,0,0.0,18.4,20.0
+Paderborn,DEA47,2021,0,340635.8024691358,18.2,18.8
+"Bochum, Stadt",DEA51,2021,0,0.0,21.4,38.2
+"Dortmund, Stadt",DEA52,2021,0,0.0,21.0,35.2
+"Hagen, Stadt der FernUniversität",DEA53,2021,0,0.0,18.8,26.6
+"Hamm, Stadt",DEA54,2021,0,0.0,20.6,27.0
+"Herne, Stadt",DEA55,2021,0,0.0,22.4,41.4
+Ennepe-Ruhr-Kreis,DEA56,2021,0,0.0,19.2,26.6
+Hochsauerlandkreis,DEA57,2021,0,0.0,15.6,14.6
+Märkischer Kreis,DEA58,2021,0,0.0,17.4,19.0
+Olpe,DEA59,2021,0,0.0,16.2,16.8
+Siegen-Wittgenstein,DEA5A,2021,0,0.0,16.0,17.8
+Soest,DEA5B,2021,-1,1988200.0,18.8,20.2
+Unna,DEA5C,2021,0,0.0,20.4,28.0
+"Darmstadt, Wissenschaftsstadt",DE711,2021,0,0.0,19.0,30.0
+"Frankfurt am Main, Stadt",DE712,2021,0,0.0,20.2,41.8
+"Offenbach am Main, Stadt",DE713,2021,0,0.0,19.4,35.8
+"Wiesbaden, Landeshauptstadt",DE714,2021,0,246524.6913580247,19.0,33.4
+Bergstraße,DE715,2021,0,0.0,17.0,21.4
+Darmstadt-Dieburg,DE716,2021,0,0.0,17.6,23.4
+Groß-Gerau,DE717,2021,0,0.0,19.4,30.2
+Hochtaunuskreis,DE718,2021,0,0.0,17.0,24.2
+Main-Kinzig-Kreis,DE719,2021,0,0.0,17.2,21.6
+Main-Taunus-Kreis,DE71A,2021,0,0.0,18.8,33.0
+Odenwaldkreis,DE71B,2021,0,0.0,15.2,15.4
+Offenbach,DE71C,2021,0,0.0,18.8,28.8
+Rheingau-Taunus-Kreis,DE71D,2021,0,0.0,16.4,21.8
+Wetteraukreis,DE71E,2021,0,0.0,18.4,24.6
+Gießen,DE721,2021,0,0.0,18.6,24.0
+Lahn-Dill-Kreis,DE722,2021,0,0.0,17.4,21.6
+Limburg-Weilburg,DE723,2021,0,0.0,17.6,22.4
+Marburg-Biedenkopf,DE724,2021,0,0.0,17.6,19.4
+Vogelsbergkreis,DE725,2021,0,0.0,16.4,15.8
+"Kassel, documenta-Stadt",DE731,2021,0,0.0,19.0,26.8
+Fulda,DE732,2021,0,154758.024691358,15.6,16.4
+Hersfeld-Rotenburg,DE733,2021,0,0.0,16.8,15.4
+Kassel,DE734,2021,0,0.0,17.8,17.8
+Schwalm-Eder-Kreis,DE735,2021,0,0.0,17.6,16.8
+Waldeck-Frankenberg,DE736,2021,0,0.0,16.2,14.4
+Werra-Meißner-Kreis,DE737,2021,0,0.0,16.6,14.4
+"Koblenz, kreisfreie Stadt",DEB11,2021,0,0.0,19.2,33.8
+Ahrweiler,DEB12,2021,0,0.0,15.4,18.0
+Altenkirchen (Westerwald),DEB13,2021,0,0.0,16.6,18.8
+Bad Kreuznach,DEB14,2021,0,0.0,15.8,19.2
+Birkenfeld,DEB15,2021,0,0.0,14.0,14.4
+Cochem-Zell,DEB1C,2021,0,0.0,14.8,15.6
+Mayen-Koblenz,DEB17,2021,0,0.0,16.8,22.6
+Neuwied,DEB18,2021,0,0.0,17.6,23.0
+Rhein-Hunsrück-Kreis,DEB1D,2021,0,0.0,14.8,16.8
+Rhein-Lahn-Kreis,DEB1A,2021,0,0.0,16.4,19.6
+Westerwaldkreis,DEB1B,2021,0,0.0,16.8,21.2
+"Trier, kreisfreie Stadt",DEB21,2021,0,0.0,15.4,25.4
+Bernkastel-Wittlich,DEB22,2021,0,0.0,14.4,15.2
+Eifelkreis Bitburg-Prüm,DEB23,2021,0,0.0,13.0,13.4
+Vulkaneifel,DEB24,2021,0,194143.2098765432,13.2,13.0
+Trier-Saarburg,DEB25,2021,0,0.0,14.2,16.2
+"Frankenthal (Pfalz), kreisfreie Stadt",DEB31,2021,0,0.0,19.4,34.4
+"Kaiserslautern, kreisfreie Stadt",DEB32,2021,0,0.0,15.8,21.6
+"Landau in der Pfalz, kreisfreie Stadt",DEB33,2021,0,0.0,17.0,23.8
+"Ludwigshafen am Rhein, kreisfreie Stadt",DEB34,2021,0,0.0,20.2,38.2
+"Mainz, kreisfreie Stadt",DEB35,2021,0,0.0,19.4,36.4
+"Neustadt an der Weinstraße, kreisfreie Stadt",DEB36,2021,0,0.0,16.6,22.8
+"Pirmasens, kreisfreie Stadt",DEB37,2021,0,0.0,15.2,18.6
+"Speyer, kreisfreie Stadt",DEB38,2021,0,0.0,19.2,31.6
+"Worms, kreisfreie Stadt",DEB39,2021,0,0.0,18.8,28.6
+"Zweibrücken, kreisfreie Stadt",DEB3A,2021,0,0.0,15.8,18.6
+Alzey-Worms,DEB3B,2021,0,0.0,17.4,24.0
+Bad Dürkheim,DEB3C,2021,0,0.0,16.2,21.0
+Donnersbergkreis,DEB3D,2021,0,926440.7407407407,15.4,18.0
+Germersheim,DEB3E,2021,0,0.0,17.8,23.8
+Kaiserslautern,DEB3F,2021,0,0.0,15.0,17.0
+Kusel,DEB3G,2021,0,0.0,15.2,16.2
+Südliche Weinstraße,DEB3H,2021,0,0.0,16.0,19.2
+Rhein-Pfalz-Kreis,DEB3I,2021,0,0.0,18.8,29.6
+Mainz-Bingen,DEB3J,2021,0,0.0,17.8,26.4
+Südwestpfalz,DEB3K,2021,0,0.0,14.4,14.4
+"Stuttgart, Stadtkreis",DE111,2021,0,0.0,18.0,35.4
+Böblingen,DE112,2021,0,0.0,15.0,23.4
+Esslingen,DE113,2021,0,0.0,16.0,26.4
+Göppingen,DE114,2021,0,0.0,14.0,21.8
+Ludwigsburg,DE115,2021,0,0.0,16.8,26.4
+Rems-Murr-Kreis,DE116,2021,0,0.0,15.2,20.6
+"Heilbronn, Stadtkreis",DE117,2021,0,0.0,17.6,29.8
+Heilbronn,DE118,2021,0,0.0,16.4,22.2
+Hohenlohekreis,DE119,2021,0,0.0,15.0,17.8
+Schwäbisch Hall,DE11A,2021,0,0.0,14.0,16.6
+Main-Tauber-Kreis,DE11B,2021,0,0.0,15.4,16.8
+Heidenheim,DE11C,2021,0,616516.049382716,13.4,20.2
+Ostalbkreis,DE11D,2021,0,0.0,13.4,18.0
+"Baden-Baden, Stadtkreis",DE121,2021,0,0.0,14.8,19.4
+"Karlsruhe, Stadtkreis",DE122,2021,0,0.0,18.4,29.4
+Karlsruhe,DE123,2021,0,558301.2345679012,17.2,23.8
+Rastatt,DE124,2021,0,0.0,15.6,20.6
+"Heidelberg, Stadtkreis",DE125,2021,0,0.0,18.0,26.4
+"Mannheim, Stadtkreis",DE126,2021,0,0.0,20.4,36.2
+Neckar-Odenwald-Kreis,DE127,2021,0,0.0,15.2,16.6
+Rhein-Neckar-Kreis,DE128,2021,0,519879.012345679,17.4,22.8
+"Pforzheim, Stadtkreis",DE129,2021,0,0.0,14.8,26.4
+Calw,DE12A,2021,0,0.0,12.4,15.2
+Enzkreis,DE12B,2021,0,0.0,15.0,21.8
+Freudenstadt,DE12C,2021,0,0.0,11.4,12.6
+"Freiburg im Breisgau, Stadtkreis",DE131,2021,0,0.0,14.4,22.2
+Breisgau-Hochschwarzwald,DE132,2021,0,0.0,11.6,13.4
+Emmendingen,DE133,2021,0,0.0,13.0,14.8
+Ortenaukreis,DE134,2021,0,0.0,13.6,15.6
+Rottweil,DE135,2021,0,0.0,11.4,13.8
+Schwarzwald-Baar-Kreis,DE136,2021,0,0.0,10.2,12.2
+Tuttlingen,DE137,2021,0,0.0,11.6,14.2
+Konstanz,DE138,2021,0,0.0,13.6,17.2
+Lörrach,DE139,2021,0,0.0,13.0,15.0
+Waldshut,DE13A,2021,0,0.0,11.4,13.2
+Reutlingen,DE141,2021,0,0.0,12.6,18.0
+Tübingen,DE142,2021,0,0.0,14.2,20.2
+Zollernalbkreis,DE143,2021,0,840232.098765432,11.8,15.4
+"Ulm, Stadtkreis",DE144,2021,0,0.0,15.0,27.6
+Alb-Donau-Kreis,DE145,2021,0,889755.5555555555,12.6,19.0
+Biberach,DE146,2021,0,0.0,12.0,16.2
+Bodenseekreis,DE147,2021,0,0.0,13.8,17.8
+Ravensburg,DE148,2021,0,0.0,11.4,15.4
+Sigmaringen,DE149,2021,0,0.0,12.0,14.0
+Ingolstadt,DE211,2021,0,0.0,16.8,28.2
+"München, Landeshauptstadt",DE212,2021,0,0.0,15.6,37.8
+"Rosenheim, Stadt",DE213,2021,0,0.0,15.2,29.2
+Altötting,DE214,2021,0,0.0,15.8,20.2
+Berchtesgadener Land,DE215,2021,0,0.0,14.4,17.6
+Bad Tölz-Wolfratshausen,DE216,2021,0,0.0,9.0,17.4
+Dachau,DE217,2021,0,0.0,12.2,21.6
+Ebersberg,DE218,2021,0,0.0,12.2,20.8
+Eichstätt,DE219,2021,0,0.0,13.8,18.4
+Erding,DE21A,2021,0,0.0,13.2,21.8
+Freising,DE21B,2021,0,0.0,13.0,21.8
+Fürstenfeldbruck,DE21C,2021,0,0.0,11.8,22.4
+Garmisch-Partenkirchen,DE21D,2021,0,0.0,8.6,17.8
+Landsberg am Lech,DE21E,2021,0,0.0,9.8,18.4
+Miesbach,DE21F,2021,0,0.0,9.6,18.2
+Mühldorf a.Inn,DE21G,2021,0,0.0,14.2,20.4
+München,DE21H,2021,0,0.0,12.4,24.0
+Neuburg-Schrobenhausen,DE21I,2021,0,0.0,13.2,20.0
+Pfaffenhofen a.d.Ilm,DE21J,2021,0,0.0,13.2,20.4
+Rosenheim,DE21K,2021,0,926408.6419753085,12.6,20.0
+Starnberg,DE21L,2021,0,0.0,10.4,20.0
+Traunstein,DE21M,2021,0,0.0,13.6,18.8
+Weilheim-Schongau,DE21N,2021,0,0.0,8.0,17.4
+"Landshut, Stadt",DE221,2021,0,0.0,15.4,25.2
+"Passau, Stadt",DE222,2021,0,0.0,19.4,27.2
+Straubing,DE223,2021,0,0.0,17.8,25.4
+Deggendorf,DE224,2021,0,0.0,16.0,18.8
+Freyung-Grafenau,DE225,2021,0,0.0,13.4,13.8
+Kelheim,DE226,2021,0,0.0,14.4,18.8
+Landshut,DE227,2021,0,0.0,14.0,19.4
+Passau,DE228,2021,0,0.0,16.6,18.6
+Regen,DE229,2021,0,0.0,13.0,13.2
+Rottal-Inn,DE22A,2021,0,0.0,15.8,18.4
+Straubing-Bogen,DE22B,2021,0,0.0,15.0,17.6
+Dingolfing-Landau,DE22C,2021,0,0.0,15.4,19.0
+Amberg,DE231,2021,0,0.0,16.4,22.4
+"Regensburg, Stadt",DE232,2021,0,0.0,17.8,29.8
+Weiden i.d.OPf.,DE233,2021,0,0.0,16.2,23.0
+Amberg-Sulzbach,DE234,2021,0,0.0,14.0,14.2
+Cham,DE235,2021,0,0.0,14.2,14.2
+Neumarkt i.d.OPf.,DE236,2021,0,0.0,13.6,16.4
+Neustadt a.d.Waldnaab,DE237,2021,0,0.0,14.2,14.0
+Regensburg,DE238,2021,0,0.0,15.0,17.8
+Schwandorf,DE239,2021,0,1247025.925925926,14.4,14.8
+Tirschenreuth,DE23A,2021,0,0.0,14.2,13.4
+"Bamberg, Stadt",DE241,2021,0,0.0,19.0,28.0
+"Bayreuth, Stadt",DE242,2021,0,0.0,17.2,23.4
+"Coburg, Stadt",DE243,2021,0,0.0,18.2,23.4
+"Hof, Stadt",DE244,2021,0,0.0,16.0,20.6
+Bamberg,DE245,2021,0,0.0,16.0,17.2
+Bayreuth,DE246,2021,0,0.0,14.2,14.2
+Coburg,DE247,2021,0,0.0,16.0,16.6
+Forchheim,DE248,2021,0,0.0,15.4,17.0
+Hof,DE249,2021,0,0.0,14.0,14.4
+Kronach,DE24A,2021,0,0.0,14.8,13.8
+Kulmbach,DE24B,2021,0,0.0,14.8,15.4
+Lichtenfels,DE24C,2021,0,0.0,15.8,16.4
+Wunsiedel i.Fichtelgebirge,DE24D,2021,0,0.0,14.2,14.0
+"Ansbach, Stadt",DE251,2021,0,0.0,14.8,19.2
+Erlangen,DE252,2021,0,0.0,19.2,28.6
+"Fürth, Stadt",DE253,2021,0,0.0,19.4,32.2
+Nürnberg,DE254,2021,0,0.0,20.0,35.0
+Schwabach,DE255,2021,0,0.0,17.6,27.0
+Ansbach,DE256,2021,0,0.0,13.8,16.4
+Erlangen-Höchstadt,DE257,2021,0,0.0,16.6,20.6
+Fürth,DE258,2021,0,0.0,16.4,22.2
+Nürnberger Land,DE259,2021,0,0.0,15.0,17.2
+Neustadt a.d.Aisch-Bad Windsheim,DE25A,2021,0,0.0,15.0,16.8
+Roth,DE25B,2021,0,0.0,14.0,17.2
+Weißenburg-Gunzenhausen,DE25C,2021,0,366146.9135802469,13.2,16.8
+"Aschaffenburg, Stadt",DE261,2021,0,0.0,17.8,28.2
+"Schweinfurt, Stadt",DE262,2021,0,0.0,18.0,27.2
+"Würzburg, Stadt",DE263,2021,0,0.0,17.2,27.8
+Aschaffenburg,DE264,2021,0,0.0,16.6,21.2
+Bad Kissingen,DE265,2021,0,0.0,15.4,15.8
+Rhön-Grabfeld,DE266,2021,0,0.0,15.4,15.6
+Haßberge,DE267,2021,0,0.0,15.8,15.8
+Kitzingen,DE268,2021,0,0.0,16.2,19.2
+Miltenberg,DE269,2021,0,0.0,15.8,17.2
+Main-Spessart,DE26A,2021,0,780330.8641975308,15.8,17.4
+Schweinfurt,DE26B,2021,0,0.0,16.4,19.4
+Würzburg,DE26C,2021,0,0.0,16.4,20.2
+"Augsburg, Stadt",DE271,2021,0,0.0,15.2,29.8
+Kaufbeuren,DE272,2021,0,0.0,11.0,21.2
+Kempten (Allgäu),DE273,2021,0,0.0,11.2,22.2
+Memmingen,DE274,2021,0,0.0,12.0,20.0
+Aichach-Friedberg,DE275,2021,0,0.0,12.0,19.8
+Augsburg,DE276,2021,0,0.0,12.2,19.4
+Dillingen a.d.Donau,DE277,2021,0,0.0,13.0,19.8
+Günzburg,DE278,2021,0,0.0,12.4,18.6
+Neu-Ulm,DE279,2021,0,0.0,13.4,21.2
+Lindau (Bodensee),DE27A,2021,0,0.0,11.2,17.0
+Ostallgäu,DE27B,2021,0,0.0,8.4,16.8
+Unterallgäu,DE27C,2021,0,0.0,9.8,16.0
+Donau-Ries,DE27D,2021,0,776741.9753086419,13.0,19.0
+Oberallgäu,DE27E,2021,0,0.0,8.4,14.6
+Regionalverband Saarbrücken,DEC01,2021,0,0.0,17.0,22.6
+Merzig-Wadern,DEC02,2021,0,0.0,14.8,17.2
+Neunkirchen,DEC03,2021,0,0.0,16.2,20.6
+Saarlouis,DEC04,2021,0,0.0,16.6,21.4
+Saarpfalz-Kreis,DEC05,2021,0,0.0,15.8,18.2
+St. Wendel,DEC06,2021,0,0.0,14.6,16.0
+"Berlin, Stadt",DE300,2021,0,0.0,23.8,29.0
+"Brandenburg an der Havel, Stadt",DE401,2021,0,0.0,19.6,15.6
+"Cottbus, Stadt",DE402,2021,0,0.0,22.6,17.0
+"Frankfurt (Oder), Stadt",DE403,2021,0,0.0,23.2,14.6
+"Potsdam, Stadt",DE404,2021,0,0.0,20.6,18.8
+Barnim,DE405,2021,0,0.0,20.2,14.8
+Dahme-Spreewald,DE406,2021,0,0.0,20.2,13.4
+Elbe-Elster,DE407,2021,0,0.0,19.0,13.8
+Havelland,DE408,2021,0,0.0,19.6,13.8
+Märkisch-Oderland,DE409,2021,-1,1551509.87654321,21.2,14.6
+Oberhavel,DE40A,2021,0,0.0,19.4,14.2
+Oberspreewald-Lausitz,DE40B,2021,0,0.0,19.6,12.8
+Oder-Spree,DE40C,2021,0,0.0,21.0,12.0
+Ostprignitz-Ruppin,DE40D,2021,0,0.0,18.6,12.0
+Potsdam-Mittelmark,DE40E,2021,0,0.0,19.2,13.8
+Prignitz,DE40F,2021,0,0.0,18.2,10.2
+Spree-Neiße,DE40G,2021,0,0.0,21.0,12.2
+Teltow-Fläming,DE40H,2021,0,0.0,20.0,14.4
+Uckermark,DE40I,2021,0,0.0,19.0,12.6
+Rostock,DE803,2021,0,0.0,18.4,18.2
+Schwerin,DE804,2021,0,0.0,18.2,15.8
+Mecklenburgische Seenplatte,DE80J,2021,0,0.0,17.8,11.2
+Landkreis Rostock,DE80K,2021,0,0.0,17.4,11.0
+Vorpommern-Rügen,DE80L,2021,0,0.0,16.2,8.0
+Nordwestmecklenburg,DE80M,2021,0,0.0,17.2,10.2
+Vorpommern-Greifswald,DE80N,2021,0,0.0,18.0,11.0
+Ludwigslust-Parchim,DE80O,2021,0,0.0,17.6,10.8
+"Chemnitz, Stadt",DED41,2021,0,0.0,17.6,24.6
+Erzgebirgskreis,DED42,2021,0,0.0,15.2,16.0
+Mittelsachsen,DED43,2021,0,0.0,17.2,18.2
+Vogtlandkreis,DED44,2021,0,0.0,14.6,14.4
+Zwickau,DED45,2021,0,0.0,16.6,19.2
+"Dresden, Stadt",DED21,2021,0,0.0,20.8,24.6
+Bautzen,DED2C,2021,0,0.0,20.0,15.2
+Görlitz,DED2D,2021,0,0.0,21.4,16.4
+Meißen,DED2E,2021,0,0.0,19.0,18.2
+Sächsische Schweiz-Osterzgebirge,DED2F,2021,0,0.0,18.8,17.4
+"Leipzig, Stadt",DED51,2021,0,0.0,19.8,24.2
+Leipzig,DED52,2021,0,0.0,18.2,18.0
+Nordsachsen,DED53,2021,0,0.0,18.8,16.2
+"Dessau-Roßlau, Stadt",DEE01,2021,0,0.0,19.4,17.0
+"Halle (Saale), Stadt",DEE02,2021,0,0.0,19.6,23.6
+"Magdeburg, Landeshauptstadt",DEE03,2021,0,0.0,20.2,21.8
+Altmarkkreis Salzwedel,DEE04,2021,0,0.0,18.2,12.8
+Anhalt-Bitterfeld,DEE05,2021,0,0.0,19.0,16.2
+Börde,DEE07,2021,0,0.0,18.4,14.2
+Burgenlandkreis,DEE08,2021,0,1190417.283950617,17.6,16.6
+Harz,DEE09,2021,0,0.0,16.0,13.4
+Jerichower Land,DEE06,2021,0,0.0,18.6,11.8
+Mansfeld-Südharz,DEE0A,2021,0,0.0,17.0,15.4
+Saalekreis,DEE0B,2021,0,0.0,18.6,17.4
+Salzlandkreis,DEE0C,2021,0,952775.3086419753,18.8,17.4
+Stendal,DEE0D,2021,0,0.0,18.6,10.0
+Wittenberg,DEE0E,2021,0,0.0,18.8,13.0
+"Erfurt, Stadt",DEG01,2021,0,0.0,17.2,20.8
+"Gera, Stadt",DEG02,2021,0,0.0,17.4,19.6
+"Jena, Stadt",DEG03,2021,0,0.0,17.2,19.8
+"Suhl, Stadt",DEG04,2021,0,0.0,15.4,16.2
+"Weimar, Stadt",DEG05,2021,0,0.0,17.0,19.6
+Eichsfeld,DEG06,2021,0,1322486.419753086,16.6,14.4
+Nordhausen,DEG07,2021,0,0.0,16.6,14.4
+Wartburgkreis,DEG0P,2021,0,0.0,16.2,14.6
+Unstrut-Hainich-Kreis,DEG09,2021,0,0.0,17.2,15.8
+Kyffhäuserkreis,DEG0A,2021,0,0.0,17.0,15.2
+Schmalkalden-Meiningen,DEG0B,2021,0,0.0,15.2,14.2
+Gotha,DEG0C,2021,0,0.0,16.2,15.8
+Sömmerda,DEG0D,2021,0,0.0,17.6,17.4
+Hildburghausen,DEG0E,2021,0,0.0,14.8,13.4
+Ilm-Kreis,DEG0F,2021,0,0.0,14.6,14.0
+Weimarer Land,DEG0G,2021,0,0.0,16.4,16.4
+Sonneberg,DEG0H,2021,0,0.0,14.6,13.4
+Saalfeld-Rudolstadt,DEG0I,2021,0,0.0,14.4,12.6
+Saale-Holzland-Kreis,DEG0J,2021,0,0.0,16.2,15.0
+Saale-Orla-Kreis,DEG0K,2021,0,0.0,14.4,13.4
+Greiz,DEG0L,2021,0,0.0,15.8,15.4
+Altenburger Land,DEG0M,2021,0,0.0,17.2,18.0
+nan,,2021,-1,0.0,8712.999999999996,8190.399999999993
+"Flensburg, Stadt",DEF01,2022,0,0.0,17.4,20.2
+"Kiel, Landeshauptstadt",DEF02,2022,0,0.0,15.6,22.0
+"Lübeck, Hansestadt",DEF03,2022,0,0.0,16.0,18.2
+"Neumünster, Stadt",DEF04,2022,0,0.0,15.8,22.2
+Dithmarschen,DEF05,2022,0,0.0,16.6,15.6
+Herzogtum Lauenburg,DEF06,2022,0,0.0,16.0,15.0
+Nordfriesland,DEF07,2022,0,0.0,16.0,11.0
+Ostholstein,DEF08,2022,0,0.0,14.8,9.2
+Pinneberg,DEF09,2022,0,0.0,16.8,21.4
+Plön,DEF0A,2022,0,0.0,14.8,12.4
+Rendsburg-Eckernförde,DEF0B,2022,0,0.0,15.6,15.4
+Schleswig-Flensburg,DEF0C,2022,0,0.0,16.6,13.6
+Segeberg,DEF0D,2022,0,0.0,15.4,16.6
+Steinburg,DEF0E,2022,0,1187096.296296296,16.4,18.2
+Stormarn,DEF0F,2022,0,0.0,15.8,17.2
+"Hamburg, Freie und Hansestadt",DE600,2022,0,0.0,17.8,29.2
+"Braunschweig, Stadt",DE911,2022,0,0.0,18.0,22.0
+"Salzgitter, Stadt",DE912,2022,0,0.0,17.4,18.4
+"Wolfsburg, Stadt",DE913,2022,0,0.0,17.6,18.2
+Gifhorn,DE914,2022,0,0.0,16.6,14.2
+Goslar,DE916,2022,0,0.0,14.4,13.0
+Helmstedt,DE917,2022,0,0.0,17.2,14.2
+Northeim,DE918,2022,0,0.0,16.4,15.0
+Peine,DE91A,2022,0,0.0,17.4,18.2
+Wolfenbüttel,DE91B,2022,0,0.0,17.0,15.2
+Göttingen,DE91C,2022,0,0.0,16.0,14.8
+Region Hannover,DE929,2022,0,531638.2716049382,17.2,20.0
+Diepholz,DE922,2022,0,0.0,17.8,18.2
+Hameln-Pyrmont,DE923,2022,0,0.0,17.0,15.8
+Hildesheim,DE925,2022,0,0.0,16.6,16.6
+Holzminden,DE926,2022,0,0.0,16.4,14.4
+Nienburg (Weser),DE927,2022,0,0.0,17.0,17.4
+Schaumburg,DE928,2022,0,0.0,17.2,17.8
+Celle,DE931,2022,0,0.0,15.8,14.6
+Cuxhaven,DE932,2022,0,0.0,17.0,16.2
+Harburg,DE933,2022,0,0.0,16.0,17.2
+Lüchow-Dannenberg,DE934,2022,0,0.0,16.6,12.2
+Lüneburg,DE935,2022,0,0.0,16.2,14.4
+Osterholz,DE936,2022,0,0.0,18.2,19.4
+Rotenburg (Wümme),DE937,2022,0,0.0,16.8,17.2
+Heidekreis,DE938,2022,0,0.0,15.6,14.4
+Stade,DE939,2022,0,0.0,17.0,19.6
+Uelzen,DE93A,2022,0,0.0,16.0,13.4
+Verden,DE93B,2022,0,0.0,17.4,19.0
+"Delmenhorst, Stadt",DE941,2022,0,0.0,19.4,26.8
+"Emden, Stadt",DE942,2022,0,0.0,18.4,19.0
+"Oldenburg (Oldenburg), Stadt",DE943,2022,0,0.0,19.8,26.6
+"Osnabrück, Stadt",DE944,2022,0,0.0,18.6,24.4
+"Wilhelmshaven, Stadt",DE945,2022,0,0.0,18.0,20.2
+Ammerland,DE946,2022,0,0.0,19.2,18.0
+Aurich,DE947,2022,0,0.0,17.8,15.0
+Cloppenburg,DE948,2022,0,0.0,18.8,18.2
+Emsland,DE949,2022,0,0.0,18.0,18.0
+Friesland,DE94A,2022,0,0.0,17.8,15.8
+Grafschaft Bentheim,DE94B,2022,0,0.0,18.0,18.8
+Leer,DE94C,2022,0,0.0,19.0,17.8
+Oldenburg,DE94D,2022,0,0.0,18.4,18.4
+Osnabrück,DE94E,2022,0,0.0,18.2,18.0
+Vechta,DE94F,2022,0,0.0,18.4,18.8
+Wesermarsch,DE94G,2022,0,0.0,18.6,18.4
+Wittmund,DE94H,2022,0,0.0,17.6,14.2
+"Bremen, Stadt",DE501,2022,0,0.0,19.6,29.6
+"Bremerhaven, Stadt",DE502,2022,0,0.0,18.4,26.0
+"Düsseldorf, Stadt",DEA11,2022,0,0.0,20.2,39.4
+"Duisburg, Stadt",DEA12,2022,0,0.0,22.2,43.2
+"Essen, Stadt",DEA13,2022,0,0.0,21.4,40.2
+"Krefeld, Stadt",DEA14,2022,0,0.0,20.2,36.8
+"Mönchengladbach, Stadt",DEA15,2022,0,0.0,18.6,32.4
+"Mülheim an der Ruhr, Stadt",DEA16,2022,0,0.0,21.4,38.2
+"Oberhausen, Stadt",DEA17,2022,0,0.0,22.6,44.4
+"Remscheid, Stadt",DEA18,2022,0,0.0,18.2,25.0
+"Solingen, Klingenstadt",DEA19,2022,0,0.0,18.8,30.2
+"Wuppertal, Stadt",DEA1A,2022,0,0.0,19.0,29.6
+Kleve,DEA1B,2022,0,0.0,19.4,24.0
+Mettmann,DEA1C,2022,0,0.0,19.6,31.6
+Rhein-Kreis Neuss,DEA1D,2022,0,0.0,19.2,34.0
+Viersen,DEA1E,2022,0,0.0,19.0,28.6
+Wesel,DEA1F,2022,0,0.0,20.6,28.8
+"Bonn, Stadt",DEA22,2022,0,0.0,18.4,34.4
+"Köln, Stadt",DEA23,2022,0,0.0,19.8,40.4
+"Leverkusen, Stadt",DEA24,2022,0,0.0,19.6,35.0
+Städteregion Aachen,DEA2D,2022,0,0.0,14.8,22.4
+Düren,DEA26,2022,0,0.0,16.0,24.6
+Rhein-Erft-Kreis,DEA27,2022,0,0.0,18.4,32.6
+Euskirchen,DEA28,2022,0,0.0,13.6,16.4
+Heinsberg,DEA29,2022,0,0.0,17.6,25.8
+Oberbergischer Kreis,DEA2A,2022,0,0.0,16.0,18.2
+Rheinisch-Bergischer Kreis,DEA2B,2022,0,0.0,17.6,24.0
+Rhein-Sieg-Kreis,DEA2C,2022,0,0.0,17.0,24.2
+"Bottrop, Stadt",DEA31,2022,0,0.0,22.8,36.6
+"Gelsenkirchen, Stadt",DEA32,2022,0,0.0,22.8,40.2
+"Münster, Stadt",DEA33,2022,0,0.0,20.2,23.6
+Borken,DEA34,2022,0,0.0,19.2,22.4
+Coesfeld,DEA35,2022,0,0.0,19.8,21.4
+Recklinghausen,DEA36,2022,0,0.0,21.2,29.4
+Steinfurt,DEA37,2022,0,1284360.49382716,19.0,20.2
+Warendorf,DEA38,2022,0,974795.061728395,19.4,19.6
+"Bielefeld, Stadt",DEA41,2022,0,0.0,19.2,24.0
+Gütersloh,DEA42,2022,0,0.0,19.0,19.6
+Herford,DEA43,2022,0,0.0,18.8,21.4
+Höxter,DEA44,2022,0,0.0,16.6,15.4
+Lippe,DEA45,2022,0,0.0,17.6,17.0
+Minden-Lübbecke,DEA46,2022,0,0.0,18.0,18.8
+Paderborn,DEA47,2022,0,254738.2716049383,17.0,16.8
+"Bochum, Stadt",DEA51,2022,0,0.0,21.4,37.8
+"Dortmund, Stadt",DEA52,2022,0,0.0,20.8,33.6
+"Hagen, Stadt der FernUniversität",DEA53,2022,0,0.0,18.0,24.6
+"Hamm, Stadt",DEA54,2022,0,0.0,19.8,24.8
+"Herne, Stadt",DEA55,2022,0,0.0,22.4,40.8
+Ennepe-Ruhr-Kreis,DEA56,2022,0,0.0,18.6,24.8
+Hochsauerlandkreis,DEA57,2022,0,0.0,14.4,13.0
+Märkischer Kreis,DEA58,2022,0,0.0,16.2,17.0
+Olpe,DEA59,2022,0,0.0,14.8,15.2
+Siegen-Wittgenstein,DEA5A,2022,0,0.0,14.6,16.4
+Soest,DEA5B,2022,-1,1884912.345679012,17.4,18.4
+Unna,DEA5C,2022,0,0.0,20.0,26.0
+"Darmstadt, Wissenschaftsstadt",DE711,2022,0,0.0,17.8,28.8
+"Frankfurt am Main, Stadt",DE712,2022,0,0.0,18.6,38.8
+"Offenbach am Main, Stadt",DE713,2022,0,0.0,18.2,33.2
+"Wiesbaden, Landeshauptstadt",DE714,2022,0,241322.2222222222,17.8,31.6
+Bergstraße,DE715,2022,0,0.0,16.4,21.2
+Darmstadt-Dieburg,DE716,2022,0,0.0,16.8,22.2
+Groß-Gerau,DE717,2022,0,0.0,18.0,29.0
+Hochtaunuskreis,DE718,2022,0,0.0,15.8,22.2
+Main-Kinzig-Kreis,DE719,2022,0,0.0,16.0,19.8
+Main-Taunus-Kreis,DE71A,2022,0,0.0,17.6,31.4
+Odenwaldkreis,DE71B,2022,0,0.0,15.0,15.2
+Offenbach,DE71C,2022,0,0.0,17.6,27.4
+Rheingau-Taunus-Kreis,DE71D,2022,0,0.0,15.6,21.2
+Wetteraukreis,DE71E,2022,0,0.0,16.8,21.6
+Gießen,DE721,2022,0,0.0,16.6,21.0
+Lahn-Dill-Kreis,DE722,2022,0,0.0,15.6,20.2
+Limburg-Weilburg,DE723,2022,0,0.0,16.2,21.0
+Marburg-Biedenkopf,DE724,2022,0,0.0,15.8,17.6
+Vogelsbergkreis,DE725,2022,0,0.0,15.0,14.4
+"Kassel, documenta-Stadt",DE731,2022,0,0.0,17.6,25.4
+Fulda,DE732,2022,0,154402.4691358025,14.8,14.8
+Hersfeld-Rotenburg,DE733,2022,0,0.0,15.4,14.4
+Kassel,DE734,2022,0,0.0,16.4,16.6
+Schwalm-Eder-Kreis,DE735,2022,0,0.0,16.0,15.2
+Waldeck-Frankenberg,DE736,2022,0,0.0,14.8,13.0
+Werra-Meißner-Kreis,DE737,2022,0,0.0,15.6,13.4
+"Koblenz, kreisfreie Stadt",DEB11,2022,0,0.0,17.8,34.4
+Ahrweiler,DEB12,2022,0,0.0,14.4,17.4
+Altenkirchen (Westerwald),DEB13,2022,0,0.0,15.2,17.4
+Bad Kreuznach,DEB14,2022,0,0.0,15.4,19.2
+Birkenfeld,DEB15,2022,0,0.0,13.6,14.6
+Cochem-Zell,DEB1C,2022,0,0.0,13.8,15.2
+Mayen-Koblenz,DEB17,2022,0,0.0,15.8,21.8
+Neuwied,DEB18,2022,0,0.0,16.4,22.2
+Rhein-Hunsrück-Kreis,DEB1D,2022,0,0.0,14.2,16.4
+Rhein-Lahn-Kreis,DEB1A,2022,0,0.0,15.4,19.2
+Westerwaldkreis,DEB1B,2022,0,0.0,15.2,20.0
+"Trier, kreisfreie Stadt",DEB21,2022,0,0.0,14.8,24.4
+Bernkastel-Wittlich,DEB22,2022,0,0.0,13.8,15.2
+Eifelkreis Bitburg-Prüm,DEB23,2022,0,0.0,12.4,12.6
+Vulkaneifel,DEB24,2022,0,210108.6419753086,12.4,12.6
+Trier-Saarburg,DEB25,2022,0,0.0,13.8,16.0
+"Frankenthal (Pfalz), kreisfreie Stadt",DEB31,2022,0,0.0,19.2,33.0
+"Kaiserslautern, kreisfreie Stadt",DEB32,2022,0,0.0,15.6,21.2
+"Landau in der Pfalz, kreisfreie Stadt",DEB33,2022,0,0.0,17.0,24.2
+"Ludwigshafen am Rhein, kreisfreie Stadt",DEB34,2022,0,0.0,19.8,37.4
+"Mainz, kreisfreie Stadt",DEB35,2022,0,0.0,18.6,35.4
+"Neustadt an der Weinstraße, kreisfreie Stadt",DEB36,2022,0,0.0,16.6,23.0
+"Pirmasens, kreisfreie Stadt",DEB37,2022,0,0.0,14.8,18.4
+"Speyer, kreisfreie Stadt",DEB38,2022,0,0.0,19.4,30.4
+"Worms, kreisfreie Stadt",DEB39,2022,0,0.0,18.4,28.0
+"Zweibrücken, kreisfreie Stadt",DEB3A,2022,0,0.0,15.6,19.0
+Alzey-Worms,DEB3B,2022,0,0.0,17.2,22.8
+Bad Dürkheim,DEB3C,2022,0,0.0,16.2,20.8
+Donnersbergkreis,DEB3D,2022,0,885385.1851851852,15.4,17.2
+Germersheim,DEB3E,2022,0,0.0,18.4,23.6
+Kaiserslautern,DEB3F,2022,0,0.0,14.8,16.6
+Kusel,DEB3G,2022,0,0.0,14.8,15.8
+Südliche Weinstraße,DEB3H,2022,0,0.0,16.4,19.2
+Rhein-Pfalz-Kreis,DEB3I,2022,0,0.0,18.8,28.6
+Mainz-Bingen,DEB3J,2022,0,0.0,17.4,25.6
+Südwestpfalz,DEB3K,2022,0,0.0,14.4,14.4
+"Stuttgart, Stadtkreis",DE111,2022,0,0.0,18.6,33.8
+Böblingen,DE112,2022,0,0.0,16.2,22.8
+Esslingen,DE113,2022,0,0.0,17.0,24.6
+Göppingen,DE114,2022,0,0.0,15.6,19.6
+Ludwigsburg,DE115,2022,0,0.0,17.8,25.4
+Rems-Murr-Kreis,DE116,2022,0,0.0,16.4,19.4
+"Heilbronn, Stadtkreis",DE117,2022,0,0.0,18.2,28.6
+Heilbronn,DE118,2022,0,0.0,17.2,21.4
+Hohenlohekreis,DE119,2022,0,0.0,16.2,16.6
+Schwäbisch Hall,DE11A,2022,0,0.0,15.6,15.2
+Main-Tauber-Kreis,DE11B,2022,0,0.0,16.2,16.2
+Heidenheim,DE11C,2022,0,642500.0,16.0,18.6
+Ostalbkreis,DE11D,2022,0,0.0,15.6,16.6
+"Baden-Baden, Stadtkreis",DE121,2022,0,0.0,15.4,19.6
+"Karlsruhe, Stadtkreis",DE122,2022,0,0.0,18.8,29.6
+Karlsruhe,DE123,2022,0,580976.5432098765,17.4,23.2
+Rastatt,DE124,2022,0,0.0,16.2,20.6
+"Heidelberg, Stadtkreis",DE125,2022,0,0.0,17.2,26.4
+"Mannheim, Stadtkreis",DE126,2022,0,0.0,19.6,36.6
+Neckar-Odenwald-Kreis,DE127,2022,0,0.0,15.6,16.2
+Rhein-Neckar-Kreis,DE128,2022,0,188638.2716049383,17.0,22.6
+"Pforzheim, Stadtkreis",DE129,2022,0,0.0,15.6,26.0
+Calw,DE12A,2022,0,0.0,13.6,15.2
+Enzkreis,DE12B,2022,0,0.0,15.8,21.6
+Freudenstadt,DE12C,2022,0,0.0,12.6,12.6
+"Freiburg im Breisgau, Stadtkreis",DE131,2022,0,0.0,15.4,22.0
+Breisgau-Hochschwarzwald,DE132,2022,0,0.0,12.6,13.0
+Emmendingen,DE133,2022,0,0.0,14.2,14.4
+Ortenaukreis,DE134,2022,0,0.0,14.6,15.4
+Rottweil,DE135,2022,0,0.0,12.6,13.4
+Schwarzwald-Baar-Kreis,DE136,2022,0,0.0,11.2,11.6
+Tuttlingen,DE137,2022,0,0.0,12.6,13.4
+Konstanz,DE138,2022,0,0.0,14.8,16.8
+Lörrach,DE139,2022,0,0.0,13.8,15.0
+Waldshut,DE13A,2022,0,0.0,12.4,13.0
+Reutlingen,DE141,2022,0,0.0,14.0,17.2
+Tübingen,DE142,2022,0,0.0,15.4,19.8
+Zollernalbkreis,DE143,2022,0,786513.5802469136,12.8,14.6
+"Ulm, Stadtkreis",DE144,2022,0,0.0,17.4,25.4
+Alb-Donau-Kreis,DE145,2022,0,844860.4938271604,15.4,17.8
+Biberach,DE146,2022,0,0.0,15.0,15.8
+Bodenseekreis,DE147,2022,0,0.0,15.4,17.2
+Ravensburg,DE148,2022,0,0.0,14.0,14.6
+Sigmaringen,DE149,2022,0,0.0,13.6,13.6
+Ingolstadt,DE211,2022,0,0.0,20.4,28.0
+"München, Landeshauptstadt",DE212,2022,0,0.0,19.0,36.6
+"Rosenheim, Stadt",DE213,2022,0,0.0,18.2,28.2
+Altötting,DE214,2022,0,0.0,18.6,19.2
+Berchtesgadener Land,DE215,2022,0,0.0,15.8,18.0
+Bad Tölz-Wolfratshausen,DE216,2022,0,0.0,14.0,16.2
+Dachau,DE217,2022,0,0.0,17.8,20.8
+Ebersberg,DE218,2022,0,0.0,17.0,19.8
+Eichstätt,DE219,2022,0,0.0,17.2,17.8
+Erding,DE21A,2022,0,0.0,18.0,20.4
+Freising,DE21B,2022,0,0.0,18.0,21.0
+Fürstenfeldbruck,DE21C,2022,0,0.0,17.2,21.8
+Garmisch-Partenkirchen,DE21D,2022,0,0.0,13.2,16.4
+Landsberg am Lech,DE21E,2022,0,0.0,15.4,17.8
+Miesbach,DE21F,2022,0,0.0,14.0,17.4
+Mühldorf a.Inn,DE21G,2022,0,0.0,18.2,19.0
+München,DE21H,2022,0,0.0,17.2,23.0
+Neuburg-Schrobenhausen,DE21I,2022,0,0.0,18.0,19.4
+Pfaffenhofen a.d.Ilm,DE21J,2022,0,0.0,17.8,19.6
+Rosenheim,DE21K,2022,0,793897.5308641975,17.0,19.2
+Starnberg,DE21L,2022,0,0.0,15.8,19.2
+Traunstein,DE21M,2022,0,0.0,16.6,17.8
+Weilheim-Schongau,DE21N,2022,0,0.0,13.8,16.2
+"Landshut, Stadt",DE221,2022,0,0.0,19.0,23.8
+"Passau, Stadt",DE222,2022,0,0.0,19.8,25.6
+Straubing,DE223,2022,0,0.0,19.8,23.4
+Deggendorf,DE224,2022,0,0.0,18.0,17.0
+Freyung-Grafenau,DE225,2022,0,0.0,14.8,12.4
+Kelheim,DE226,2022,0,0.0,18.0,18.0
+Landshut,DE227,2022,0,0.0,18.0,18.0
+Passau,DE228,2022,0,0.0,18.2,17.0
+Regen,DE229,2022,0,0.0,14.8,12.2
+Rottal-Inn,DE22A,2022,0,0.0,18.4,17.2
+Straubing-Bogen,DE22B,2022,0,0.0,17.8,16.2
+Dingolfing-Landau,DE22C,2022,0,0.0,18.4,17.4
+Amberg,DE231,2022,0,0.0,18.6,20.6
+"Regensburg, Stadt",DE232,2022,0,0.0,20.4,28.4
+Weiden i.d.OPf.,DE233,2022,0,0.0,18.2,21.2
+Amberg-Sulzbach,DE234,2022,0,0.0,16.2,13.6
+Cham,DE235,2022,0,0.0,16.4,13.4
+Neumarkt i.d.OPf.,DE236,2022,0,0.0,16.4,15.2
+Neustadt a.d.Waldnaab,DE237,2022,0,0.0,16.0,13.0
+Regensburg,DE238,2022,0,0.0,17.8,17.0
+Schwandorf,DE239,2022,0,1051704.938271605,16.6,13.8
+Tirschenreuth,DE23A,2022,0,0.0,15.6,12.4
+"Bamberg, Stadt",DE241,2022,0,0.0,19.4,26.8
+"Bayreuth, Stadt",DE242,2022,0,0.0,18.6,21.8
+"Coburg, Stadt",DE243,2022,0,0.0,18.8,22.0
+"Hof, Stadt",DE244,2022,0,0.0,17.2,19.6
+Bamberg,DE245,2022,0,0.0,17.2,16.4
+Bayreuth,DE246,2022,0,0.0,15.8,13.2
+Coburg,DE247,2022,0,0.0,17.0,15.4
+Forchheim,DE248,2022,0,0.0,17.0,16.0
+Hof,DE249,2022,0,0.0,15.4,13.4
+Kronach,DE24A,2022,0,0.0,15.8,13.0
+Kulmbach,DE24B,2022,0,0.0,16.2,14.0
+Lichtenfels,DE24C,2022,0,0.0,17.0,15.2
+Wunsiedel i.Fichtelgebirge,DE24D,2022,0,0.0,15.6,13.2
+"Ansbach, Stadt",DE251,2022,0,0.0,17.0,18.6
+Erlangen,DE252,2022,0,0.0,20.2,27.0
+"Fürth, Stadt",DE253,2022,0,0.0,20.8,31.0
+Nürnberg,DE254,2022,0,0.0,21.0,33.0
+Schwabach,DE255,2022,0,0.0,19.6,26.2
+Ansbach,DE256,2022,0,0.0,16.2,15.4
+Erlangen-Höchstadt,DE257,2022,0,0.0,18.2,19.4
+Fürth,DE258,2022,0,0.0,18.4,21.4
+Nürnberger Land,DE259,2022,0,0.0,17.0,16.2
+Neustadt a.d.Aisch-Bad Windsheim,DE25A,2022,0,0.0,16.8,15.8
+Roth,DE25B,2022,0,0.0,16.8,16.4
+Weißenburg-Gunzenhausen,DE25C,2022,0,363922.2222222222,16.2,15.8
+"Aschaffenburg, Stadt",DE261,2022,0,0.0,17.4,26.2
+"Schweinfurt, Stadt",DE262,2022,0,0.0,18.4,25.2
+"Würzburg, Stadt",DE263,2022,0,0.0,18.2,26.8
+Aschaffenburg,DE264,2022,0,0.0,16.2,20.0
+Bad Kissingen,DE265,2022,0,0.0,15.6,14.8
+Rhön-Grabfeld,DE266,2022,0,0.0,15.6,14.2
+Haßberge,DE267,2022,0,0.0,16.8,14.8
+Kitzingen,DE268,2022,0,0.0,17.4,18.4
+Miltenberg,DE269,2022,0,0.0,15.8,17.0
+Main-Spessart,DE26A,2022,0,757112.3456790122,16.2,17.0
+Schweinfurt,DE26B,2022,0,0.0,17.2,18.0
+Würzburg,DE26C,2022,0,0.0,17.4,19.4
+"Augsburg, Stadt",DE271,2022,0,0.0,18.8,29.0
+Kaufbeuren,DE272,2022,0,0.0,14.8,20.0
+Kempten (Allgäu),DE273,2022,0,0.0,14.2,20.4
+Memmingen,DE274,2022,0,0.0,15.2,19.2
+Aichach-Friedberg,DE275,2022,0,0.0,17.4,18.8
+Augsburg,DE276,2022,0,0.0,17.0,19.0
+Dillingen a.d.Donau,DE277,2022,0,0.0,17.2,18.6
+Günzburg,DE278,2022,0,0.0,16.6,17.8
+Neu-Ulm,DE279,2022,0,0.0,16.8,20.0
+Lindau (Bodensee),DE27A,2022,0,0.0,13.4,16.0
+Ostallgäu,DE27B,2022,0,0.0,13.0,15.4
+Unterallgäu,DE27C,2022,0,0.0,14.6,15.4
+Donau-Ries,DE27D,2022,0,642411.1111111111,17.0,18.0
+Oberallgäu,DE27E,2022,0,0.0,11.4,13.4
+Regionalverband Saarbrücken,DEC01,2022,0,0.0,16.8,22.8
+Merzig-Wadern,DEC02,2022,0,0.0,14.4,17.2
+Neunkirchen,DEC03,2022,0,0.0,15.8,21.0
+Saarlouis,DEC04,2022,0,0.0,16.4,21.4
+Saarpfalz-Kreis,DEC05,2022,0,0.0,15.6,18.4
+St. Wendel,DEC06,2022,0,0.0,14.2,16.4
+"Berlin, Stadt",DE300,2022,0,0.0,22.2,27.2
+"Brandenburg an der Havel, Stadt",DE401,2022,0,0.0,18.4,14.6
+"Cottbus, Stadt",DE402,2022,0,0.0,20.8,17.6
+"Frankfurt (Oder), Stadt",DE403,2022,0,0.0,21.4,15.6
+"Potsdam, Stadt",DE404,2022,0,0.0,19.6,17.6
+Barnim,DE405,2022,0,0.0,19.2,13.2
+Dahme-Spreewald,DE406,2022,0,0.0,19.0,13.2
+Elbe-Elster,DE407,2022,0,0.0,18.8,12.8
+Havelland,DE408,2022,0,0.0,18.4,12.8
+Märkisch-Oderland,DE409,2022,0,1419503.703703704,20.2,13.6
+Oberhavel,DE40A,2022,0,0.0,18.6,12.6
+Oberspreewald-Lausitz,DE40B,2022,0,0.0,19.0,12.6
+Oder-Spree,DE40C,2022,0,0.0,19.8,12.8
+Ostprignitz-Ruppin,DE40D,2022,0,0.0,17.6,11.4
+Potsdam-Mittelmark,DE40E,2022,0,0.0,18.2,12.4
+Prignitz,DE40F,2022,0,0.0,17.2,11.6
+Spree-Neiße,DE40G,2022,0,0.0,20.0,13.2
+Teltow-Fläming,DE40H,2022,0,0.0,18.8,13.6
+Uckermark,DE40I,2022,0,0.0,18.8,11.6
+Rostock,DE803,2022,0,0.0,18.0,17.6
+Schwerin,DE804,2022,0,0.0,17.2,15.4
+Mecklenburgische Seenplatte,DE80J,2022,0,0.0,17.6,10.8
+Landkreis Rostock,DE80K,2022,0,0.0,16.8,11.2
+Vorpommern-Rügen,DE80L,2022,0,0.0,16.0,8.2
+Nordwestmecklenburg,DE80M,2022,0,0.0,16.4,11.8
+Vorpommern-Greifswald,DE80N,2022,0,0.0,18.0,10.6
+Ludwigslust-Parchim,DE80O,2022,0,0.0,16.8,11.4
+"Chemnitz, Stadt",DED41,2022,0,0.0,18.2,22.4
+Erzgebirgskreis,DED42,2022,0,0.0,15.8,14.6
+Mittelsachsen,DED43,2022,0,0.0,17.8,16.0
+Vogtlandkreis,DED44,2022,0,0.0,15.6,13.6
+Zwickau,DED45,2022,0,0.0,17.4,17.6
+"Dresden, Stadt",DED21,2022,0,0.0,20.2,23.2
+Bautzen,DED2C,2022,0,0.0,20.0,15.0
+Görlitz,DED2D,2022,0,0.0,21.2,15.6
+Meißen,DED2E,2022,0,0.0,19.0,16.6
+Sächsische Schweiz-Osterzgebirge,DED2F,2022,0,0.0,18.8,15.6
+"Leipzig, Stadt",DED51,2022,0,0.0,19.2,23.4
+Leipzig,DED52,2022,0,0.0,18.4,16.8
+Nordsachsen,DED53,2022,0,0.0,19.0,15.0
+"Dessau-Roßlau, Stadt",DEE01,2022,0,0.0,18.8,14.4
+"Halle (Saale), Stadt",DEE02,2022,0,0.0,19.2,21.4
+"Magdeburg, Landeshauptstadt",DEE03,2022,0,0.0,19.2,20.4
+Altmarkkreis Salzwedel,DEE04,2022,0,0.0,17.0,12.4
+Anhalt-Bitterfeld,DEE05,2022,0,0.0,18.6,14.8
+Börde,DEE07,2022,0,0.0,17.4,13.6
+Burgenlandkreis,DEE08,2022,0,1045112.345679012,18.0,16.4
+Harz,DEE09,2022,0,0.0,15.6,13.4
+Jerichower Land,DEE06,2022,0,0.0,17.6,11.0
+Mansfeld-Südharz,DEE0A,2022,0,0.0,16.8,14.2
+Saalekreis,DEE0B,2022,0,0.0,18.6,16.6
+Salzlandkreis,DEE0C,2022,0,950188.8888888889,18.2,16.0
+Stendal,DEE0D,2022,0,0.0,17.4,10.8
+Wittenberg,DEE0E,2022,0,0.0,18.6,11.8
+"Erfurt, Stadt",DEG01,2022,0,0.0,17.6,19.4
+"Gera, Stadt",DEG02,2022,0,0.0,18.0,18.6
+"Jena, Stadt",DEG03,2022,0,0.0,17.6,19.0
+"Suhl, Stadt",DEG04,2022,0,0.0,15.2,15.2
+"Weimar, Stadt",DEG05,2022,0,0.0,17.4,18.2
+Eichsfeld,DEG06,2022,0,1287696.296296296,15.6,13.4
+Nordhausen,DEG07,2022,0,0.0,16.0,13.8
+Wartburgkreis,DEG0P,2022,0,0.0,15.6,13.6
+Unstrut-Hainich-Kreis,DEG09,2022,0,0.0,16.4,14.6
+Kyffhäuserkreis,DEG0A,2022,0,0.0,16.8,14.0
+Schmalkalden-Meiningen,DEG0B,2022,0,0.0,15.2,13.4
+Gotha,DEG0C,2022,0,0.0,16.0,14.8
+Sömmerda,DEG0D,2022,0,0.0,17.6,15.8
+Hildburghausen,DEG0E,2022,0,0.0,15.4,12.6
+Ilm-Kreis,DEG0F,2022,0,0.0,15.0,13.2
+Weimarer Land,DEG0G,2022,0,0.0,17.0,15.2
+Sonneberg,DEG0H,2022,0,0.0,15.2,12.8
+Saalfeld-Rudolstadt,DEG0I,2022,0,0.0,15.2,12.0
+Saale-Holzland-Kreis,DEG0J,2022,0,0.0,17.0,14.4
+Saale-Orla-Kreis,DEG0K,2022,0,0.0,15.4,12.8
+Greiz,DEG0L,2022,0,0.0,16.8,14.6
+Altenburger Land,DEG0M,2022,0,0.0,18.0,16.6
+nan,,2022,-1,0.0,8860.800000000005,7833.799999999999
