@@ -28,10 +28,18 @@ projects/
 
 ## Verified Execution
 
-- The flagship thesis pipeline in `projects/09-phytoplankton-density-prediction` was executed successfully on March 13, 2026 in this workspace.
-- That run regenerated six figures and model result tables for 58 species.
-- The strongest average performer in the run was Random Forest with mean `R2 = 0.678`, ahead of XGBoost (`0.593`) and the Hybrid model (`0.467`).
-- Engineered lag and rolling-window growth features accounted for the largest share of feature importance in the Random Forest runs.
+The following project entry points were executed in this workspace on March 13, 2026.
+
+- `projects/01-lake-eutrophication-model/src/lake_eutrophication_model.R` ran successfully.
+- `projects/02-autocatalytic-reaction-cstr/src/autocatalytic_reaction_cstr.R` ran successfully.
+- `projects/03-population-equilibrium-growth-rate/src/population_equilibrium_growth_rate.R` ran successfully.
+- `projects/04-sediment-oxygen-dynamics/src/sediment_oxygen_dynamics.R` ran successfully and produced fitted decay-rate output with `k = 231.4519 d^-1`.
+- `projects/05-river-flow-distance-analysis/src/river_flow_distance_analysis.R` was executed after adding `coordinates.csv` and `rivers_rlp.gpkg`, but remains blocked by the missing DEM input `dtm_germany_rheinland_pfalz_20m.tif`.
+- `projects/06-temperature-species-predation-model/src/temperature_species_predation_model.R` ran successfully.
+- `projects/09-phytoplankton-density-prediction/src/phytoplankton_prediction_pipeline.py` ran successfully, regenerated six figures and model result tables for 58 species, and showed Random Forest as the strongest average performer with mean `R2 = 0.678`, ahead of XGBoost (`0.593`) and the Hybrid model (`0.467`).
+- `projects/10-carbon-budget-cdr-modeling/src/carbon_budget_optimal_control.py` ran successfully after installing `gekko` and generated `outputs/carbon_budget_optimal_control.png`.
+
+Across the validated runs, engineered lag and rolling-window growth features accounted for the largest share of feature importance in the Random Forest results from the phytoplankton thesis pipeline.
 
 ## Project Index
 
