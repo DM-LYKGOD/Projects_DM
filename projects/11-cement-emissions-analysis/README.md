@@ -24,10 +24,12 @@ The original notebooks were consolidated into a cleaner GitHub-ready structure w
 
 ## Required Data
 
-Place these files in `data/` as needed:
+Current `data/` contents:
 
+- `ml_ready_dataset_transformed.xlsx`
+  - Checked-in transformed dataset used by the regression and clustering scripts.
 - raw wide-format workbook used for transformation
-- `ml_ready_dataset_transformed.xlsx` for regression and clustering runs
+  - Optional source file if you want to rerun `src/transform_control_variables.py`.
 
 ## Outputs
 
