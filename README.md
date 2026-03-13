@@ -1,52 +1,67 @@
-# Data Science & Environmental Modeling Portfolio
+# Debapratim Mukherjee Project Portfolio
 
-Welcome to my repository of analytical, environmental, and data science projects! This collection contains a diverse set of scripts and models built across multiple disciplines—ranging from mathematical ecosystem modeling and transport phenomena to machine learning-based OCR and econometrics.
+This repository is organized as a technical portfolio spanning environmental modeling, applied mathematics, geospatial analysis, machine learning, and econometrics.
 
-## 📁 Project Overview
+## Repository Structure
 
-Below is the core list of the 11 projects included in this repository:
+```text
+projects/
+  01-lake-eutrophication-model/
+  02-mathematical-formulations/
+  03-parameter-sensitivity-analysis/
+  04-autocatalytic-reaction-cstr/
+  05-population-equilibrium-growth-rate/
+  06-sediment-oxygen-dynamics/
+  07-river-flow-distance-analysis/
+  08-temperature-species-predation-model/
+  09-energy-bill-information-extraction/
+  10-renewable-energy-econometrics/
+  11-phytoplankton-density-prediction/
+  12-carbon-budget-cdr-modeling/
+  13-cement-emissions-analysis/
+```
 
-### 🎓 Master's Thesis 2025: Phytoplankton Density Prediction (Python)
-*   **Project 11: Master Thesis 2025**
-    Comprehensive predictive modeling pipeline mapping the densities and growth rates of 58 species of phytoplankton in Greifensee. Utilizes advanced machine learning models (Random Forest, XGBoost, Hybrid architecture) coupled with ablation studies on environmental and engineered temporal predictors.
+## Portfolio Highlights
 
-### 🌍 Environmental & Ecosystem Modeling (R)
-*   **Project 1: Conceptual Model Lake Eutrophication** 
-    *(ACP5: Reaction & Transport Phenomenon)* - Modeling lake nutrient dynamics to understand eutrophication processes.
-*   **Project 5: Effect of Growth Rate on Population Equilibrium** 
-    *(MOD 1B)* - Simulating how varying growth rates impact the periodic equilibrium of populations.
-*   **Project 6: Oxygen Dynamics in the Sediment** 
-    *(ACP5)* - Mathematical modeling of oxygen consumption, diffusion, and transport in benthic layers.
-*   **Project 8: Environmental Temperature and Species Predation** 
-    *(GEO 1B)* - A Limiting Similarity Model exploring how temperature shifts impact predator-prey dynamics and species coexistence.
+- Environmental and ecosystem simulations written in R with a focus on ODE-based system behavior.
+- Applied machine learning workflows in Python for OCR-assisted extraction and ecological forecasting.
+- Econometric analysis connecting renewable energy adoption with macroeconomic output.
+- Research-oriented code packaged as self-contained project folders with local documentation.
 
-### 🧪 Mathematical Formulations & Reaction Kinetics (R)
-*   **Project 2: Making Sense Out of Mathematical Formulations** 
-    *(ACP5)* - Applied mathematical modeling and interpretation for complex chemical/ecological reactions.
-*   **Project 3: One Formula, Several Parameter Values** 
-    *(ACP5)* - Sensitivity analysis and behavioral outcomes of dynamic systems under varying parameter constraints.
-*   **Project 4: Autocatalytic Reaction in a Flow-Through Stirred Tank** 
-    Modeling continuous flow stirred-tank reactors (CSTR) and autocatalytic chemical processes.
+## Verified Execution
 
-### 🗺️ Geospatial & Physical Flows (R)
-*   **Project 7: Go with the Flow** 
-    *(GIS)* - Script to read complex river networks and calculate the shortest perpendicular and along-river distances between spatial coordinate points.
+- The flagship thesis pipeline in `projects/11-phytoplankton-density-prediction` was executed successfully on March 13, 2026 in this workspace.
+- That run regenerated six figures and model result tables for 58 species.
+- The strongest average performer in the run was Random Forest with mean `R2 = 0.678`, ahead of XGBoost (`0.593`) and the Hybrid model (`0.467`).
+- Engineered lag and rolling-window growth features accounted for the largest share of feature importance in the Random Forest runs.
 
-### 🤖 Machine Learning & Data Extraction (Python / Jupyter)
-*   **Project 9: Extract Energy Bill Info (`.ipynb`)** 
-    An automated pipeline utilizing an Optical Character Recognition (OCR) vision model combined with a Large Language Model (LLM) to automatically parse, understand, and extract structured tabular data from unstructured energy bills.
+## Project Index
 
-### 📈 Econometrics & Energy Policy
-*   **Project 10: Econometric Model - Impact of Renewable Energy on Economic Output** 
-    A comprehensive econometric and statistical analysis examining the relationship and causality between the adoption of renewable energy sources and overall macroeconomic output indicators.
+| Project | Focus Area | Stack | Entry Point |
+| --- | --- | --- | --- |
+| [01 Lake Eutrophication Model](projects/01-lake-eutrophication-model/README.md) | Lake nutrient and food-web dynamics | R, `deSolve`, `ggplot2` | `src/lake_eutrophication_model.R` |
+| [02 Mathematical Formulations](projects/02-mathematical-formulations/README.md) | Mathematical interpretation of dynamic systems | R | `src/mathematical_formulations.R` |
+| [03 Parameter Sensitivity Analysis](projects/03-parameter-sensitivity-analysis/README.md) | Behavior under multiple parameter regimes | R | `src/parameter_sensitivity_analysis.R` |
+| [04 Autocatalytic Reaction CSTR](projects/04-autocatalytic-reaction-cstr/README.md) | Flow-through stirred tank kinetics | R | `src/autocatalytic_reaction_cstr.R` |
+| [05 Population Equilibrium vs Growth Rate](projects/05-population-equilibrium-growth-rate/README.md) | Periodicity and equilibrium response | R | `src/population_equilibrium_growth_rate.R` |
+| [06 Sediment Oxygen Dynamics](projects/06-sediment-oxygen-dynamics/README.md) | Oxygen transport and consumption in sediment | R | `src/sediment_oxygen_dynamics.R` |
+| [07 River Flow Distance Analysis](projects/07-river-flow-distance-analysis/README.md) | Along-river and perpendicular distance calculations | R, GIS workflows | `src/river_flow_distance_analysis.R` |
+| [08 Temperature and Species Predation Model](projects/08-temperature-species-predation-model/README.md) | Temperature effects in a limiting similarity model | R | `src/temperature_species_predation_model.R` |
+| [09 Energy Bill Information Extraction](projects/09-energy-bill-information-extraction/README.md) | OCR plus LLM-based document extraction | Python, OCR, LLM APIs | `src/energy_bill_extraction.py` |
+| [10 Renewable Energy Econometrics](projects/10-renewable-energy-econometrics/README.md) | Regression analysis of renewable energy and GDP | Python, `pandas`, `statsmodels` | `src/renewable_energy_econometric_model.py` |
+| [11 Phytoplankton Density Prediction](projects/11-phytoplankton-density-prediction/README.md) | Master's thesis ML pipeline for species prediction | Python, `scikit-learn`, `xgboost` | `src/phytoplankton_prediction_pipeline.py` |
+| [12 Carbon Budget and CDR Modeling](projects/12-carbon-budget-cdr-modeling/README.md) | Dynamic climate-economy optimization under a carbon budget | Python, `gekko`, `matplotlib` | `src/carbon_budget_optimal_control.py` |
+| [13 Cement Emissions Analysis](projects/13-cement-emissions-analysis/README.md) | Regional cement-sector pollution modeling and clustering | Python, `pandas`, `scikit-learn` | `src/pollution_regression_analysis.py` |
 
----
+## Working Conventions
 
-## 🛠️ Technologies & Tools Used
-*   **R & RStudio**: Heavily utilized for ecological modeling, differential equations, and reaction kinetics (Projects 1-8).
-*   **Python (Jupyter Notebook, Pandas, scikit-learn, XGBoost, LLM APIs)**: Used for robust predictive modeling, data parsing, OCR, and AI integrations (Projects 9 & 11).
-*   **Mathematical Modeling**: Ordinary Differential Equations (ODEs), Sensitivity Analysis, Spatial/GIS operations.
-*   **Econometrics**: Statistical modeling and data analysis (Project 10).
+- Each project folder includes a local `README.md`.
+- Source code is grouped under `src/` or `notebooks/`.
+- Thesis assets are separated into `data/`, `outputs/`, and `reports/`.
+- Secrets should be supplied through environment variables, never hardcoded into notebooks or scripts.
+- READMEs summarize results and usage, but they should not be used as raw execution logs.
+- Detailed workspace-level consolidation notes live in `docs/WORKSPACE_DOCUMENTATION.md`.
 
-## 💡 About
-These scripts were developed by **Debapratim Mukherjee** as a combination of academic coursework, applied research, and personal automation projects aimed at solving complex system dynamics and real-world analytical problems.
+## Author
+
+Debapratim Mukherjee
