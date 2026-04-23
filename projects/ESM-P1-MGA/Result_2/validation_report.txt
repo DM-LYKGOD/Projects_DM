@@ -1,0 +1,22 @@
+============================================================
+DATA PIPELINE VALIDATION REPORT
+============================================================
+
+[Energy Data]
+  PyPSA-DE Network: True
+  ENTSO-E Load: True
+  ENTSO-E Generation: True
+  ERA5 PV CF: True
+  ERA5 Wind CF: True
+  OPSD Power Plants: True
+  OPSD Timeseries: True
+
+[Industrial Data]
+  Cement Parameters: True
+  Cement NUTS3 Weights: True
+  DESTATIS Cement: True
+  Cement Seasonality: True
+
+============================================================
+STATUS: All essential data files found
+============================================================

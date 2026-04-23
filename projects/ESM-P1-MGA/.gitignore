@@ -1,0 +1,48 @@
+# ─── Large binary files (too big for GitHub) ─────────────────────────────────
+data/energy/*.nc
+data/energy/*.h5
+Result_2/infographics/*.png
+Result_1/infographics/*.png
+
+# ─── Python cache ─────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+temp_src/
+
+# ─── Scratch & one-off scripts (not part of final deliverable) ───────────────
+scratch/
+revert_hack.py
+repair_nb_cells.py
+restore_*.py
+rewrite_*.py
+rebuild_nb.py
+setup_*.py
+sync_nb.py
+strict_syntax_check.py
+stub_block.py
+task0a_debug.py
+task_0a_extracted.py
+task_A_dump.py
+temp_extractor.py
+update_cell*.py
+update_cleanup.py
+update_map_cell*.py
+update_notebook*.py
+update_viz*.py
+verify_*.py
+viz_cell_inline.py
+run_pipeline_extracted.py
+runner.py
+relax_policy.py
+remove_file_saves.py
+
+# ─── Local test files ─────────────────────────────────────────────────────────
+test_*.py
+test.ipynb
+
+# ─── OS / editor ──────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.swp

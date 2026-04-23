@@ -1,0 +1,29 @@
+# Data Handling & Analysis
+pandas>=2.0
+numpy>=1.24
+xarray
+geopandas
+scipy
+netCDF4
+openpyxl
+
+# Energy Modeling
+pypsa
+linopy
+highspy
+
+# Infrastructure & API
+python-dotenv
+requests
+cdsapi
+entsoe-py
+dbnomics
+eurostat
+gitpython
+
+# Visualization
+matplotlib>=3.7
+
+# Utilities
+tqdm
+pdfplumber

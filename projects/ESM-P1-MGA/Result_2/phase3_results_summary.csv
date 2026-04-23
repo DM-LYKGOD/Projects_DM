@@ -1,0 +1,2 @@
+year,weather_year,status,res_multiplier,alpha_kwh_t,ets_eur_tco2,total_load_twh,solar_twh,onwind_twh,ocgt_twh,lignite_twh,load_shedding_twh,co2_t
+2045,2023,optimal,4.0,480.0,180.0,628.5118015900001,92.18688140046515,519.3058387110003,1.2478882332208994,2.5237321736505356,0.08683240429026852,15831188.600318404
