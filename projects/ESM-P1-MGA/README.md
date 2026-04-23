@@ -155,12 +155,11 @@ All infographics are in [`Result_2/infographics/`](Result_2/infographics/).
 
 ---
 
-## Running on Kaggle
+## Running on Kaggle (Due to computational limitation)
 
 1. Upload `ESM_P1_MGA_Standalone.ipynb` to a Kaggle notebook
 2. Attach the dataset `debapratim07/esm-dataset` as input
 3. Run all cells top-to-bottom (~6–8 hours on Kaggle free tier)
-4. Paste `research_maps_kaggle.py` into a new cell to generate all spatial maps
 
 **Data paths expected on Kaggle:**
 ```
