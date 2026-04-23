@@ -97,6 +97,61 @@ ESM-P1-MGA/
 | Cement α (energy intensity) | 480 kWh / t |
 | MGA Alternatives | 10 (ε = 5% & 10%) |
 
+---
+
+## System Architecture
+
+![ESM-P1-MGA System Architecture](Result_2/infographics/ESM-%20System%20Architecture.png)
+
+The model connects three layers:
+
+| Layer | Components |
+|---|---|
+| **Generation** | Solar PV (~21 TWh/yr) · Onshore Wind (~133 TWh/yr) · Gas OCGT (backup) |
+| **Grid** | Germany Electricity Grid — PyPSA 4-node · 99.1% renewable share · 628 TWh load · ETS: €180/tCO₂ |
+| **Industrial** | Industrial Bus (Cement Sector) → Kiln/Clinker (28 Mt/yr) + Silo Storage (5-day buffer) · α = 480 kWh/t |
+
+The **silo storage** acts as a virtual battery: cement production is shifted to high-renewable hours, with the silo buffer absorbing the mismatch — decoupling industrial demand from the grid in near-real-time.
+
+---
+
+## Research Infographics
+
+All infographics are in [`Result_2/infographics/`](Result_2/infographics/).
+
+### MGA Flexibility Space
+![MGA Flexibility Space](Result_2/infographics/MGA%20Flexibility%20Space.png)
+*Near-optimal system alternatives at 5% and 10% cost slack — shows the structural diversity of the solution space.*
+
+---
+
+### Power Sector Decarbonisation
+![Power Sector Decarbonisation](Result_2/infographics/Power%20Sector%20Decarbonisation.png)
+*CO₂ reduction from 2020 baseline (~300 Mt) to the 2045 model result (~15.8 Mt) — a 94.7% reduction.*
+
+---
+
+### Annual Generation Mix
+![Annual Generation Mix](Result_2/infographics/Annual%20Generation%20Mix.png)
+*Technology share breakdown: Solar 21 TWh · Wind 133 TWh · Gas backup · 99.1% renewable share.*
+
+---
+
+### MGA Alternative Profiles
+![MGA Alternative Profiles](Result_2/infographics/MGA%20Alternative%20Profiles.png)
+*Radar chart comparing near-optimal alternatives across solar capacity, wind capacity, cost, CO₂, and renewable share axes.*
+
+---
+
+### MGA Cost–CO₂ Pareto Frontier
+![MGA Cost-CO2 Pareto Frontier](Result_2/infographics/MGA%20Cost-Co2%20Pareto%20Frontier.png)
+*Pareto frontier showing cost vs. CO₂ across all MGA alternatives at ε = 5% and 10%.*
+
+---
+
+### German Cement Industry — NUTS-3 Plant Locations
+![German Cement Industry Plant Locations](Result_2/infographics/German%20Cement%20Industry-%20Plant%20Location%20and%20Production%20weight.png)
+*Bubble map showing cement production weight by NUTS-3 district — the spatial distribution of industrial demand used as model input.*
 
 ---
 
