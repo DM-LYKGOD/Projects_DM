@@ -1,0 +1,66 @@
+========================================================================
+  ESM-P1-MGA PROJECT — DATA VALIDATION REPORT
+  Generated: 2026-04-14T09:12:00
+  Institution: Ruhr-Universität Bochum (OPTIMA / Chair of Energy Systems)
+  Project: Endogenous Industrial Production Scheduling — MGA Approach
+========================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SECTION 1: DATASET INVENTORY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Dataset                                  File                                       Rows  Missing%   Status
+  ────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  PyPSA-DE Network 2025                    pypsa_de_2025.nc                              —         —       OK
+  ENTSO-E Load DE 2023                     entsoe_load_DE_2023.csv                    8760       0.0       OK | 2025-01-01 -> 2025-12-31
+  ENTSO-E Generation DE 2023               entsoe_generation_DE_2023.csv              8760      8.33       OK | 2025-01-01 -> 2025-12-31
+  ERA5 PV CF DE 2023                       era5_pv_cf_DE_2023.csv                     8760       0.0       OK | 2023-01-01 -> 2023-12-31
+  ERA5 Wind CF DE 2023                     era5_wind_cf_DE_2023.csv                   8760       0.0       OK | 2023-01-01 -> 2023-12-31
+  ERA5 CF DE Historical                    era5_cf_DE_historical.csv                271752       0.0       OK | 1980-01-01 -> 2010-12-31
+  OPSD Time Series DE                      opsd_timeseries_DE.csv                    24096     10.07       OK | 2018-01-01 -> 2020-09-30
+  OPSD Power Plants DE                     opsd_powerplants_DE.csv                     879     31.87       OK | BNA0005 -> BNa1947
+  Cement Parameters (VDZ 2023)             cement_parameters.json                       22         —       OK
+  Destatis WZ08 Cement Index               destatis_wz08_cement.csv                    180       0.0       OK | 2010-01-01 -> 2024-12-01
+  Cement Seasonality                       cement_seasonality.csv                       12       0.0       OK | 1 -> 12
+  Destatis Genesis 42131                   destatis_cement_production_annual.csv        14      1.79       OK | 2010-01-01 -> 2023-01-01
+  Eurostat Industrial Electricity          eurostat_industrial_elec_DE.csv              14       0.0       OK | 2010-01-01 -> 2023-01-01
+
+  All datasets present:                              YES ✓
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SECTION 2: CONSISTENCY CHECKS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  [⚠] WARNING   ENTSO-E vs. OPSD load (annual total, 2023)
+           Zero annual totals detected — insufficient data
+
+  [—] SKIPPED   ERA5 CF vs. OPSD renewables (Pearson r, 2022–2023)
+           Could not compute correlations (missing data)
+             solar_r: None
+             wind_r: None
+
+  [✓] PASS      Cement electricity plausibility (alpha × production)
+           Cement elec = 3.05 TWh in plausible range [2.0, 5.0] TWh. Share of industrial = 1.5%
+             cement_exp_twh: 3.052
+             eurostat_total_twh: 200
+             cement_share_pct: 1.53
+             year_checked: 2023
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SECTION 3: MODEL CONSTANTS (from config.py)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  alpha (electricity intensity)   : 109.0 kWh/tonne (VDZ 2023)
+  total_demand                    : 28.0 Mt/year
+  cement electricity demand (est) : 3.05 TWh/year
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SECTION 4: OVERALL VERDICT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ⚠ SOME ISSUES DETECTED — Review warnings above before proceeding.
+  Check API keys in config.py and re-run individual task scripts.
+
+========================================================================
+  END OF VALIDATION REPORT
+========================================================================
