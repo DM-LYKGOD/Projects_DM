@@ -17,6 +17,7 @@ projects/
   09-phytoplankton-density-prediction/
   10-carbon-budget-cdr-modeling/
   11-cement-emissions-analysis/
+  12-ESM-P1-MGA/
 ```
 
 ## Portfolio Highlights
@@ -24,6 +25,7 @@ projects/
 - Environmental and ecosystem simulations written in R with a focus on ODE-based system behavior.
 - Applied machine learning workflows in Python for OCR-assisted extraction and ecological forecasting.
 - Econometric analysis connecting renewable energy adoption with macroeconomic output.
+- PyPSA-based German energy-system MGA workflow for cement-sector flexibility and decarbonisation.
 - Research-oriented code packaged as self-contained project folders with local documentation.
 
 ## Verified Execution
@@ -57,6 +59,7 @@ The following project entry points were executed in this workspace on March 13, 
 | [09 Phytoplankton Density Prediction](projects/09-phytoplankton-density-prediction/README.md) | Master's thesis ML pipeline for species prediction | Python, `scikit-learn`, `xgboost` | `src/phytoplankton_prediction_pipeline.py` |
 | [10 Carbon Budget and CDR Modeling](projects/10-carbon-budget-cdr-modeling/README.md) | Dynamic climate-economy optimization under a carbon budget | Python, `gekko`, `matplotlib` | `src/carbon_budget_optimal_control.py` |
 | [11 Cement Emissions Analysis](projects/11-cement-emissions-analysis/README.md) | Regional cement-sector pollution modeling and clustering | Python, `pandas`, `scikit-learn` | `src/pollution_regression_analysis.py` |
+| [12 ESM-P1-MGA](projects/12-ESM-P1-MGA/README.md) | German cement-energy system modelling with MGA near-optimal alternatives | Python, `pypsa`, `pandas`, `geopandas` | `ESM_P1_MGA_Standalone.ipynb` |
 
 ## Working Conventions
 
