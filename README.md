@@ -1,6 +1,6 @@
 # Debapratim Mukherjee Project Portfolio
 
-This repository is organized as a technical portfolio spanning environmental modeling, applied mathematics, geospatial analysis, machine learning, and econometrics.
+This repository is organized as a technical portfolio spanning energy economics, energy modeling, environmental modeling, applied mathematics, geospatial analysis, machine learning, and econometrics.
 
 ## Repository Structure
 
