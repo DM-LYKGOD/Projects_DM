@@ -18,16 +18,16 @@ projects/
   10-carbon-budget-cdr-modeling/
   11-cement-emissions-analysis/
   12-ESM-P1-MGA/
-HiSim_PracticeTask/          (standalone fork -- see below)
+  13-hisim-practice-task/
 ```
 
 ## Portfolio Highlights
 
 - PyPSA-based German energy-system optimisation with MGA (Modelling to Generate Alternatives) for cement-sector flexibility and 2045 decarbonisation targets.
+- ETHOS.HiSim fork for household infrastructure and building energy simulation (heat pumps, batteries, EVs, thermal storage).
 - Environmental and ecosystem simulations written in R with a focus on ODE-based system behavior.
 - Applied machine learning workflows in Python for OCR-assisted extraction, ecological forecasting (Random Forest, XGBoost, hybrid ML), and multivariate time-series prediction.
 - Econometric analysis connecting renewable energy adoption with macroeconomic output.
-- ETHOS.HiSim fork for household infrastructure and building energy simulation (heat pumps, batteries, EVs, thermal storage).
 - Carbon-budget and CDR (carbon dioxide removal) modelling using GEKKO optimal control.
 - GIS-oriented workflows for river network shortest-path analysis and spatial data processing.
 - Research-oriented code packaged as self-contained project folders with local documentation.
@@ -48,7 +48,7 @@ HiSim_PracticeTask/          (standalone fork -- see below)
 | 10 | [Carbon Budget and CDR Modeling](projects/10-carbon-budget-cdr-modeling/README.md) | Energy Modeling | Dynamic climate-economy optimisation under carbon budget | Python, gekko, matplotlib | `src/carbon_budget_optimal_control.py` |
 | 11 | [Cement Emissions Analysis](projects/11-cement-emissions-analysis/README.md) | Environmental Modeling | Regional cement-sector PM2.5/NO2 regression and clustering | Python, pandas, scikit-learn, DBSCAN | `src/pollution_regression_analysis.py` |
 | 12 | [ESM-P1-MGA](projects/12-ESM-P1-MGA/README.md) | Energy Modeling | Germany cement-energy system with MGA near-optimal alternatives | Python, pypsa, geopandas, ERA5 | `ESM_P1_MGA_Standalone.ipynb` |
-| 13 | [HiSim Practice Task](https://github.com/DM-LYKGOD/HiSim_PracticeTask) | Energy Modeling | Fork of ETHOS.HiSim for household energy simulation practice | Python, hisim | `hisim/` |
+| 13 | [HiSim Practice Task](projects/13-hisim-practice-task/README.md) | Energy Modeling | Fork of ETHOS.HiSim for household energy simulation practice | Python, hisim | `hisim/` |
 
 ## Featured Project: ESM-P1-MGA
 

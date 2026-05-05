@@ -1,0 +1,33 @@
+numpy
+pandas
+matplotlib
+seaborn
+reportlab
+pvlib # ==0.10.2
+oemof.thermal
+openpyxl
+pytest
+sphinx
+sphinx-rtd-theme
+dataclasses_json
+hplib==1.9
+bslib==0.6
+psutil
+pydot
+graphviz
+dataclass_wizard==0.34.0
+utspclient==0.1.6
+pyam-iamc
+html2image
+control
+casadi
+plotly
+ordered_set
+typing_extensions
+python-dotenv
+windpowerlib  # ==0.2.1
+wetterdienst==0.63.0
+cdsapi
+xarray
+pygfunction
+pyloadprofilegenerator
