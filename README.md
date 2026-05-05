@@ -44,6 +44,7 @@ projects/
 | [10 Carbon Budget and CDR Modeling](projects/10-carbon-budget-cdr-modeling/README.md) | Energy Modeling | Dynamic climate-economy optimization under a carbon budget | Python, `gekko`, `matplotlib` | `src/carbon_budget_optimal_control.py` |
 | [11 Cement Emissions Analysis](projects/11-cement-emissions-analysis/README.md) | Environmental Modeling | Regional cement-sector pollution modeling and clustering | Python, `pandas`, `scikit-learn` | `src/pollution_regression_analysis.py` |
 | [12 ESM-P1-MGA](projects/12-ESM-P1-MGA/README.md) | Energy Modeling | German cement-energy system modelling with MGA near-optimal alternatives | Python, `pypsa`, `pandas`, `geopandas` | `ESM_P1_MGA_Standalone.ipynb` |
+| [13 HiSim Practice Task](https://github.com/DM-LYKGOD/HiSim_PracticeTask) | Energy Modeling | Fork of ETHOS.HiSim household infrastructure simulator for learning and practice | Python, `hisim` | `hisim/` |
 
 ## Working Conventions
 
