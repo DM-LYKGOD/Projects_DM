@@ -52,6 +52,8 @@ Traditional models stop at the absolute cost minimum. This framework leverages t
 
 ![Social Feasibility Frontier](results/social_feasibility_frontier.png)
 
+![MGA Capacity Mix Transition](results/mga_capacity_mix.png)
+
 ![Archetype Acceptance Matrix Heatmap](results/acceptance_heatmap.png)
 
 ### Feature-Driven Acceptance Matrix
