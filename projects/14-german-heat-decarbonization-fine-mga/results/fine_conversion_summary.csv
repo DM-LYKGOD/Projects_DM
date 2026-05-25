@@ -15,19 +15,19 @@ air_heat_pump,opexCap,[1e9 Euro/a],0.15138119052871443,0.2727840466623907,0.4237
 air_heat_pump,opexIfBuilt,[1e9 Euro/a],,,,,
 air_heat_pump,opexOp,[1e9 Euro/a],0.0,0.0,0.0,0.0,0.0
 air_heat_pump,revenueLifetimeShorteningResale,[1e9 Euro],0,0,0,0,0
-biomass_boiler,NPVcontribution,[1e9 Euro],0.0,0.0,0.0,0.0,0.02689325955723803
-biomass_boiler,TAC,[1e9 Euro/a],0.0,0.0,0.0,0.0,0.02689325955723801
-biomass_boiler,capacity,[kW],-0.0,-0.0,-0.0,-0.0,286556.3061095876
-biomass_boiler,capexCap,[1e9 Euro/a],0.0,0.0,0.0,0.0,0.020073219471829825
+biomass_boiler,NPVcontribution,[1e9 Euro],0.0,0.0,0.0,0.0,0.026893259557237998
+biomass_boiler,TAC,[1e9 Euro/a],0.0,0.0,0.0,0.0,0.026893259557237977
+biomass_boiler,capacity,[kW],-0.0,-0.0,-0.0,-0.0,286556.30610958725
+biomass_boiler,capexCap,[1e9 Euro/a],0.0,0.0,0.0,0.0,0.0200732194718298
 biomass_boiler,capexIfBuilt,[1e9 Euro/a],,,,,
-biomass_boiler,commissioning,[kW],-0.0,-0.0,-0.0,-0.0,286556.3061095876
+biomass_boiler,commissioning,[kW],-0.0,-0.0,-0.0,-0.0,286556.30610958725
 biomass_boiler,decommissioning,[kW],0.0,0.0,0.0,0.0,0.0
-biomass_boiler,invest,[1e9 Euro],0.0,0.0,0.0,0.0,0.27280160341632737
+biomass_boiler,invest,[1e9 Euro],0.0,0.0,0.0,0.0,0.27280160341632703
 biomass_boiler,investLifetimeExtension,[1e9 Euro],0,0,0,0,0
 biomass_boiler,isBuilt,[-],,,,,
-biomass_boiler,operation,[kW*h],0.0,0.0,0.0,0.0,11935696.486139264
-biomass_boiler,operation_annual,[kW*h/a],0.0,0.0,0.0,0.0,871305843.4881663
-biomass_boiler,opexCap,[1e9 Euro/a],0.0,0.0,0.0,0.0,0.006820040085408185
+biomass_boiler,operation,[kW*h],0.0,0.0,0.0,0.0,11935696.486139258
+biomass_boiler,operation_annual,[kW*h/a],0.0,0.0,0.0,0.0,871305843.4881659
+biomass_boiler,opexCap,[1e9 Euro/a],0.0,0.0,0.0,0.0,0.006820040085408177
 biomass_boiler,opexIfBuilt,[1e9 Euro/a],,,,,
 biomass_boiler,opexOp,[1e9 Euro/a],0.0,0.0,0.0,0.0,0.0
 biomass_boiler,revenueLifetimeShorteningResale,[1e9 Euro],0,0,0,0,0
@@ -41,8 +41,8 @@ district_heat_pump,decommissioning,[kW],0.0,0.0,0.0,0.0,0.0
 district_heat_pump,invest,[1e9 Euro],0.0,17.200322360646535,0.0,0.0,1.759393896763253
 district_heat_pump,investLifetimeExtension,[1e9 Euro],0,0,0,0,0
 district_heat_pump,isBuilt,[-],,,,,
-district_heat_pump,operation,[kW*h],0.0,978309389.883399,0.0,0.0,73673448.9012046
-district_heat_pump,operation_annual,[kW*h/a],0.0,71416585461.48813,0.0,0.0,5378161769.787936
+district_heat_pump,operation,[kW*h],0.0,978309389.883399,0.0,0.0,73673448.90120462
+district_heat_pump,operation_annual,[kW*h/a],0.0,71416585461.48813,0.0,0.0,5378161769.787937
 district_heat_pump,opexCap,[1e9 Euro/a],0.0,0.25800483540969804,0.0,0.0,0.026390908451448793
 district_heat_pump,opexIfBuilt,[1e9 Euro/a],,,,,
 district_heat_pump,opexOp,[1e9 Euro/a],0.0,0.0,0.0,0.0,0.0

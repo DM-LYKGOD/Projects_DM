@@ -437,31 +437,60 @@ def extract_fine_metrics(esM, epsilon, objective_type, sa_matrix=None):
     total_gas_consumed_mwh = (gas_gen_kwh / 1000.0) / EFFICIENCY["gas_boiler"]
     co2_direct_mt = total_gas_consumed_mwh * CO2_EMISSIONS["gas"] / 1e6
 
-    # 5. Total system cost
-    total_cost = float(esM.pyM.Obj())  # In 1e9 Euro (FINE's costUnit)
-    total_cost_billion = total_cost  # Already in billion EUR
-
-    # 6. Per-archetype cost allocation
+    # 5. Total system cost (True financial cost, not the modified objective)
+    from src.config import CAPEX, FOM, LIFETIME, CARRIER_COSTS, CO2_PRICE_2045, get_annuity
+    
+    true_total_cost_billion = 0.0
     cost_by_archetype = {}
+    
     for a in ARCHETYPES:
         arch_cost = 0.0
+        
+        # 1. True CAPEX and OPEX for technologies
         for fine_name, tech in fine_to_tech.items():
-            try:
-                tac = float(conv_summary.loc[(fine_name, "TAC", "[1e9 Euro/a]"), a])
-                arch_cost += tac
-            except (KeyError, TypeError):
-                pass
-        try:
-            tes_tac = float(stor_summary.loc[("thermal_storage", "TAC", "[1e9 Euro/a]"), a])
-            arch_cost += tes_tac
-        except (KeyError, TypeError):
-            pass
+            cap_gw = capacities.get(f"cap_{tech}_{a}_mw", 0.0) / 1000.0
+            if cap_gw > 0:
+                annuity = get_annuity(CAPEX[tech], LIFETIME[tech])
+                fom = CAPEX[tech] * FOM[tech]
+                arch_cost += (annuity + fom) * cap_gw * 1000.0 / 1e9  # EUR to Billion EUR
+                
+        # 2. TES True CAPEX and OPEX
+        tes_gwh = capacities.get(f"cap_tes_{a}_mwh", 0.0) / 1000.0
+        if tes_gwh > 0:
+            tes_annuity = get_annuity(30.0, 20)  # 30 EUR/kWh, 20 years
+            tes_fom = 30.0 * 0.01
+            arch_cost += (tes_annuity + tes_fom) * tes_gwh * 1e6 * 1000.0 / 1e9 # 30 EUR/kWh -> 30,000 EUR/MWh -> 30M EUR/GWh
+            
+        # 3. Fuel Costs
+        for fine_name, tech in fine_to_tech.items():
+            gen_twh = shares.get(f"gen_{tech}_{a}_twh", 0.0)
+            if gen_twh > 0:
+                if tech == "gas_boiler":
+                    fuel_cost = (CARRIER_COSTS["gas"] + CO2_EMISSIONS["gas"] * CO2_PRICE_2045)
+                    efficiency = EFFICIENCY["gas_boiler"]
+                    consumed_twh = gen_twh / efficiency
+                    arch_cost += consumed_twh * fuel_cost / 1e6  # EUR/MWh * 1e6 MWh/TWh = EUR -> Billion EUR
+                elif tech == "h2_boiler":
+                    fuel_cost = CARRIER_COSTS["hydrogen"]
+                    consumed_twh = gen_twh / EFFICIENCY["h2_boiler"]
+                    arch_cost += consumed_twh * fuel_cost / 1e6
+                elif tech == "biomass_boiler":
+                    fuel_cost = CARRIER_COSTS["biomass"]
+                    consumed_twh = gen_twh / EFFICIENCY["biomass_boiler"]
+                    arch_cost += consumed_twh * fuel_cost / 1e6
+                elif tech in ["air_hp", "dh_large_hp"]:
+                    fuel_cost = CARRIER_COSTS["electricity"]
+                    cop = 3.0 if tech == "air_hp" else 3.2
+                    consumed_twh = gen_twh / cop
+                    arch_cost += consumed_twh * fuel_cost / 1e6
+                    
         cost_by_archetype[f"cost_{a}_billion"] = arch_cost
+        true_total_cost_billion += arch_cost
 
     metrics = {
         "epsilon": epsilon,
         "objective_type": objective_type,
-        "system_cost_billion": total_cost_billion,
+        "system_cost_billion": true_total_cost_billion,
         "social_acceptance_index": ssa_score,
         "co2_emissions_mt": co2_direct_mt,
         "total_heat_generation_twh": total_heat_twh,

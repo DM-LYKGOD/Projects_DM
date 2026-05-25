@@ -24,6 +24,8 @@ Using K-Means clustering on empirical district-level data, the 400 German Kreise
 
 ![Empirical Geographic Map of Germany (NUTS3)](results/german_nuts3_map.png)
 
+![Archetype Climate Variations (HDD & Temp)](results/kreise_climate_boxplots.png)
+
 ### Archetype Summary
 
 | Archetype | Count | Heat Share | DH Premium | Mean Temp | HDD |
@@ -38,11 +40,13 @@ Using K-Means clustering on empirical district-level data, the 400 German Kreise
 
 ## ⚖️ The Social Feasibility Frontier
 
-Traditional models stop at the absolute cost minimum. This framework leverages the **MGA (Modelling to Generate Alternatives)** algorithm inside ETHOS.FINE to relax the cost objective slightly (e.g., +2.5% to +10%) and heavily maximize a proxy index for **Social Acceptance**.
+Traditional models stop at the absolute cost minimum. This framework leverages the **MGA (Modelling to Generate Alternatives)** algorithm inside ETHOS.FINE to relax the cost objective slightly (e.g., +1% to +10%) and heavily maximize a proxy index for **Social Acceptance**.
 
-> **Key Insight:** The socially optimal pathway costs **-2.5%** more than the pure cost-optimum, but achieves **2.4** additional units of social acceptance. This defines the "price of social feasibility" for German heat decarbonization.
+> **Key Insight:** The socially optimal pathway costs just **~1%** more (+€260M) than the pure cost-optimum (€25.27B), but achieves a substantial structural shift in social acceptance, replacing unpopular fossil lock-in with highly accepted biomass and specialized district solutions in sensitive archetypes.
 
 
+
+![Archetype Acceptance Matrix Heatmap](results/acceptance_heatmap.png)
 
 ### Feature-Driven Acceptance Matrix
 The acceptance parameters used to generate the frontier are mapped from 9 real-world features (renewable heating share, air quality, GDP, rurality, etc.):
@@ -60,6 +64,11 @@ The acceptance parameters used to generate the frontier are mapped from 9 real-w
 ## 📊 Techno-Economic & Emission Results
 
 The pipeline generates comprehensive decompositions of system costs, capacity mix variations, and emission waterfalls.
+
+### Empirical Validation
+The transition from synthetic sinusoids to real ERA5-based non-linear thermal mass dynamics captures the true intra-day peaking behavior.
+
+![Empirical BDEW Profiles vs Synthetic Limits](results/empirical_vs_synthetic.png)
 
 ### Cost Decomposition
 Transitioning from fossil-heavy baselines to electrified/district systems shifts OPEX (fuel) heavily into CAPEX (equipment/infrastructure).
