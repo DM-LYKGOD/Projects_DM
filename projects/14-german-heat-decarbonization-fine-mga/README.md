@@ -42,7 +42,7 @@ Traditional models stop at the absolute cost minimum. This framework leverages t
 
 > **Key Insight:** The socially optimal pathway costs **-2.5%** more than the pure cost-optimum, but achieves **2.4** additional units of social acceptance. This defines the "price of social feasibility" for German heat decarbonization.
 
-![Social Feasibility Frontier](results/social_feasibility_frontier.png)
+
 
 ### Feature-Driven Acceptance Matrix
 The acceptance parameters used to generate the frontier are mapped from 9 real-world features (renewable heating share, air quality, GDP, rurality, etc.):
@@ -64,12 +64,12 @@ The pipeline generates comprehensive decompositions of system costs, capacity mi
 ### Cost Decomposition
 Transitioning from fossil-heavy baselines to electrified/district systems shifts OPEX (fuel) heavily into CAPEX (equipment/infrastructure).
 
-![Cost Decomposition](results/cost_decomposition.png)
+
 
 ### Emissions Waterfall
 Tracing the marginal emission abatement step-by-step from the baseline to the 2045 optimized target state.
 
-![Emissions Waterfall](results/emissions_waterfall.png)
+
 
 ---
 
