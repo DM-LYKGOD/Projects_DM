@@ -16,6 +16,12 @@ By moving beyond simple "cost-optimal" system designs, this pipeline quantifies 
 3. **Infrastructural Reality:** Official German standard load profiles (BDEW) generated via `demandlib` to capture non-linear thermal mass dynamics.
 4. **Social Acceptance:** A bespoke ML-derived acceptance matrix mapping empirical features (e.g., density, fossil fleet, GDP, PM2.5) to penalty/bonus constraints in the optimization solver.
 
+### 💡 Key Insights
+* **The "Price" of Social Acceptance is Negligible:** Shifting from a mathematically "cost-optimal" system to a "highly socially accepted" system increases the massive €25.3B annual heating cost by barely ~1%. 
+* **Complete Gas Eradication by 2045:** At projected 2045 carbon prices (€180/tCO2), strict optimization chooses to build **zero** fossil gas boilers, relying entirely on a mix of District Heating and Air-Source Heat Pumps. 
+* **Indirect Grid Emissions Remain:** Even with complete electrification of heat (0 Mt Direct CO2), the massive 450 TWh thermal demand places immense strain on the grid, resulting in ~15.9 Mt of residual indirect emissions from electricity generation.
+* **Geographic Reality Drives Technology Choice:** Dense metropolitan districts heavily favor District Heating (despite lower public acceptance) due to spatial constraints, while sprawling rural districts are dominated by decentralized Air-Source Heat Pumps and Biomass.
+
 ---
 
 ## 🗺️ Spatial Archetype Clustering
