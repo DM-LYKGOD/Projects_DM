@@ -44,7 +44,7 @@ Traditional models stop at the absolute cost minimum. This framework leverages t
 
 > **Key Insight:** The socially optimal pathway costs just **~1%** more (+€260M) than the pure cost-optimum (€25.27B), but achieves a substantial structural shift in social acceptance, replacing unpopular fossil lock-in with highly accepted biomass and specialized district solutions in sensitive archetypes.
 
-
+![Social Feasibility Frontier](results/social_feasibility_frontier.png)
 
 ![Archetype Acceptance Matrix Heatmap](results/acceptance_heatmap.png)
 
@@ -73,12 +73,12 @@ The transition from synthetic sinusoids to real ERA5-based non-linear thermal ma
 ### Cost Decomposition
 Transitioning from fossil-heavy baselines to electrified/district systems shifts OPEX (fuel) heavily into CAPEX (equipment/infrastructure).
 
-
+![Cost Decomposition](results/cost_decomposition.png)
 
 ### Emissions Waterfall
 Tracing the marginal emission abatement step-by-step from the baseline to the 2045 optimized target state.
 
-
+![Emissions Waterfall](results/emissions_waterfall.png)
 
 ---
 
