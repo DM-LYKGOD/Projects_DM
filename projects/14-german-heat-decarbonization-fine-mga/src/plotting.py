@@ -66,22 +66,46 @@ def plot_pareto_frontier(df, output_path=None):
     """
     fig, ax = plt.subplots(figsize=(9, 6.5), dpi=150)
     
-    max_pts = df[df["objective_type"] == "max_acceptance"].sort_values("system_cost_billion")
-    min_pts = df[df["objective_type"] == "min_acceptance"].sort_values("system_cost_billion")
-    base_pt = df[df["objective_type"] == "cost_optimal"].iloc[0]
+    # Extract Pareto-dominant points for Max Acceptance
+    max_candidates = df[df["objective_type"].isin(["max_acceptance", "cost_optimal_exogenous"])].sort_values("system_cost_billion")
+    pareto_max_x = []
+    pareto_max_y = []
+    pareto_max_eps = []
+    current_max_acc = -np.inf
     
-    all_x = pd.concat([max_pts["system_cost_billion"], min_pts["system_cost_billion"].iloc[::-1]])
-    all_y = pd.concat([max_pts["social_acceptance_index"], min_pts["social_acceptance_index"].iloc[::-1]])
+    for idx, row in max_candidates.iterrows():
+        if row["social_acceptance_index"] > current_max_acc:
+            pareto_max_x.append(row["system_cost_billion"])
+            pareto_max_y.append(row["social_acceptance_index"])
+            pareto_max_eps.append(row["epsilon"])
+            current_max_acc = row["social_acceptance_index"]
+            
+    # Extract Pareto-dominant points for Min Acceptance (worst case)
+    min_candidates = df[df["objective_type"].isin(["min_acceptance", "cost_optimal_exogenous"])].sort_values("system_cost_billion")
+    pareto_min_x = []
+    pareto_min_y = []
+    current_min_acc = np.inf
+    
+    for idx, row in min_candidates.iterrows():
+        if row["social_acceptance_index"] < current_min_acc:
+            pareto_min_x.append(row["system_cost_billion"])
+            pareto_min_y.append(row["social_acceptance_index"])
+            current_min_acc = row["social_acceptance_index"]
+            
+    base_pt = df[df["objective_type"] == "cost_optimal_exogenous"].iloc[0]
+    
+    all_x = pareto_max_x + pareto_min_x[::-1]
+    all_y = pareto_max_y + pareto_min_y[::-1]
     
     # Fill feasibility space
     ax.fill(all_x, all_y, color="#c084fc", alpha=0.15, label="Socio-Technical Flexibility Space")
     
     # Plot curves
-    ax.plot(max_pts["system_cost_billion"], max_pts["social_acceptance_index"],
+    ax.plot(pareto_max_x, pareto_max_y,
             color="#8b5cf6", linestyle="-", linewidth=2.5, marker="o", markersize=6,
             label="Social Feasibility Frontier (Max)")
             
-    ax.plot(min_pts["system_cost_billion"], min_pts["social_acceptance_index"],
+    ax.plot(pareto_min_x, pareto_min_y,
             color="#64748b", linestyle="--", linewidth=1.5, marker="v", markersize=5,
             label="Worst Social Case (Min)")
             
@@ -91,12 +115,13 @@ def plot_pareto_frontier(df, output_path=None):
                label="Cost-Optimal Baseline (ε = 0%)")
                
     # Annotate points
-    for idx, row in max_pts.iterrows():
-        eps_pct = int(row["epsilon"] * 100)
-        ax.annotate(f"ε={eps_pct}%",
-                    xy=(row["system_cost_billion"], row["social_acceptance_index"]),
-                    xytext=(8, -3), textcoords="offset points",
-                    fontsize=9, weight="600", color="#7c3aed")
+    for x, y, eps in zip(pareto_max_x, pareto_max_y, pareto_max_eps):
+        if eps > 0:
+            eps_pct = int(eps * 100)
+            ax.annotate(f"ε={eps_pct}%",
+                        xy=(x, y),
+                        xytext=(8, -3), textcoords="offset points",
+                        fontsize=9, weight="600", color="#7c3aed")
                     
     ax.set_title("Cost-Acceptance Pareto Frontier (Germany 2045)", fontsize=14, weight="700", pad=15)
     ax.set_xlabel("Annual Heat System Cost [Billion EUR / year]", fontsize=11, labelpad=10)
@@ -106,6 +131,7 @@ def plot_pareto_frontier(df, output_path=None):
     ax.tick_params(colors="#475569", labelsize=10)
     
     if output_path:
+        plt.tight_layout()
         plt.savefig(output_path, bbox_inches="tight")
         plt.close(fig)
     else:
@@ -505,7 +531,7 @@ def plot_cost_decomposition_sunburst(metrics_dict, output_path=None):
             from src.config import CAPEX as CAPEX_DICT, LIFETIME as LIFETIME_DICT, FOM as FOM_DICT, get_annuity as _annuity
             ann = _annuity(CAPEX_DICT[t], LIFETIME_DICT[t])
             fom = CAPEX_DICT[t] * FOM_DICT[t]
-            capex_by_tech[t] = (ann + fom) * cap_gw * 1000 / 1e9  # Billion EUR
+            capex_by_tech[t] = (ann + fom) * cap_gw * 1e-3  # Billion EUR
         else:
             capex_by_tech[t] = 0.0
     

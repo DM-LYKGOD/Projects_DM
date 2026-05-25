@@ -674,7 +674,7 @@ def compute_indirect_emissions(esM, data_df):
             # Electricity consumed = heat output / COP
             cop = 3.0 if "air" in fine_name else 3.2
             elec_kwh = gen_kwh / cop
-            co2_mt = elec_kwh * avg_grid_co2 / 1e9  # kWh * gCO2/kWh / 1e9 = MtCO2
+            co2_mt = elec_kwh * avg_grid_co2 / 1e12  # kWh * gCO2/kWh / 1e12 = MtCO2
             arch_indirect += co2_mt
         result[f"co2_indirect_{a}_mt"] = arch_indirect
         total_indirect += arch_indirect
