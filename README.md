@@ -17,8 +17,8 @@ projects/
   09-phytoplankton-density-prediction/
   10-carbon-budget-cdr-modeling/
   11-cement-emissions-analysis/
-  12-ESM-P1-MGA/
   13-hisim-practice-task/
+  14-german-heat-decarbonization-fine-mga/
 ```
 
 ## Portfolio Highlights
@@ -34,6 +34,7 @@ projects/
 
 ## Project Index
 
+<<<<<<< HEAD
 | # | Project | Category | Focus Area | Stack | Entry Point |
 |---|---------|----------|------------|-------|-------------|
 | 01 | [Lake Eutrophication Model](projects/01-lake-eutrophication-model/README.md) | Environmental Modeling | Lake nutrient and food-web dynamics | R, deSolve, ggplot2 | `src/lake_eutrophication_model.R` |
@@ -49,6 +50,7 @@ projects/
 | 11 | [Cement Emissions Analysis](projects/11-cement-emissions-analysis/README.md) | Environmental Modeling | Regional cement-sector PM2.5/NO2 regression and clustering | Python, pandas, scikit-learn, DBSCAN | `src/pollution_regression_analysis.py` |
 | 12 | [ESM-P1-MGA](projects/12-ESM-P1-MGA/README.md) | Energy Modeling | Germany cement-energy system with MGA near-optimal alternatives | Python, pypsa, geopandas, ERA5 | `ESM_P1_MGA_Standalone.ipynb` |
 | 13 | [HiSim Practice Task](projects/13-hisim-practice-task/README.md) | Energy Modeling | Fork of ETHOS.HiSim for household energy simulation practice | Python, hisim | `hisim/` |
+| 14 | [German Heat Decarbonization FINE-MGA](projects/14-german-heat-decarbonization-fine-mga/README.md) | Energy Modeling | Spatially-differentiated German heat sector decarbonization using ETHOS.FINE and empirical acceptance constraints | Python, fine, demandlib, openmeteo | `verify_model.py` |
 
 ## Featured Project: ESM-P1-MGA
 
