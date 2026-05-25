@@ -1,4 +1,4 @@
-"""
+﻿"""
 Visualization module containing plotting routines for publication-ready figures:
 1. Social Feasibility Frontier (Cost-Acceptance Pareto Curve)
 2. Capacity & Generation Stacked Bar Charts across slacks
@@ -271,7 +271,7 @@ def plot_co2_marginal_abatement_curve(co2_df, output_path=None):
                      xytext=(5, 10), textcoords="offset points",
                      fontsize=9, weight="600", color="#5b21b6")
     
-    ax1.set_xlabel("CO₂ Emission Cap [MtCO₂]", fontsize=11, labelpad=10)
+    ax1.set_xlabel("CO2 Emission Cap [MtCO2]", fontsize=11, labelpad=10)
     ax1.set_ylabel("Annual System Cost [Billion EUR/yr]", fontsize=11, labelpad=10)
     ax1.set_title("System Cost vs Carbon Stringency", fontsize=13, weight="700", pad=15)
     ax1.tick_params(colors="#475569", labelsize=10)
@@ -300,9 +300,9 @@ def plot_co2_marginal_abatement_curve(co2_df, output_path=None):
                          xytext=(0, 5), textcoords="offset points",
                          ha="center", fontsize=9, weight="600", color="#334155")
         
-        ax2.set_xlabel("CO₂ Cap Transition", fontsize=11, labelpad=10)
-        ax2.set_ylabel("Marginal Abatement Cost [EUR/tCO₂]", fontsize=11, labelpad=10)
-        ax2.set_title("Marginal Cost of CO₂ Reduction", fontsize=13, weight="700", pad=15)
+        ax2.set_xlabel("CO2 Cap Transition", fontsize=11, labelpad=10)
+        ax2.set_ylabel("Marginal Abatement Cost [EUR/tCO2]", fontsize=11, labelpad=10)
+        ax2.set_title("Marginal Cost of CO2 Reduction", fontsize=13, weight="700", pad=15)
         ax2.tick_params(colors="#475569", labelsize=10)
     
     plt.tight_layout(w_pad=4)
@@ -396,7 +396,7 @@ def plot_retrofit_impact_comparison(retrofit_df, output_path=None):
     for i, v in enumerate(df["co2_emissions_mt"]):
         ax.annotate(f"{v:.2f}", xy=(i, v), xytext=(0, 4), textcoords="offset points",
                     ha="center", fontsize=10, weight="600", color="#991b1b")
-    ax.set_ylabel("Direct CO₂ [MtCO₂]", fontsize=10, labelpad=8)
+    ax.set_ylabel("Direct CO2 [MtCO2]", fontsize=10, labelpad=8)
     ax.set_title("Carbon Emissions", fontsize=12, weight="700", pad=10)
     ax.set_xticks(x)
     ax.set_xticklabels([s.replace("_", "\n") for s in scenarios], fontsize=9)
@@ -502,8 +502,8 @@ def plot_emissions_waterfall(direct_co2_mt, indirect_co2_mt, output_path=None):
                     xytext=(0, 8), textcoords="offset points",
                     ha="center", fontsize=11, weight="700", color=colors[i])
     
-    ax.set_title("Lifecycle CO₂ Emissions Decomposition", fontsize=14, weight="700", pad=15)
-    ax.set_ylabel("CO₂ Emissions [MtCO₂]", fontsize=11, labelpad=10)
+    ax.set_title("Lifecycle CO2 Emissions Decomposition", fontsize=14, weight="700", pad=15)
+    ax.set_ylabel("CO2 Emissions [MtCO2]", fontsize=11, labelpad=10)
     ax.tick_params(colors="#475569", labelsize=10)
     ax.set_ylim(0, total * 1.3)
     
